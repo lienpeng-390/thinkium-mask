@@ -32,7 +32,7 @@ export const KOVAN_DISPLAY_NAME = 'Kovan';
 export const MAINNET_DISPLAY_NAME = 'Ethereum Mainnet';
 export const GOERLI_DISPLAY_NAME = 'Goerli';
 export const THINKIUM1_DISPLAY_NAME = 'Thinkium1';
-export const TKM_SYMBOL = 'ETH';
+export const TKM_SYMBOL = 'TKM';
 export const ETH_SYMBOL = 'ETH';
 export const TEST_ETH_SYMBOL = 'TESTETH';
 export const BNB_SYMBOL = 'BNB';
@@ -96,6 +96,7 @@ export const NATIVE_CURRENCY_TOKEN_IMAGE_MAP = {
   [ETH_SYMBOL]: ETH_TOKEN_IMAGE_URL,
   [TEST_ETH_SYMBOL]: TEST_ETH_TOKEN_IMAGE_URL,
   [BNB_SYMBOL]: BNB_TOKEN_IMAGE_URL,
+  [TKM_SYMBOL]: TKM_TOKEN_IMAGE_URL,
 };
 
 export const INFURA_BLOCKED_KEY = 'countryBlocked';

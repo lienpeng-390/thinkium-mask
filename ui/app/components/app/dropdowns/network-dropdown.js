@@ -119,7 +119,6 @@ class NetworkDropdown extends Component {
   }
 
   renderCustomRpcList(rpcListDetail, provider) {
-    console.log(rpcListDetail, provider, 88888888)
     const reversedRpcListDetail = rpcListDetail.slice();
 
     return reversedRpcListDetail.map((entry) => {

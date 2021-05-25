@@ -927,7 +927,13 @@
     "message": "以太坊 Ethereum 主网络"
   },
   "thinkium1": {
-    "message": "thinkium1网络"
+    "message": "Thinkium1 网络"
+  },
+  "thinkium2": {
+    "message": "Thinkium2 网络"
+  },
+  "thinkium3": {
+    "message": "Thinkium103 网络"
   },
   "max": {
     "message": "最大"
