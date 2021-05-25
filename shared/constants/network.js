@@ -40,7 +40,7 @@ export const BNB_SYMBOL = 'BNB';
 export const ETH_TOKEN_IMAGE_URL = './images/eth_logo.svg';
 export const TEST_ETH_TOKEN_IMAGE_URL = './images/black-eth-logo.svg';
 export const BNB_TOKEN_IMAGE_URL = './images/bnb.png';
-export const TKM_TOKEN_IMAGE_URL = './images/eth_logo.svg'
+export const TKM_TOKEN_IMAGE_URL = './images/thk_logo.png'
 export const INFURA_PROVIDER_TYPES = [ROPSTEN, RINKEBY, KOVAN, MAINNET, GOERLI];
 
 export const TEST_CHAINS = [
