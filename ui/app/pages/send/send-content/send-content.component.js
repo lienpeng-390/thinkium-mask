@@ -6,8 +6,8 @@ import SendAmountRow from './send-amount-row';
 import SendGasRow from './send-gas-row';
 import SendHexDataRow from './send-hex-data-row';
 import SendAssetRow from './send-asset-row';
-
-export default class SendContent extends Component {
+import { connect } from 'react-redux'
+class SendContent extends Component {
   static contextTypes = {
     t: PropTypes.func,
   };
@@ -26,7 +26,7 @@ export default class SendContent extends Component {
   updateGas = (updateData) => this.props.updateGas(updateData);
 
   render() {
-    const { warning, error, gasIsExcessive } = this.props;
+    const { warning, error, gasIsExcessive, nativeCurrency } = this.props;
     return (
       <PageContainerContent>
         <div className="send-v2__form">
@@ -36,7 +36,7 @@ export default class SendContent extends Component {
           {this.maybeRenderAddContact()}
           <SendAssetRow />
           <SendAmountRow updateGas={this.updateGas} />
-          <SendGasRow />
+          {nativeCurrency != 'TKM' && <SendGasRow />}
           {this.props.showHexData && (
             <SendHexDataRow updateGas={this.updateGas} />
           )}
@@ -90,3 +90,4 @@ export default class SendContent extends Component {
     );
   }
 }
+export default connect((state) => ({ nativeCurrency: state.metamask.nativeCurrency }))(SendContent)

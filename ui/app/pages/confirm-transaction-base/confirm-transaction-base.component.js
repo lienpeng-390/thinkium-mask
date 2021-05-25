@@ -24,7 +24,6 @@ import {
 } from '../../../../shared/constants/transaction';
 import { getTransactionCategoryTitle } from '../../helpers/utils/transactions.util';
 import { connect } from 'react-redux'
-import console from 'console';
  class ConfirmTransactionBase extends Component {
   static contextTypes = {
     t: PropTypes.func,
@@ -650,7 +649,6 @@ import console from 'console';
   }
 
   render() {
-    console.log(this.props, 99999999)
     const { t } = this.context;
     const {
       isTxReprice,
