@@ -120,7 +120,7 @@ class NetworkDropdown extends Component {
 
   renderCustomRpcList(rpcListDetail, provider) {
     console.log(rpcListDetail, provider, 88888888)
-    const reversedRpcListDetail = rpcListDetail.slice().reverse();
+    const reversedRpcListDetail = rpcListDetail.slice();
 
     return reversedRpcListDetail.map((entry) => {
       const { rpcUrl, chainId, ticker = 'ETH', nickname = '' } = entry;
@@ -163,7 +163,7 @@ class NetworkDropdown extends Component {
           >
             {this.context.t(nickname) || nickname || rpcUrl}
           </span>
-          {isCurrentRpcTarget ? null : (
+          {isCurrentRpcTarget || ticker == 'TKM' ? null : (
             <i
               className="fa fa-times delete"
               onClick={(e) => {

@@ -69,11 +69,11 @@ function transformState(state = {}) {
     nickname: 'Localhost 8545',
     rpcPrefs: {},
   });
-  state.PreferencesController.frequentRpcListDetail.push({
+  state.PreferencesController.frequentRpcListDetail.unshift({
     rpcUrl: 'http://rpctest1.thinkium.org/',
-    chainId: '"0x2711"',
+    chainId: '0x2711',
     ticker: 'TKM',
-    nickname: '"thinkium1"',
+    nickname: 'thinkium1',
     rpcPrefs: {},
   });
   // 4.  Delete CachedBalancesController.cachedBalances

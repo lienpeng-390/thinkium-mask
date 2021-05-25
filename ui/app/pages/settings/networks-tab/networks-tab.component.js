@@ -123,8 +123,8 @@ export default class NetworksTab extends PureComponent {
               !displayNetworkListItemAsSelected,
           })}
         >
-          {label || this.context.t(labelKey)}
-          {currentProviderType !== NETWORK_TYPE_RPC && (
+          {this.context.t(label) || label || this.context.t(labelKey)}
+          {(currentProviderType !== NETWORK_TYPE_RPC || label.includes('thinkium')) && (
             <LockIcon width="14px" height="17px" fill="#cdcdcd" />
           )}
         </div>

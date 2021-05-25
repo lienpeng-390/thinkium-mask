@@ -43,6 +43,7 @@ const mapStateToProps = (state, ownProps) => {
       chainId: rpc.chainId,
       ticker: rpc.ticker,
       blockExplorerUrl: rpc.rpcPrefs?.blockExplorerUrl || '',
+      viewOnly: rpc.nickname.includes('thinkium'),
     };
   });
 
