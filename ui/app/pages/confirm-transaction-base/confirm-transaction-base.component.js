@@ -23,8 +23,9 @@ import {
   TRANSACTION_STATUSES,
 } from '../../../../shared/constants/transaction';
 import { getTransactionCategoryTitle } from '../../helpers/utils/transactions.util';
-
-export default class ConfirmTransactionBase extends Component {
+import { connect } from 'react-redux'
+import console from 'console';
+ class ConfirmTransactionBase extends Component {
   static contextTypes = {
     t: PropTypes.func,
     metricsEvent: PropTypes.func,
@@ -243,10 +244,11 @@ export default class ConfirmTransactionBase extends Component {
       nextNonce,
       getNextNonce,
       isMainnet,
+      nativeCurrency,
     } = this.props;
 
     const notMainnetOrTest = !(isMainnet || process.env.IN_TEST);
-
+    
     return (
       <div className="confirm-page-container-content__details">
         <div className="confirm-page-container-content__gas-fee">
@@ -264,7 +266,7 @@ export default class ConfirmTransactionBase extends Component {
                 : ''
             }
           />
-          {advancedInlineGasShown || notMainnetOrTest ? (
+          {(advancedInlineGasShown || notMainnetOrTest && nativeCurrency != 'TKM' ) ? (
             <AdvancedGasInputs
               updateCustomGasPrice={(newGasPrice) =>
                 updateGasAndCalculate({ ...customGas, gasPrice: newGasPrice })
@@ -648,6 +650,7 @@ export default class ConfirmTransactionBase extends Component {
   }
 
   render() {
+    console.log(this.props, 99999999)
     const { t } = this.context;
     const {
       isTxReprice,
@@ -754,3 +757,5 @@ export function getMethodName(camelCase) {
     .replace(/([A-Z])([a-z])/gu, ' $1$2')
     .replace(/ +/gu, ' ');
 }
+
+export default connect((state) => ({ nativeCurrency: state.metamask.nativeCurrency }))(ConfirmTransactionBase)
