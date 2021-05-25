@@ -17,8 +17,9 @@ const inpageContent = fs.readFileSync(
 const inpageSuffix = `//# sourceURL=${extension.runtime.getURL('inpage.js')}\n`;
 const inpageBundle = inpageContent + inpageSuffix;
 
-const CONTENT_SCRIPT = 'metamask-contentscript';
-const INPAGE = 'metamask-inpage';
+
+const CONTENT_SCRIPT = 'thinkium-contentscript';
+const INPAGE = 'thinkium-inpage';
 const PROVIDER = 'metamask-provider';
 
 // TODO:LegacyProvider: Delete
