@@ -6,6 +6,7 @@ import {
   subtractCurrencies,
 } from './conversion-util';
 import { formatCurrency } from './confirm-tx.util';
+import console, { Console } from 'console';
 
 export function bnToHex(inputBn) {
   return addHexPrefix(inputBn.toString(16));
@@ -30,7 +31,12 @@ export function getEthConversionFromWeiHex({
   fromCurrency = ETH,
   conversionRate,
   numberOfDecimals = 6,
+  nativeCurrency,
 }) {
+  if(nativeCurrency == 'TKM')  {
+    fromCurrency = 'TKM'
+  }
+  console.log(nativeCurrency, fromCurrency, 88888)
   const denominations = [fromCurrency, GWEI, WEI];
 
   let nonZeroDenomination;
@@ -50,7 +56,6 @@ export function getEthConversionFromWeiHex({
       break;
     }
   }
-
   return nonZeroDenomination;
 }
 

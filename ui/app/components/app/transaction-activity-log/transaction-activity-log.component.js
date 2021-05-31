@@ -94,6 +94,7 @@ export default class TransactionActivityLog extends PureComponent {
             fromCurrency: 'ETH',
             conversionRate,
             numberOfDecimals: 3,
+            nativeCurrency,
           });
     const formattedTimestamp = formatDate(timestamp, "T 'on' M/d/y");
     const activityText = this.context.t(eventKey, [
@@ -111,7 +112,7 @@ export default class TransactionActivityLog extends PureComponent {
           <div
             className="transaction-activity-log__activity-text"
             title={activityText}
-            onClick={() => this.handleActivityClick(activity)}
+            // onClick={() => this.handleActivityClick(activity)}
           >
             {activityText}
           </div>

@@ -26,6 +26,9 @@ export function transactionMatchesNetwork(transaction, chainId, networkId) {
  */
 export function getBlockExplorerUrlForTx(transaction, rpcPrefs = {}) {
   if (rpcPrefs.blockExplorerUrl) {
+    if(rpcPrefs.blockExplorerUrl.includes('thinkium')) {
+      return `${rpcPrefs.blockExplorerUrl}/tradeDetail?chainId=${parseInt(transaction.chainId)-10000}&hash=${transaction.hash}`
+    }
     return `${rpcPrefs.blockExplorerUrl.replace(/\/+$/u, '')}/tx/${
       transaction.hash
     }`;
