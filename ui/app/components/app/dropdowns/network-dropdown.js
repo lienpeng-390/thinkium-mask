@@ -281,13 +281,14 @@ class NetworkDropdown extends Component {
             {this.context.t('defaultNetwork')}
           </div>
         </div>
+        
+
+        {this.renderCustomRpcList(rpcListDetail, this.props.provider)}
         {this.renderNetworkEntry('mainnet')}
         {this.renderNetworkEntry('ropsten')}
         {this.renderNetworkEntry('kovan')}
         {this.renderNetworkEntry('rinkeby')}
         {this.renderNetworkEntry('goerli')}
-
-        {this.renderCustomRpcList(rpcListDetail, this.props.provider)}
         <DropdownMenuItem
           closeMenu={() => this.props.hideNetworkDropdown()}
           onClick={() => {

@@ -18,6 +18,7 @@ import {
   MAINNET_CHAIN_ID,
   RINKEBY_CHAIN_ID,
   INFURA_BLOCKED_KEY,
+  THINKIUM1_CHAIN_ID,
 } from '../../../../shared/constants/network';
 import {
   isPrefixedFormattedHexString,
@@ -40,9 +41,21 @@ if (process.env.IN_TEST === 'true') {
     nickname: 'Localhost 8545',
   };
 } else if (process.env.METAMASK_DEBUG || env === 'test') {
-  defaultProviderConfigOpts = { type: RINKEBY, chainId: RINKEBY_CHAIN_ID };
+  defaultProviderConfigOpts = { 
+    type: NETWORK_TYPE_RPC, 
+    rpcUrl: 'http://rpctest1.thinkium.org/', 
+    chainId: THINKIUM1_CHAIN_ID, 
+    ticker: 'TKM',
+    nickname: 'thinkium1',
+  };
 } else {
-  defaultProviderConfigOpts = { type: MAINNET, chainId: MAINNET_CHAIN_ID };
+  defaultProviderConfigOpts = { 
+    type: NETWORK_TYPE_RPC, 
+    chainId: THINKIUM1_CHAIN_ID, 
+    rpcUrl: 'http://rpctest1.thinkium.org/', 
+    ticker: 'TKM',
+    nickname: 'thinkium1',
+  };
 }
 
 const defaultProviderConfig = {
