@@ -16,21 +16,27 @@ const initialState = {
         chainId: '0x2711',
         ticker: 'TKM',
         nickname: 'thinkium1',
-        rpcPrefs: {},
+        rpcPrefs: {
+          blockExplorerUrl: 'https://browser.thinkium.io/#/'
+        },
       },
       {
         rpcUrl: 'http://rpctest2.thinkium.org/',
         chainId: '0x2712',
         ticker: 'TKM',
         nickname: 'thinkium2',
-        rpcPrefs: {},
+        rpcPrefs: {
+          blockExplorerUrl: 'https://browser.thinkium.io/#/'
+        },
       },
       {
         rpcUrl: 'http://rpctest3.thinkium.org/',
         chainId: '0x2777',
         ticker: 'TKM',
         nickname: 'thinkium3',
-        rpcPrefs: {},
+        rpcPrefs: {
+          blockExplorerUrl: 'https://browser.thinkium.io/#/'
+        },
       },
       {
         rpcUrl: 'http://localhost:8545',
