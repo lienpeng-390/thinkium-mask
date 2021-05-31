@@ -173,6 +173,7 @@ export default class MetamaskController extends EventEmitter {
       preferences: this.preferencesController.store,
       getNativeCurrency: () => {
         const { ticker } = this.networkController.getProviderConfig();
+        log.warn(ticker, 9999999)
         return ticker ?? 'ETH';
       },
     });

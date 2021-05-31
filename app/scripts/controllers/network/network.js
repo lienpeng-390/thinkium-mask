@@ -45,7 +45,6 @@ if (process.env.IN_TEST === 'true') {
     type: NETWORK_TYPE_RPC, 
     rpcUrl: 'http://rpctest1.thinkium.org/', 
     chainId: THINKIUM1_CHAIN_ID, 
-    ticker: 'TKM',
     nickname: 'thinkium1',
   };
 } else {
@@ -53,13 +52,12 @@ if (process.env.IN_TEST === 'true') {
     type: NETWORK_TYPE_RPC, 
     chainId: THINKIUM1_CHAIN_ID, 
     rpcUrl: 'http://rpctest1.thinkium.org/', 
-    ticker: 'TKM',
     nickname: 'thinkium1',
   };
 }
 
 const defaultProviderConfig = {
-  ticker: 'ETH',
+  ticker: 'TKM',
   ...defaultProviderConfigOpts,
 };
 
@@ -199,7 +197,7 @@ export default class NetworkController extends EventEmitter {
     return NETWORK_TYPE_TO_ID_MAP[type]?.chainId || configChainId;
   }
 
-  setRpcTarget(rpcUrl, chainId, ticker = 'ETH', nickname = '', rpcPrefs) {
+  setRpcTarget(rpcUrl, chainId, ticker = 'TKM', nickname = '', rpcPrefs) {
     assert.ok(
       isPrefixedFormattedHexString(chainId),
       `Invalid chain ID "${chainId}": invalid hex string.`,
@@ -218,7 +216,7 @@ export default class NetworkController extends EventEmitter {
     });
   }
 
-  async setProviderType(type, rpcUrl = '', ticker = 'ETH', nickname = '') {
+  async setProviderType(type, rpcUrl = '', ticker = 'TKM', nickname = '') {
     assert.notStrictEqual(
       type,
       NETWORK_TYPE_RPC,
