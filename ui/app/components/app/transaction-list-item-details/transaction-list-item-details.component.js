@@ -10,8 +10,9 @@ import Tooltip from '../../ui/tooltip';
 import Copy from '../../ui/icon/copy-icon.component';
 import Popover from '../../ui/popover';
 import { getBlockExplorerUrlForTx } from '../../../../../shared/modules/transaction.utils';
-
-export default class TransactionListItemDetails extends PureComponent {
+import { connect } from 'react-redux'
+import console from 'console';
+ class TransactionListItemDetails extends PureComponent {
   static contextTypes = {
     t: PropTypes.func,
     metricsEvent: PropTypes.func,
@@ -137,6 +138,7 @@ export default class TransactionListItemDetails extends PureComponent {
   }
 
   render() {
+    const { nativeCurrency } = this.props
     const { t } = this.context;
     const { justCopied } = this.state;
     const {
@@ -166,7 +168,7 @@ export default class TransactionListItemDetails extends PureComponent {
           <div className="transaction-list-item-details__header">
             <div>{t('details')}</div>
             <div className="transaction-list-item-details__header-buttons">
-              {showSpeedUp && (
+              {showSpeedUp && nativeCurrency !== 'TKM' && (
                 <Button
                   type="raised"
                   onClick={this.handleRetry}
@@ -208,7 +210,7 @@ export default class TransactionListItemDetails extends PureComponent {
                   <img src="/images/arrow-popout.svg" alt="" />
                 </Button>
               </Tooltip>
-              {showRetry && (
+              {showRetry && nativeCurrency !== 'TKM' && (
                 <Tooltip title={t('retryTransaction')}>
                   <Button
                     type="raised"
@@ -274,3 +276,5 @@ export default class TransactionListItemDetails extends PureComponent {
     );
   }
 }
+const mapStateToProps = ({ metamask: { nativeCurrency }}) => ({ nativeCurrency })
+export default connect(mapStateToProps)(TransactionListItemDetails)

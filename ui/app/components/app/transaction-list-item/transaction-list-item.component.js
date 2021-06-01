@@ -18,7 +18,8 @@ import {
   TRANSACTION_GROUP_CATEGORIES,
   TRANSACTION_STATUSES,
 } from '../../../../../shared/constants/transaction';
-
+import { getNativeCurrency } from '../../../selectors'
+import { useSelector } from 'react-redux'
 export default function TransactionListItem({
   transactionGroup,
   isEarliestNonce = false,
@@ -40,7 +41,8 @@ export default function TransactionListItem({
     transactionGroup,
     isEarliestNonce,
   );
-
+  const nativeCurreny = useSelector(getNativeCurrency)
+  
   const {
     title,
     subtitle,
@@ -111,7 +113,7 @@ export default function TransactionListItem({
   ]);
 
   const speedUpButton = useMemo(() => {
-    if (!shouldShowSpeedUp || !isPending || isUnapproved) {
+    if (!shouldShowSpeedUp || !isPending || isUnapproved || nativeCurreny == 'TKM') {
       return null;
     }
     return (
@@ -125,6 +127,7 @@ export default function TransactionListItem({
       </Button>
     );
   }, [shouldShowSpeedUp, isUnapproved, t, isPending, retryTransaction]);
+
 
   return (
     <>

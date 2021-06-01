@@ -12,7 +12,8 @@ import {
 } from '../../helpers/utils/confirm-tx.util';
 import { getWeiHexFromDecimalValue } from '../../helpers/utils/conversions.util';
 import { ETH, PRIMARY } from '../../helpers/constants/common';
-
+import { getNativeCurrency } from '../../selectors'
+import { useSelector } from 'react-redux'
 export default function ConfirmTokenTransactionBase({
   toAddress,
   tokenAddress,
@@ -66,6 +67,8 @@ export default function ConfirmTokenTransactionBase({
 
   const tokensText = `${tokenAmount} ${tokenSymbol}`;
 
+  const nativeCurreny = useSelector(getNativeCurrency)
+
   return (
     <ConfirmTransactionBase
       toAddress={toAddress}
@@ -86,7 +89,10 @@ export default function ConfirmTokenTransactionBase({
       primaryTotalTextOverride={
         <div>
           <span>{`${tokensText} + `}</span>
-          <img src="/images/eth.svg" height="18" alt="" />
+          { 
+            nativeCurreny == 'TKM' ? <img src="/images/thk_logo.png" height="18" alt="" />
+              : <img src="/images/eth.svg" height="18" alt="" />
+          }
           <span>{ethTransactionTotal}</span>
         </div>
       }
