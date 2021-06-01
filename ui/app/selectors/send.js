@@ -158,6 +158,10 @@ export function getTitleKey(state) {
   } else if (isToken) {
     return 'sendTokens';
   }
+  const nativeCurrency = state.metamask.nativeCurrency
+  if(nativeCurrency == 'TKM') {
+    return 'sendTKM';
+  }
   return 'sendETH';
 }
 
