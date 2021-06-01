@@ -78,6 +78,6 @@
     "notifications"
   ],
   "short_name": "TMMSK",
-  "version": "9.4.0",
+  "version": "1.0.0",
   "web_accessible_resources": ["inpage.js", "phishing.html"]
 }
