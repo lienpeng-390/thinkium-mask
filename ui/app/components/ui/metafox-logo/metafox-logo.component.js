@@ -24,8 +24,9 @@ export default class MetaFoxLogo extends PureComponent {
         })}
       >
         <img
+          
           height="30"
-          src="/images/logo/metamask-logo-horizontal.svg"
+          src="/images/logo/metamask-logo-horizontal.png"
           className={classnames(
             'app-header__metafox-logo',
             'app-header__metafox-logo--horizontal',

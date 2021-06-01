@@ -168,27 +168,27 @@ export default class EnsInput extends Component {
     // Empty ENS state if input is empty
     // maybe scan ENS
 
-    if (
-      !networkHasEnsSupport &&
-      !isValidAddress(input) &&
-      !isValidAddressHead(input)
-    ) {
-      updateEnsResolution('');
-      updateEnsResolutionError(
-        networkHasEnsSupport ? '' : 'Network does not support ENS',
-      );
-      return null;
-    }
+    // if (
+    //   !networkHasEnsSupport &&
+    //   !isValidAddress(input) &&
+    //   !isValidAddressHead(input)
+    // ) {
+    //   updateEnsResolution('');
+    //   updateEnsResolutionError(
+    //     networkHasEnsSupport ? '' : 'Network does not support ENS',
+    //   );
+    //   return null;
+    // }
 
-    if (isValidDomainName(input)) {
-      this.lookupEnsName(input);
-    } else if (onValidAddressTyped && isValidAddress(input)) {
-      onValidAddressTyped(input);
-    } else {
-      updateEnsResolution('');
-      updateEnsResolutionError('');
-    }
-    return null;
+    // if (isValidDomainName(input)) {
+    //   this.lookupEnsName(input);
+    // } else if (onValidAddressTyped && isValidAddress(input)) {
+    //   onValidAddressTyped(input);
+    // } else {
+    //   updateEnsResolution('');
+    //   updateEnsResolutionError('');
+    // }
+    // return null;
   };
 
   render() {
