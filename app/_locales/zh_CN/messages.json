@@ -1419,7 +1419,10 @@
     "message": "发送数额"
   },
   "sendETH": {
-    "message": "发送代币"
+    "message": "发送 ETH"
+  },
+  "sendTKM": {
+    "message": "发送 TKM"
   },
   "sendSpecifiedTokens": {
     "message": "发送 $1",

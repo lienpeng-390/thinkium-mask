@@ -30,6 +30,7 @@ import { useTokenDisplayValue } from './useTokenDisplayValue';
 import { useTokenData } from './useTokenData';
 import { useSwappedTokenValue } from './useSwappedTokenValue';
 import { useCurrentAsset } from './useCurrentAsset';
+import console from 'console';
 /**
  * @typedef {Object} TransactionDisplayData
  * @property {string} title                  - primary description of the transaction
@@ -62,7 +63,7 @@ export function useTransactionDisplayData(transactionGroup) {
   const { initialTransaction, primaryTransaction } = transactionGroup;
   // initialTransaction contains the data we need to derive the primary purpose of this transaction group
   const { transactionCategory } = initialTransaction;
-  console.log(initialTransaction, 'initialTransaction------')
+  const { chainId } = initialTransaction
   const { from: senderAddress, to } = initialTransaction.txParams || {};
 
   // for smart contract interactions, methodData can be used to derive the name of the action being taken
@@ -213,7 +214,12 @@ export function useTransactionDisplayData(transactionGroup) {
   } else if (transactionCategory === TRANSACTION_CATEGORIES.SENT_ETHER) {
     console.log(transactionCategory, 'transactionCategory')
     category = TRANSACTION_GROUP_CATEGORIES.SEND;
-    title = t('sendETH');
+    if(chainId == '0x2771' || chainId == '0x2772' || chainId == '0x2777') {
+      title = t('sendTKM');
+    } else {
+      title = t('sendETH');
+    }
+    
     subtitle = t('toAddress', [shortenAddress(recipientAddress)]);
   }
 
