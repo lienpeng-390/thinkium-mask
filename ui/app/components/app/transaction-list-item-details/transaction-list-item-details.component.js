@@ -11,7 +11,6 @@ import Copy from '../../ui/icon/copy-icon.component';
 import Popover from '../../ui/popover';
 import { getBlockExplorerUrlForTx } from '../../../../../shared/modules/transaction.utils';
 import { connect } from 'react-redux'
-import console from 'console';
  class TransactionListItemDetails extends PureComponent {
   static contextTypes = {
     t: PropTypes.func,

@@ -4,7 +4,7 @@ import contractMap from '@metamask/contract-metadata';
 import Fuse from 'fuse.js';
 import InputAdornment from '@material-ui/core/InputAdornment';
 import TextField from '../../../components/ui/text-field';
-
+import { connect } from 'react-redux'
 const contractList = Object.entries(contractMap)
   .map(([address, tokenData]) => ({ ...tokenData, address }))
   .filter((tokenData) => Boolean(tokenData.erc20));
@@ -22,7 +22,7 @@ const fuse = new Fuse(contractList, {
   ],
 });
 
-export default class TokenSearch extends Component {
+ class TokenSearch extends Component {
   static contextTypes = {
     t: PropTypes.func,
   };
@@ -42,6 +42,7 @@ export default class TokenSearch extends Component {
 
   handleSearch(searchQuery) {
     this.setState({ searchQuery });
+    if(this.props.nativeCurrency == 'TKM') return;
     const fuseSearchResult = fuse.search(searchQuery);
     const addressSearchResult = contractList.filter((token) => {
       return token.address.toLowerCase() === searchQuery.toLowerCase();
@@ -77,3 +78,6 @@ export default class TokenSearch extends Component {
     );
   }
 }
+
+const mapStateToProps = ({ metamask: { nativeCurrency }}) => ({ nativeCurrency })
+export default connect(mapStateToProps)(TokenSearch)
