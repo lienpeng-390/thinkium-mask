@@ -17,7 +17,7 @@ export default class InfoTab extends PureComponent {
     return (
       <div className="settings-page__content-item settings-page__content-item--without-height">
         <div className="info-tab__link-header">{t('links')}</div>
-        <div className="info-tab__link-item">
+        {/* <div className="info-tab__link-item">
           <Button
             type="link"
             href="https://metamask.io/privacy.html"
@@ -27,8 +27,8 @@ export default class InfoTab extends PureComponent {
           >
             {t('privacyMsg')}
           </Button>
-        </div>
-        <div className="info-tab__link-item">
+        </div> */}
+        {/* <div className="info-tab__link-item">
           <Button
             type="link"
             href="https://metamask.io/terms.html"
@@ -38,8 +38,8 @@ export default class InfoTab extends PureComponent {
           >
             {t('terms')}
           </Button>
-        </div>
-        <div className="info-tab__link-item">
+        </div> */}
+        {/* <div className="info-tab__link-item">
           <Button
             type="link"
             href="https://metamask.io/attributions.html"
@@ -49,9 +49,9 @@ export default class InfoTab extends PureComponent {
           >
             {t('attributions')}
           </Button>
-        </div>
-        <hr className="info-tab__separator" />
-        <div className="info-tab__link-item">
+        </div> */}
+        {/* <hr className="info-tab__separator" /> */}
+        {/* <div className="info-tab__link-item">
           <Button
             type="link"
             href="https://support.metamask.io"
@@ -61,7 +61,7 @@ export default class InfoTab extends PureComponent {
           >
             {t('supportCenter')}
           </Button>
-        </div>
+        </div> */}
         <div className="info-tab__link-item">
           <Button
             type="link"
@@ -73,7 +73,7 @@ export default class InfoTab extends PureComponent {
             {t('visitWebSite')}
           </Button>
         </div>
-        <div className="info-tab__link-item">
+        {/* <div className="info-tab__link-item">
           <Button
             type="link"
             href="https://metamask.zendesk.com/hc/en-us/requests/new"
@@ -83,7 +83,7 @@ export default class InfoTab extends PureComponent {
           >
             {t('contactUs')}
           </Button>
-        </div>
+        </div> */}
       </div>
     );
   }
@@ -103,9 +103,9 @@ export default class InfoTab extends PureComponent {
                 {this.state.version}
               </div>
             </div>
-            <div className="info-tab__item">
+            {/* <div className="info-tab__item">
               <div className="info-tab__about">{t('builtInCalifornia')}</div>
-            </div>
+            </div> */}
           </div>
           {this.renderInfoLinks()}
         </div>
