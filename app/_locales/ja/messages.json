@@ -134,7 +134,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "TMMSK",
     "description": "The name of the application"
   },
   "approvalAndAggregatorTxFeeCost": {
@@ -251,7 +251,7 @@
     "message": "チェーンID"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "ハードウェアウォレットへ接続するには、MetaMask on Google Chrome を使用する必要があります。"
+    "message": "ハードウェアウォレットへ接続するには、TMMSK on Google Chrome を使用する必要があります。"
   },
   "clickToRevealSeed": {
     "message": "シードフレーズを表示するにはここをクリックします"
@@ -951,7 +951,7 @@
     "message": "Ethereumの分散型Webに接続しています。"
   },
   "metamaskSwapsOfflineDescription": {
-    "message": "MetaMask Swapsはメンテナンス中です。後でもう一度確認してください。"
+    "message": "TMMSK Swapsはメンテナンス中です。後でもう一度確認してください。"
   },
   "metamaskVersion": {
     "message": "MetaMaskのバージョン"
@@ -1063,7 +1063,7 @@
   },
   "nextNonceWarning": {
     "message": "Nonce $1 は提案された値より大きいです",
-    "description": "The next nonce according to MetaMask's internal logic"
+    "description": "The next nonce according to TMMSK's internal logic"
   },
   "noAccountsFound": {
     "message": "指定された検索クエリでアカウントは見つかりませんでした"
@@ -1517,7 +1517,7 @@
     "message": "状態ログの検索中にエラーが発生しました。"
   },
   "stateLogFileName": {
-    "message": "MetaMask State Logs"
+    "message": "TMMSK State Logs"
   },
   "stateLogs": {
     "message": "状態ログ"
@@ -1643,13 +1643,13 @@
     "message": "詳細を表示しますか?"
   },
   "swapIntroLearnMoreLink": {
-    "message": "MetaMask Swapsの詳細"
+    "message": "TMMSK Swapsの詳細"
   },
   "swapIntroLiquiditySourcesLabel": {
     "message": "流動性ソースには以下が含まれます。"
   },
   "swapIntroPopupSubTitle": {
-    "message": "トークンをMetaMaskで直接スワップできるようになりました。MetaMask Swapsは、多数の分散型取引所アグリゲーター、専門のマーケットメーカー、DEX取引所を統合し、ユーザーは常に最低のネットワーク手数料、最適な価格で取引できます。"
+    "message": "トークンをMetaMaskで直接スワップできるようになりました。TMMSK Swapsは、多数の分散型取引所アグリゲーター、専門のマーケットメーカー、DEX取引所を統合し、ユーザーは常に最低のネットワーク手数料、最適な価格で取引できます。"
   },
   "swapIntroPopupTitle": {
     "message": "トークンのスワップはこちら!"

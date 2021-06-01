@@ -18,11 +18,11 @@
     "message": "Tutar"
   },
   "appDescription": {
-    "message": "Ethereum Tarayıcı Uzantısı",
+    "message": "Thinkium Tarayıcı Uzantısı",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "TMMSK",
     "description": "The name of the application"
   },
   "approve": {
@@ -47,7 +47,7 @@
     "message": "Blockies Identicon kullan"
   },
   "builtInCalifornia": {
-    "message": "MetaMask California'da tasarlandı ve yaratıldı"
+    "message": "TMMSK California'da tasarlandı ve yaratıldı"
   },
   "cancel": {
     "message": "Vazgeç"
@@ -65,7 +65,7 @@
     "message": "Kovan Test Ağına bağlanıyor"
   },
   "connectingToMainnet": {
-    "message": "Main Ethereum Ağına bağlanıyor"
+    "message": "Main Thinkium Ağına bağlanıyor"
   },
   "connectingToRinkeby": {
     "message": "Rinkeby Test Ağına bağlanıyor"
@@ -190,7 +190,7 @@
     "message": "Hesap Al"
   },
   "importAccountMsg": {
-    "message": " Alınan hesaplar orjinal kaynakifadenizle yarattığınız MetaMask hesabınızla ilişkilendirilmez. Alınan hesaplar ile ilgili daha fazla bilgi edinin "
+    "message": " Alınan hesaplar orjinal kaynakifadenizle yarattığınız TMMSK hesabınızla ilişkilendirilmez. Alınan hesaplar ile ilgili daha fazla bilgi edinin "
   },
   "imported": {
     "message": "Alındı",
@@ -243,7 +243,7 @@
     "message": "Çıkış"
   },
   "mainnet": {
-    "message": "Main Ethereum Ağı"
+    "message": "Main Thinkium Ağı"
   },
   "max": {
     "message": "Maksimum"
@@ -252,7 +252,7 @@
     "message": "Mesaj"
   },
   "metamaskDescription": {
-    "message": "MetaMask Ethereum için güvenli bir kimlik kasasıdır."
+    "message": "TMMSK Thinkium için güvenli bir kimlik kasasıdır."
   },
   "mustSelectOne": {
     "message": "En az bir jeton seçilmeli"
@@ -261,7 +261,7 @@
     "message": "Hesaplarım"
   },
   "needEtherInWallet": {
-    "message": "MetaMask kullanarak merkezi olamayan uygulamalarla etkileşmek için cüzdanınızda Ether bulunmalıdır."
+    "message": "TMMSK kullanarak merkezi olamayan uygulamalarla etkileşmek için cüzdanınızda Ether bulunmalıdır."
   },
   "needImportFile": {
     "message": "Almak için bir dosya seçmelisiniz.",
@@ -479,7 +479,7 @@
     "message": "Cüzdan Kaynağı"
   },
   "welcome": {
-    "message": "MetaMask'ya Hoşgeldiniz"
+    "message": "TMMSK'ya Hoşgeldiniz"
   },
   "youSign": {
     "message": "İmzalıyorsunuz"

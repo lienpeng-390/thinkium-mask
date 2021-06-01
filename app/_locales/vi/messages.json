@@ -47,7 +47,7 @@
     "message": "Thêm tài khoản"
   },
   "addAcquiredTokens": {
-    "message": "Thêm token mà bạn đã mua bằng MetaMask"
+    "message": "Thêm token mà bạn đã mua bằng TMMSK"
   },
   "addAlias": {
     "message": "Thêm biệt danh"
@@ -124,11 +124,11 @@
     "message": "Số tiền:"
   },
   "appDescription": {
-    "message": "Ví Ethereum trên trình duyệt của bạn",
+    "message": "Ví Thinkium trên trình duyệt của bạn",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "TMMSK",
     "description": "The name of the application"
   },
   "approvalAndAggregatorTxFeeCost": {
@@ -172,7 +172,7 @@
     "message": "Hẹn giờ tự động khóa (phút)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Đặt khoảng thời gian không hoạt động tính bằng phút trước khi MetaMask khóa."
+    "message": "Đặt khoảng thời gian không hoạt động tính bằng phút trước khi TMMSK khóa."
   },
   "average": {
     "message": "Trung bình"
@@ -184,7 +184,7 @@
     "message": "Quay lại toàn bộ danh sách"
   },
   "backupApprovalInfo": {
-    "message": "Đây là mã bí mật bắt buộc phải dùng để khôi phục ví trong trường hợp bạn bị mất thiết bị, quên mật khẩu, phải cài đặt lại MetaMask hoặc muốn truy cập ví của mình trên một thiết bị khác."
+    "message": "Đây là mã bí mật bắt buộc phải dùng để khôi phục ví trong trường hợp bạn bị mất thiết bị, quên mật khẩu, phải cài đặt lại TMMSK hoặc muốn truy cập ví của mình trên một thiết bị khác."
   },
   "backupApprovalNotice": {
     "message": "Sao lưu Mã khôi phục bí mật để đảm bảo an toàn cho ví và tiền của bạn."
@@ -215,7 +215,7 @@
     "message": "Trình duyệt của bạn không được hỗ trợ..."
   },
   "builtInCalifornia": {
-    "message": "MetaMask được thiết kế và phát triển tại California."
+    "message": "TMMSK được thiết kế và phát triển tại California."
   },
   "buy": {
     "message": "Mua"
@@ -224,7 +224,7 @@
     "message": "Mua ETH qua Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre cho phép bạn dùng thẻ ghi nợ để nộp ETH trực tiếp vào tài khoản MetaMask của mình."
+    "message": "Wyre cho phép bạn dùng thẻ ghi nợ để nộp ETH trực tiếp vào tài khoản TMMSK của mình."
   },
   "bytes": {
     "message": "Byte"
@@ -242,7 +242,7 @@
     "message": "Mã chuỗi"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Bạn cần sử dụng MetaMask trên Google Chrome để kết nối với Ví cứng của bạn."
+    "message": "Bạn cần sử dụng TMMSK trên Google Chrome để kết nối với Ví cứng của bạn."
   },
   "clickToRevealSeed": {
     "message": "Nhấp vào đây để hiện các từ bí mật"
@@ -298,7 +298,7 @@
     "description": "$1 is the number of accounts to which the web3 site/application is asking to connect; this will substitute $1 in connectToMultiple"
   },
   "connectWithMetaMask": {
-    "message": "Kết nối với MetaMask"
+    "message": "Kết nối với TMMSK"
   },
   "connectedAccountsDescriptionPlural": {
     "message": "Bạn có $1 tài khoản kết nối với trang web này.",
@@ -308,7 +308,7 @@
     "message": "Bạn có 1 tài khoản kết nối với trang web này."
   },
   "connectedAccountsEmptyDescription": {
-    "message": "MetaMask chưa kết nối với trang web này. Để kết nối với một trang web trên web3, hãy tìm nút kết nối trên trang web của họ."
+    "message": "TMMSK chưa kết nối với trang web này. Để kết nối với một trang web trên web3, hãy tìm nút kết nối trên trang web của họ."
   },
   "connectedSites": {
     "message": "Trang web đã kết nối"
@@ -334,7 +334,7 @@
     "message": "Đang kết nối với mạng thử nghiệm Kovan"
   },
   "connectingToMainnet": {
-    "message": "Đang kết nối với mạng chính thức của Ethereum"
+    "message": "Đang kết nối với mạng chính thức của Thinkium"
   },
   "connectingToRinkeby": {
     "message": "Đang kết nối với mạng thử nghiệm Rinkeby"
@@ -418,7 +418,7 @@
     "message": "Token tùy chỉnh"
   },
   "dataBackupFoundInfo": {
-    "message": "Một số dữ liệu tài khoản của bạn đã được sao lưu trong lần cài đặt MetaMask trước đó. Dữ liệu này có thể bao gồm các tùy chọn cài đặt, danh bạ và token. Bạn có muốn khôi phục dữ liệu này bây giờ không?"
+    "message": "Một số dữ liệu tài khoản của bạn đã được sao lưu trong lần cài đặt TMMSK trước đó. Dữ liệu này có thể bao gồm các tùy chọn cài đặt, danh bạ và token. Bạn có muốn khôi phục dữ liệu này bây giờ không?"
   },
   "decimal": {
     "message": "Số vị trí thập phân của độ chính xác"
@@ -544,13 +544,13 @@
     "message": "Tuyệt đối không chia sẻ cụm mật khẩu với bất kỳ ai."
   },
   "endOfFlowMessage5": {
-    "message": "Hãy cẩn thận với hoạt động lừa đảo! MetaMask sẽ không bao giờ tự ý hỏi cụm mật khẩu gốc của bạn."
+    "message": "Hãy cẩn thận với hoạt động lừa đảo! TMMSK sẽ không bao giờ tự ý hỏi cụm mật khẩu gốc của bạn."
   },
   "endOfFlowMessage6": {
     "message": "Nếu cần sao lưu lại cụm mật khẩu gốc của mình, bạn có thể tìm thấy cụm mật khẩu này trong phần Cài đặt -> Bảo mật."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask không thể khôi phục cụm mật khẩu gốc của bạn."
+    "message": "TMMSK không thể khôi phục cụm mật khẩu gốc của bạn."
   },
   "endOfFlowMessage9": {
     "message": "Tìm hiểu thêm."
@@ -560,7 +560,7 @@
     "description": "$1 is the return value of eth_chainId from an RPC endpoint"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Không tìm thấy tên ENS trên mạng hiện tại. Đang chuyển sang mạng chính thức của Ethereum."
+    "message": "Không tìm thấy tên ENS trên mạng hiện tại. Đang chuyển sang mạng chính thức của Thinkium."
   },
   "ensRegistrationError": {
     "message": "Lỗi khi đăng ký tên ENS"
@@ -594,7 +594,7 @@
     "description": "Displayed error name for debugging purposes. $1 is the error name"
   },
   "errorPageTitle": {
-    "message": "MetaMask đã gặp lỗi",
+    "message": "TMMSK đã gặp lỗi",
     "description": "Title of generic error page"
   },
   "errorStack": {
@@ -609,7 +609,7 @@
     "description": "The description for the `eth_accounts` permission"
   },
   "ethereumPublicAddress": {
-    "message": "Địa chỉ công khai trên Ethereum"
+    "message": "Địa chỉ công khai trên Thinkium"
   },
   "etherscan": {
     "message": "Etherscan"
@@ -743,7 +743,7 @@
     "message": "Kết nối với một ví cứng"
   },
   "hardwareWalletsMsg": {
-    "message": "Chọn một ví cứng mà bạn muốn sử dụng với MetaMask"
+    "message": "Chọn một ví cứng mà bạn muốn sử dụng với TMMSK"
   },
   "havingTroubleConnecting": {
     "message": "Bạn đang gặp sự cố với việc kết nối?"
@@ -776,7 +776,7 @@
     "message": "Nhập tài khoản"
   },
   "importAccountMsg": {
-    "message": " Tài khoản đã nhập sẽ không được liên kết với cụm mật khẩu gốc cho tài khoản MetaMask đã tạo ban đầu của bạn. Tìm hiểu thêm về các tài khoản đã nhập "
+    "message": " Tài khoản đã nhập sẽ không được liên kết với cụm mật khẩu gốc cho tài khoản TMMSK đã tạo ban đầu của bạn. Tìm hiểu thêm về các tài khoản đã nhập "
   },
   "importAccountSeedPhrase": {
     "message": "Nhập một tài khoản bằng cụm mật khẩu gốc"
@@ -912,7 +912,7 @@
     "message": "Thời gian khóa quá lớn"
   },
   "mainnet": {
-    "message": "Mạng chính thức của Ethereum"
+    "message": "Mạng chính thức của Thinkium"
   },
   "max": {
     "message": "Tối đa"
@@ -927,7 +927,7 @@
     "message": "Thông báo"
   },
   "metaMaskConnectStatusParagraphOne": {
-    "message": "Giờ đây bạn có thể kiểm soát chi tiết hơn đối với các mối liên kết với tài khoản của mình trong MetaMask."
+    "message": "Giờ đây bạn có thể kiểm soát chi tiết hơn đối với các mối liên kết với tài khoản của mình trong TMMSK."
   },
   "metaMaskConnectStatusParagraphThree": {
     "message": "Nhấp vào đó để quản lý các tài khoản bạn đã kết nối."
@@ -936,13 +936,13 @@
     "message": "Nút trạng thái kết nối sẽ hiển thị nếu trang web mà bạn đang truy cập được kết nối với tài khoản bạn đang chọn."
   },
   "metamaskDescription": {
-    "message": "Kết nối bạn với Ethereum và Web phi tập trung."
+    "message": "Kết nối bạn với Thinkium và Web phi tập trung."
   },
   "metamaskSwapsOfflineDescription": {
-    "message": "Tính năng Hoán đổi trên MetaMask đang được bảo trì. Vui lòng kiểm tra lại sau."
+    "message": "Tính năng Hoán đổi trên TMMSK đang được bảo trì. Vui lòng kiểm tra lại sau."
   },
   "metamaskVersion": {
-    "message": "Phiên bản MetaMask"
+    "message": "Phiên bản TMMSK"
   },
   "metametricsCommitmentsAllowOptOut": {
     "message": "Luôn cho phép bạn chọn không tham gia thông qua phần Cài đặt"
@@ -952,7 +952,7 @@
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
   "metametricsCommitmentsIntro": {
-    "message": "MetaMask sẽ.."
+    "message": "TMMSK sẽ.."
   },
   "metametricsCommitmentsNeverCollectIP": {
     "message": "$1 thu thập địa chỉ IP đầy đủ của bạn",
@@ -970,10 +970,10 @@
     "message": "Gửi các lượt nhấp và xem trang đã được ẩn danh"
   },
   "metametricsHelpImproveMetaMask": {
-    "message": "Giúp chúng tôi cải thiện MetaMask"
+    "message": "Giúp chúng tôi cải thiện TMMSK"
   },
   "metametricsOptInDescription": {
-    "message": "MetaMask muốn thu thập dữ liệu sử dụng để hiểu rõ hơn về cách người dùng tương tác với tiện ích. Chúng tôi sẽ dùng dữ liệu này để liên tục cải thiện độ hữu ích và trải nghiệm người dùng trên sản phẩm của mình và hệ sinh thái Ethereum."
+    "message": "TMMSK muốn thu thập dữ liệu sử dụng để hiểu rõ hơn về cách người dùng tương tác với tiện ích. Chúng tôi sẽ dùng dữ liệu này để liên tục cải thiện độ hữu ích và trải nghiệm người dùng trên sản phẩm của mình và hệ sinh thái Thinkium."
   },
   "mobileSyncText": {
     "message": "Vui lòng nhập mật khẩu để xác nhận đây là bạn!"
@@ -988,10 +988,10 @@
     "message": "Các tài khoản trong ví của tôi"
   },
   "myWalletAccountsDescription": {
-    "message": "Tất cả các tài khoản đã tạo của bạn trong MetaMask sẽ tự động được thêm vào phần này."
+    "message": "Tất cả các tài khoản đã tạo của bạn trong TMMSK sẽ tự động được thêm vào phần này."
   },
   "needEtherInWallet": {
-    "message": "Để tương tác với các ứng dụng phi tập trung bằng MetaMask, bạn sẽ cần phải có Ether trong ví của mình."
+    "message": "Để tương tác với các ứng dụng phi tập trung bằng TMMSK, bạn sẽ cần phải có Ether trong ví của mình."
   },
   "needImportFile": {
     "message": "Bạn phải chọn tệp để nhập.",
@@ -1038,7 +1038,7 @@
     "message": "Mật khẩu mới (tối thiểu 8 ký tự)"
   },
   "newToMetaMask": {
-    "message": "Bạn mới sử dụng MetaMask?"
+    "message": "Bạn mới sử dụng TMMSK?"
   },
   "newTotal": {
     "message": "Tổng mới"
@@ -1051,7 +1051,7 @@
   },
   "nextNonceWarning": {
     "message": "Số chỉ dùng một lần lớn hơn số chỉ dùng một lần gợi ý là $1",
-    "description": "The next nonce according to MetaMask's internal logic"
+    "description": "The next nonce according to TMMSK's internal logic"
   },
   "noAccountsFound": {
     "message": "Không tìm thấy tài khoản nào cho cụm từ tìm kiếm đã đưa ra"
@@ -1139,7 +1139,7 @@
     "message": "Tham gia MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Tham gia MetaMetrics để giúp chúng tôi cải thiện MetaMask"
+    "message": "Tham gia MetaMetrics để giúp chúng tôi cải thiện TMMSK"
   },
   "password": {
     "message": "Mật khẩu"
@@ -1377,7 +1377,7 @@
     "message": "Chọn một tài khoản"
   },
   "selectAnAccountHelp": {
-    "message": "Chọn tài khoản để xem trong MetaMask"
+    "message": "Chọn tài khoản để xem trong TMMSK"
   },
   "selectEachPhrase": {
     "message": "Vui lòng chọn từng cụm mật khẩu theo thứ tự để đảm bảo sự chính xác."
@@ -1508,7 +1508,7 @@
     "message": "Lỗi khi truy xuất nhật ký trạng thái."
   },
   "stateLogFileName": {
-    "message": "Nhật ký trạng thái của MetaMask"
+    "message": "Nhật ký trạng thái của TMMSK"
   },
   "stateLogs": {
     "message": "Nhật ký trạng thái"
@@ -1538,7 +1538,7 @@
     "message": "3. Bắt đầu sử dụng các trang web trên web3 và nhiều hơn thế!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Sử dụng cùng một tài khoản ví cứng mà bạn sẽ dùng với mọi tài khoản Ethereum của mình. Kết nối với các trang web trên web3, gửi ETH, mua và lưu trữ token ERC20 cũng như token không thể thay thế, chẳng hạn như CryptoKitties."
+    "message": "Sử dụng cùng một tài khoản ví cứng mà bạn sẽ dùng với mọi tài khoản Thinkium của mình. Kết nối với các trang web trên web3, gửi ETH, mua và lưu trữ token ERC20 cũng như token không thể thay thế, chẳng hạn như CryptoKitties."
   },
   "storePhrase": {
     "message": "Lưu cụm mật khẩu này trong trình quản lý mật khẩu chẳng hạn như 1Password."
@@ -1593,7 +1593,7 @@
     "message": "Chỉnh sửa giới hạn"
   },
   "swapEnableDescription": {
-    "message": "Thao tác này là bắt buộc và cấp cho MetaMask quyền hoán đổi $1 của bạn.",
+    "message": "Thao tác này là bắt buộc và cấp cho TMMSK quyền hoán đổi $1 của bạn.",
     "description": "Gives the user info about the required approval transaction for swaps. $1 will be the symbol of a token being approved for swaps."
   },
   "swapEstimatedNetworkFee": {
@@ -1631,13 +1631,13 @@
     "message": "Bạn muốn tìm hiểu thêm?"
   },
   "swapIntroLearnMoreLink": {
-    "message": "Tìm hiểu thêm về MetaMask Swaps"
+    "message": "Tìm hiểu thêm về TMMSK Swaps"
   },
   "swapIntroLiquiditySourcesLabel": {
     "message": "Các nguồn thanh khoản bao gồm:"
   },
   "swapIntroPopupSubTitle": {
-    "message": "Giờ đây bạn có thể hoán đổi token ngay trong ví MetaMask của mình. MetaMask Swaps quy tụ nhiều trình tổng hợp sàn giao dịch phi tập trung, các nhà tạo lập thị trường chuyên nghiệp và các sàn giao dịch phi tập trung dành cho cá nhân nhằm đảm bảo người dùng MetaMask luôn nhận được mức giá tốt nhất với phí mạng thấp nhất."
+    "message": "Giờ đây bạn có thể hoán đổi token ngay trong ví TMMSK của mình. TMMSK Swaps quy tụ nhiều trình tổng hợp sàn giao dịch phi tập trung, các nhà tạo lập thị trường chuyên nghiệp và các sàn giao dịch phi tập trung dành cho cá nhân nhằm đảm bảo người dùng TMMSK luôn nhận được mức giá tốt nhất với phí mạng thấp nhất."
   },
   "swapIntroPopupTitle": {
     "message": "Tính năng hoán đổi token đã sẵn sàng!"
@@ -1659,14 +1659,14 @@
     "message": "Mức trượt giá tối đa"
   },
   "swapMetaMaskFee": {
-    "message": "Phí của MetaMask"
+    "message": "Phí của TMMSK"
   },
   "swapMetaMaskFeeDescription": {
-    "message": "Chúng tôi luôn tìm giá tốt nhất từ các nguồn thanh khoản hàng đầu. Khoản phí $1% tự động được tính vào mỗi báo giá để hỗ trợ sự phát triển liên tục và giúp MetaMask hoàn thiện hơn nữa.",
+    "message": "Chúng tôi luôn tìm giá tốt nhất từ các nguồn thanh khoản hàng đầu. Khoản phí $1% tự động được tính vào mỗi báo giá để hỗ trợ sự phát triển liên tục và giúp TMMSK hoàn thiện hơn nữa.",
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapNetworkFeeSummary": {
-    "message": "Phí mạng dùng để chi trả chi phí xử lý giao dịch hoán đổi của bạn và lưu trữ giao dịch đó trên mạng Ethereum. MetaMask không thu lợi từ khoản phí này."
+    "message": "Phí mạng dùng để chi trả chi phí xử lý giao dịch hoán đổi của bạn và lưu trữ giao dịch đó trên mạng Thinkium. TMMSK không thu lợi từ khoản phí này."
   },
   "swapNewQuoteIn": {
     "message": "Báo giá mới sẽ có sau $1",
@@ -1686,7 +1686,7 @@
     "message": "Giá thay đổi giữa thời điểm đặt và xác nhận lệnh, việc này được gọi là \"trượt giá\". Giao dịch Hoán đổi của bạn sẽ tự động hủy nếu mức trượt giá vượt quá \"mức trượt giá tối đa\" đã cài đặt."
   },
   "swapQuoteIncludesRate": {
-    "message": "Báo giá có bao gồm khoản phí $1% cho MetaMask",
+    "message": "Báo giá có bao gồm khoản phí $1% cho TMMSK",
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapQuoteNofN": {
@@ -1822,16 +1822,16 @@
     "message": "Đảm bảo rằng không có ai nhìn vào màn hình của bạn khi quét mã này"
   },
   "syncWithMobileComplete": {
-    "message": "Đã đồng bộ hóa thành công dữ liệu của bạn. Tận hưởng ứng dụng MetaMask trên thiết bị di động!"
+    "message": "Đã đồng bộ hóa thành công dữ liệu của bạn. Tận hưởng ứng dụng TMMSK trên thiết bị di động!"
   },
   "syncWithMobileDesc": {
-    "message": "Bạn có thể đồng bộ hóa tài khoản và thông tin của mình với thiết bị di động. Mở ứng dụng MetaMask trên thiết bị di động, chuyển đến phần \"Cài đặt\" và nhấn vào \"Đồng bộ hóa với tiện ích trình duyệt\""
+    "message": "Bạn có thể đồng bộ hóa tài khoản và thông tin của mình với thiết bị di động. Mở ứng dụng TMMSK trên thiết bị di động, chuyển đến phần \"Cài đặt\" và nhấn vào \"Đồng bộ hóa với tiện ích trình duyệt\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Nếu mới mở ứng dụng MetaMask trên thiết bị di động lần đầu tiên, bạn chỉ cần làm theo các bước hướng dẫn trên điện thoại."
+    "message": "Nếu mới mở ứng dụng TMMSK trên thiết bị di động lần đầu tiên, bạn chỉ cần làm theo các bước hướng dẫn trên điện thoại."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Quét mã này bằng ứng dụng MetaMask trên thiết bị di động"
+    "message": "Quét mã này bằng ứng dụng TMMSK trên thiết bị di động"
   },
   "syncWithMobileTitle": {
     "message": "Đồng bộ hóa với thiết bị di động"
@@ -1952,7 +1952,7 @@
     "message": "Thử lại"
   },
   "typePassword": {
-    "message": "Nhập mật khẩu MetaMask của bạn"
+    "message": "Nhập mật khẩu TMMSK của bạn"
   },
   "unapproved": {
     "message": "Chưa phê duyệt"
@@ -1997,7 +1997,7 @@
     "message": "Sử dụng tính năng Phát hiện lừa đảo"
   },
   "usePhishingDetectionDescription": {
-    "message": "Hiển thị cảnh báo đối với các miền lừa đảo nhắm đến người dùng Ethereum"
+    "message": "Hiển thị cảnh báo đối với các miền lừa đảo nhắm đến người dùng Thinkium"
   },
   "usedByClients": {
     "message": "Được nhiều ví khác nhau sử dụng"
@@ -2034,7 +2034,7 @@
     "message": "Cụm mật khẩu gốc"
   },
   "welcome": {
-    "message": "Chào mừng bạn đến với MetaMask"
+    "message": "Chào mừng bạn đến với TMMSK"
   },
   "welcomeBack": {
     "message": "Chào mừng bạn trở lại!"

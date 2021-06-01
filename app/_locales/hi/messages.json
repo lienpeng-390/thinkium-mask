@@ -47,7 +47,7 @@
     "message": "एक खाता जोड़ें"
   },
   "addAcquiredTokens": {
-    "message": "आपके द्वारा MetaMask का उपयोग करके प्राप्त किए गए टोकन जोड़ें"
+    "message": "आपके द्वारा TMMSK का उपयोग करके प्राप्त किए गए टोकन जोड़ें"
   },
   "addAlias": {
     "message": "उपनाम जोड़ें"
@@ -124,11 +124,11 @@
     "message": "राशि:"
   },
   "appDescription": {
-    "message": "आपके ब्राउज़र में एक Ethereum वॉलेट",
+    "message": "आपके ब्राउज़र में एक Thinkium वॉलेट",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "TMMSK",
     "description": "The name of the application"
   },
   "approvalAndAggregatorTxFeeCost": {
@@ -172,7 +172,7 @@
     "message": "ऑटो-लॉक टाइमर (मिनट)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "MetaMask लॉक होने से पहले निष्क्रिय समय को मिनट में सेट करें।"
+    "message": "TMMSK लॉक होने से पहले निष्क्रिय समय को मिनट में सेट करें।"
   },
   "average": {
     "message": "औसत"
@@ -184,7 +184,7 @@
     "message": "सभी पर वापस"
   },
   "backupApprovalInfo": {
-    "message": "यदि आप अपना डिवाइस खो देते हैं, अपना पासवर्ड भूल जाते हैं, MetaMask को फिर से स्थापित करना हो या दूसरे डिवाइस पर अपने वॉलेट तक पहुँचना चाहते हों, तो आपके वॉलेट को पुनर्प्राप्त करने के लिए यह गुप्त कोड आवश्यक है।"
+    "message": "यदि आप अपना डिवाइस खो देते हैं, अपना पासवर्ड भूल जाते हैं, TMMSK को फिर से स्थापित करना हो या दूसरे डिवाइस पर अपने वॉलेट तक पहुँचना चाहते हों, तो आपके वॉलेट को पुनर्प्राप्त करने के लिए यह गुप्त कोड आवश्यक है।"
   },
   "backupApprovalNotice": {
     "message": "अपने वॉलेट और धन को सुरक्षित रखने के लिए अपने गुप्त रिकवरी कोड का बैकअप लें।"
@@ -215,7 +215,7 @@
     "message": "आपका ब्राउज़र समर्थित नहीं है..."
   },
   "builtInCalifornia": {
-    "message": "MetaMask को कैलिफोर्निया में डिज़ाइन और निर्मित किया गया है।"
+    "message": "TMMSK को कैलिफोर्निया में डिज़ाइन और निर्मित किया गया है।"
   },
   "buy": {
     "message": "खरीदें"
@@ -224,7 +224,7 @@
     "message": "ETH को Wyre साथ खरीदें"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre आपको अपने MetaMask खाते में ETH जमा करने के लिए डेबिट कार्ड का उपयोग करने की सुविधा देता है।"
+    "message": "Wyre आपको अपने TMMSK खाते में ETH जमा करने के लिए डेबिट कार्ड का उपयोग करने की सुविधा देता है।"
   },
   "bytes": {
     "message": "बाइट"
@@ -242,7 +242,7 @@
     "message": "चेन ID"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "अपने हार्डवेयर वॉलेट से कनेक्ट करने के लिए आपको Google Chrome पर MetaMask का उपयोग करने की आवश्यकता है।"
+    "message": "अपने हार्डवेयर वॉलेट से कनेक्ट करने के लिए आपको Google Chrome पर TMMSK का उपयोग करने की आवश्यकता है।"
   },
   "clickToRevealSeed": {
     "message": "गुप्त शब्दों को प्रकट करने के लिए यहाँ क्लिक करें"
@@ -298,7 +298,7 @@
     "description": "$1 is the number of accounts to which the web3 site/application is asking to connect; this will substitute $1 in connectToMultiple"
   },
   "connectWithMetaMask": {
-    "message": "MetaMask के साथ कनेक्ट करें"
+    "message": "TMMSK के साथ कनेक्ट करें"
   },
   "connectedAccountsDescriptionPlural": {
     "message": "आपके पास इस साइट से कनेक्ट किए गए $1 खाते हैं।",
@@ -308,7 +308,7 @@
     "message": "इस साइट से आपका 1 खाता कनेक्ट किया गया है।"
   },
   "connectedAccountsEmptyDescription": {
-    "message": "MetaMask इस साइट से कनेक्ट नहीं है। किसी web3 साइट से कनेक्ट करने के लिए, उनकी साइट पर कनेक्ट बटन खोजें।"
+    "message": "TMMSK इस साइट से कनेक्ट नहीं है। किसी web3 साइट से कनेक्ट करने के लिए, उनकी साइट पर कनेक्ट बटन खोजें।"
   },
   "connectedSites": {
     "message": "कनेक्ट की गई साइटें"
@@ -334,7 +334,7 @@
     "message": "Kovan टेस्ट नेटवर्क से कनेक्ट हो रहा है"
   },
   "connectingToMainnet": {
-    "message": "Ethereum Mainnet से कनेक्ट हो रहा है"
+    "message": "Thinkium Mainnet से कनेक्ट हो रहा है"
   },
   "connectingToRinkeby": {
     "message": "Rinkeby टेस्ट नेटवर्क से कनेक्ट हो रहा है"
@@ -418,7 +418,7 @@
     "message": "कस्टम टोकन"
   },
   "dataBackupFoundInfo": {
-    "message": "MetaMask की पिछली स्थापना के दौरान आपके कुछ खाता डेटा का बैकअप लिया गया था। इसमें आपकी सेटिंग, संपर्क और टोकन शामिल हो सकते हैं। क्या आप अब इस डेटा को पुनर्स्थापित करना चाहेंगे?"
+    "message": "TMMSK की पिछली स्थापना के दौरान आपके कुछ खाता डेटा का बैकअप लिया गया था। इसमें आपकी सेटिंग, संपर्क और टोकन शामिल हो सकते हैं। क्या आप अब इस डेटा को पुनर्स्थापित करना चाहेंगे?"
   },
   "decimal": {
     "message": "दशमलव परिशुद्धता"
@@ -544,13 +544,13 @@
     "message": "वाक्यांश को कभी भी किसी के साथ साझा न करें।"
   },
   "endOfFlowMessage5": {
-    "message": "फ़िशिंग से सावधान रहें! MetaMask कभी भी अनायास ही आपके सीड फ्रेज़ के बारे में नहीं पूछेगा।"
+    "message": "फ़िशिंग से सावधान रहें! TMMSK कभी भी अनायास ही आपके सीड फ्रेज़ के बारे में नहीं पूछेगा।"
   },
   "endOfFlowMessage6": {
     "message": "यदि आपको अपने सीड फ्रेज़ को फिर से बैकअप लेने की आवश्यकता है, तो आप इसे सेटिंग्स -> सुरक्षा में पा सकते हैं।"
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask आपके सीडफ्रेज़ को पुनर्प्राप्त नहीं कर सकता है।"
+    "message": "TMMSK आपके सीडफ्रेज़ को पुनर्प्राप्त नहीं कर सकता है।"
   },
   "endOfFlowMessage9": {
     "message": "अधिक जानें।"
@@ -560,7 +560,7 @@
     "description": "$1 is the return value of eth_chainId from an RPC endpoint"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "वर्तमान नेटवर्क पर ENS नाम नहीं मिला। Ethereum Mainnet पर स्विच करने का प्रयास करें।"
+    "message": "वर्तमान नेटवर्क पर ENS नाम नहीं मिला। Thinkium Mainnet पर स्विच करने का प्रयास करें।"
   },
   "ensRegistrationError": {
     "message": "ENS नाम पंजीकरण में त्रुटि"
@@ -594,7 +594,7 @@
     "description": "Displayed error name for debugging purposes. $1 is the error name"
   },
   "errorPageTitle": {
-    "message": "MetaMask में कोई त्रुटि हुई",
+    "message": "TMMSK में कोई त्रुटि हुई",
     "description": "Title of generic error page"
   },
   "errorStack": {
@@ -609,7 +609,7 @@
     "description": "The description for the `eth_accounts` permission"
   },
   "ethereumPublicAddress": {
-    "message": "Ethereum सार्वजनिक पता"
+    "message": "Thinkium सार्वजनिक पता"
   },
   "etherscan": {
     "message": "Etherscan"
@@ -743,7 +743,7 @@
     "message": "हार्डवेयर वॉलेट कनेक्ट करें"
   },
   "hardwareWalletsMsg": {
-    "message": "किसी हार्डवेयर वॉलेट का चयन करें, जिसे आप MetaMask के साथ उपयोग करना चाहते हैं"
+    "message": "किसी हार्डवेयर वॉलेट का चयन करें, जिसे आप TMMSK के साथ उपयोग करना चाहते हैं"
   },
   "havingTroubleConnecting": {
     "message": "कनेक्ट करने में समस्या हो रही है?"
@@ -776,7 +776,7 @@
     "message": "खाता आयात करें"
   },
   "importAccountMsg": {
-    "message": " आयातित खाते आपके मूल रूप से बनाए गए MetaMask खाते सीडफ्रेज़ से संबद्ध नहीं होंगे। आयातित खातों के बारे में अधिक जानें "
+    "message": " आयातित खाते आपके मूल रूप से बनाए गए TMMSK खाते सीडफ्रेज़ से संबद्ध नहीं होंगे। आयातित खातों के बारे में अधिक जानें "
   },
   "importAccountSeedPhrase": {
     "message": "सीडफ्रेज़ के साथ कोई खाता आयात करें"
@@ -912,7 +912,7 @@
     "message": "लॉक समय बहुत अधिक है"
   },
   "mainnet": {
-    "message": "Ethereum Mainnet"
+    "message": "Thinkium Mainnet"
   },
   "max": {
     "message": "अधिकतम"
@@ -927,7 +927,7 @@
     "message": "संदेश"
   },
   "metaMaskConnectStatusParagraphOne": {
-    "message": "अब MetaMask में आपके खाते के कनेक्शन पर आपका अधिक नियंत्रण है।"
+    "message": "अब TMMSK में आपके खाते के कनेक्शन पर आपका अधिक नियंत्रण है।"
   },
   "metaMaskConnectStatusParagraphThree": {
     "message": "अपने कनेक्ट किए गए खातों को प्रबंधित करने के लिए इसे क्लिक करें।"
@@ -936,13 +936,13 @@
     "message": "कनेक्शन स्थिति बटन दिखाता है कि आप जिस वेबसाइट पर जा रहे हैं, वह आपके वर्तमान में चयनित खाते से कनेक्ट है।"
   },
   "metamaskDescription": {
-    "message": "आपको Ethereum और विकेंद्रीकृत वेब से कनेक्ट किया जा रहा है।"
+    "message": "आपको Thinkium और विकेंद्रीकृत वेब से कनेक्ट किया जा रहा है।"
   },
   "metamaskSwapsOfflineDescription": {
-    "message": "MetaMask स्वैप का रखरखाव किया जा रहा है। कृपया बाद में वापस देखें।"
+    "message": "TMMSK स्वैप का रखरखाव किया जा रहा है। कृपया बाद में वापस देखें।"
   },
   "metamaskVersion": {
-    "message": "MetaMask संस्करण"
+    "message": "TMMSK संस्करण"
   },
   "metametricsCommitmentsAllowOptOut": {
     "message": "हमेशा आपको सेटिंग्स के माध्यम से ऑप्ट-आउट करने की अनुमति दें"
@@ -952,7 +952,7 @@
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
   "metametricsCommitmentsIntro": {
-    "message": "MetaMask निम्न चीज़ें करेगा.."
+    "message": "TMMSK निम्न चीज़ें करेगा.."
   },
   "metametricsCommitmentsNeverCollectIP": {
     "message": "$1 आपका पूरा IP पता एकत्र करेगा",
@@ -970,10 +970,10 @@
     "message": "बेनाम क्लिक और पेजव्यू ईवेंट भेजें"
   },
   "metametricsHelpImproveMetaMask": {
-    "message": "MetaMask को बेहतर बनाने में हमारी मदद करें"
+    "message": "TMMSK को बेहतर बनाने में हमारी मदद करें"
   },
   "metametricsOptInDescription": {
-    "message": "MetaMask इस बात की बेहतर समझ प्राप्त करने के लिए डेटा एकत्र करना चाहता है कि हमारे उपयोगकर्ता विस्तार के साथ कैसे सहभागिता करते हैं। इस डेटा का उपयोग हमारे उत्पाद और Ethereum पारिस्थितिकी तंत्र की उपयोगिता और उपयोगकर्ता अनुभव को लगातार सुधारने के लिए किया जाएगा।"
+    "message": "TMMSK इस बात की बेहतर समझ प्राप्त करने के लिए डेटा एकत्र करना चाहता है कि हमारे उपयोगकर्ता विस्तार के साथ कैसे सहभागिता करते हैं। इस डेटा का उपयोग हमारे उत्पाद और Thinkium पारिस्थितिकी तंत्र की उपयोगिता और उपयोगकर्ता अनुभव को लगातार सुधारने के लिए किया जाएगा।"
   },
   "mobileSyncText": {
     "message": "कृपया यह पुष्टि करने के लिए अपना पासवर्ड दर्ज करें कि यह आप ही हैं!"
@@ -988,10 +988,10 @@
     "message": "मेरे वॉलेट खाते"
   },
   "myWalletAccountsDescription": {
-    "message": "आपके सभी MetaMask निर्मित खाते स्वतः ही इस अनुभाग में जोड़ दिए जाएँगे।"
+    "message": "आपके सभी TMMSK निर्मित खाते स्वतः ही इस अनुभाग में जोड़ दिए जाएँगे।"
   },
   "needEtherInWallet": {
-    "message": "MetaMask का उपयोग करके विकेंद्रीकृत एप्लिकेशन के साथ सहभागिता करने के लिए, आपको अपने वॉलेट में Ether की आवश्यकता होगी।"
+    "message": "TMMSK का उपयोग करके विकेंद्रीकृत एप्लिकेशन के साथ सहभागिता करने के लिए, आपको अपने वॉलेट में Ether की आवश्यकता होगी।"
   },
   "needImportFile": {
     "message": "आयात करने के लिए आपको एक फ़ाइल का चयन करना होगा।",
@@ -1038,7 +1038,7 @@
     "message": "नया पासवर्ड (न्यूनतम 8 वर्ण)"
   },
   "newToMetaMask": {
-    "message": "MetaMask पर नए हैं?"
+    "message": "TMMSK पर नए हैं?"
   },
   "newTotal": {
     "message": "नया कुलयोग"
@@ -1051,7 +1051,7 @@
   },
   "nextNonceWarning": {
     "message": "नॉन्स $1 के सुझाए गए नॉन्स से अधिक है",
-    "description": "The next nonce according to MetaMask's internal logic"
+    "description": "The next nonce according to TMMSK's internal logic"
   },
   "noAccountsFound": {
     "message": "दी गई खोज क्वेरी के लिए कोई खाता नहीं मिला"
@@ -1112,7 +1112,7 @@
     "description": "Return the user to the site that initiated onboarding"
   },
   "onlyAddTrustedNetworks": {
-    "message": "दुर्भावनापूर्ण Ethereum नेटवर्क प्रदाता ब्लॉकचेन की स्थिति के बारे में झूठ बोल सकता है और आपकी नेटवर्क गतिविधि रिकॉर्ड कर सकता है। केवल उन कस्टम नेटवर्क को जोड़ें, जिन पर आप भरोसा करते हैं।"
+    "message": "दुर्भावनापूर्ण Thinkium नेटवर्क प्रदाता ब्लॉकचेन की स्थिति के बारे में झूठ बोल सकता है और आपकी नेटवर्क गतिविधि रिकॉर्ड कर सकता है। केवल उन कस्टम नेटवर्क को जोड़ें, जिन पर आप भरोसा करते हैं।"
   },
   "onlyAvailableOnMainnet": {
     "message": "केवल मेननेट पर उपलब्ध है"
@@ -1139,7 +1139,7 @@
     "message": "MetaMetrics में भाग लें"
   },
   "participateInMetaMetricsDescription": {
-    "message": "MetaMetrics में भाग लें, जिससे हमें MetaMask को बेहतर बनाने में मदद मिल सके"
+    "message": "MetaMetrics में भाग लें, जिससे हमें TMMSK को बेहतर बनाने में मदद मिल सके"
   },
   "password": {
     "message": "पासवर्ड"
@@ -1377,7 +1377,7 @@
     "message": "किसी खाते का चयन करें"
   },
   "selectAnAccountHelp": {
-    "message": "MetaMask में देखने के लिए खाते का चयन करें"
+    "message": "TMMSK में देखने के लिए खाते का चयन करें"
   },
   "selectEachPhrase": {
     "message": "कृपया प्रत्येक वाक्यांश का चयन करें, ताकि यह सुनिश्चित हो सके कि यह सही है।"
@@ -1508,7 +1508,7 @@
     "message": "स्टेट लॉग को पुनर्प्राप्त करने में त्रुटि।"
   },
   "stateLogFileName": {
-    "message": "MetaMask स्टेट लॉग"
+    "message": "TMMSK स्टेट लॉग"
   },
   "stateLogs": {
     "message": "स्टेट लॉग"
@@ -1538,7 +1538,7 @@
     "message": "3. web3 साइटों और अधिक का उपयोग करना प्रारंभ करें!"
   },
   "step3HardwareWalletMsg": {
-    "message": "अपने हार्डवेयर खाते का उसी तरह से उपयोग करें, जैसे आप किसी भी Ethereum खाते को करेंगे। web3 साइटों से कनेक्ट करें, ETH भेजें, ERC20 और CryptoKitties जैसे गैर-प्रतिमोचन वाले टोकन जैसे टोकन खरीदें और संग्रहीत करें।"
+    "message": "अपने हार्डवेयर खाते का उसी तरह से उपयोग करें, जैसे आप किसी भी Thinkium खाते को करेंगे। web3 साइटों से कनेक्ट करें, ETH भेजें, ERC20 और CryptoKitties जैसे गैर-प्रतिमोचन वाले टोकन जैसे टोकन खरीदें और संग्रहीत करें।"
   },
   "storePhrase": {
     "message": "इस वाक्यांश को 1Password जैसे किसी पासवर्ड मैनेजर में संग्रहीत करें।"
@@ -1593,7 +1593,7 @@
     "message": "सीमा संपादित करें"
   },
   "swapEnableDescription": {
-    "message": "यह आवश्यक है और MetaMask को आपके $1 को स्वैप करने की अनुमति देता है।",
+    "message": "यह आवश्यक है और TMMSK को आपके $1 को स्वैप करने की अनुमति देता है।",
     "description": "Gives the user info about the required approval transaction for swaps. $1 will be the symbol of a token being approved for swaps."
   },
   "swapEstimatedNetworkFee": {
@@ -1631,13 +1631,13 @@
     "message": "अधिक सीखना चाहते हैं?"
   },
   "swapIntroLearnMoreLink": {
-    "message": "MetaMask स्वैप के बारे में अधिक जानें"
+    "message": "TMMSK स्वैप के बारे में अधिक जानें"
   },
   "swapIntroLiquiditySourcesLabel": {
     "message": "चलनिधि स्रोतों में निम्न शामिल हैं:"
   },
   "swapIntroPopupSubTitle": {
-    "message": "अब आप अपने MetaMask वॉलेट में सीधे टोकन स्वैप कर सकते हैं। MetaMask स्वैप कई विकेंद्रीकृत विनिमय एग्रीगेटर, पेशेवर बाजार निर्माताओं और व्यक्तिगत DEX को जोड़ता है, ताकि MetaMask उपयोगकर्ताओं को हमेशा सबसे कम नेटवर्क शुल्क के साथ सबसे अच्छा मूल्य मिल सके।"
+    "message": "अब आप अपने TMMSK वॉलेट में सीधे टोकन स्वैप कर सकते हैं। TMMSK स्वैप कई विकेंद्रीकृत विनिमय एग्रीगेटर, पेशेवर बाजार निर्माताओं और व्यक्तिगत DEX को जोड़ता है, ताकि TMMSK उपयोगकर्ताओं को हमेशा सबसे कम नेटवर्क शुल्क के साथ सबसे अच्छा मूल्य मिल सके।"
   },
   "swapIntroPopupTitle": {
     "message": "टोकन स्वैपिंग यहाँ उपलब्ध है!"
@@ -1659,14 +1659,14 @@
     "message": "अधिकतम स्लिपेज"
   },
   "swapMetaMaskFee": {
-    "message": "MetaMask शुल्क"
+    "message": "TMMSK शुल्क"
   },
   "swapMetaMaskFeeDescription": {
-    "message": "हम हर बार शीर्ष चलनिधि स्रोतों से सबसे अच्छे मूल्य पाते हैं। $1% का शुल्क स्वचालित रूप से प्रत्येक उद्धरण में शामिल होता है, जो MetaMask को और बेहतर बनाने के लिए चालू विकास का समर्थन करता है।",
+    "message": "हम हर बार शीर्ष चलनिधि स्रोतों से सबसे अच्छे मूल्य पाते हैं। $1% का शुल्क स्वचालित रूप से प्रत्येक उद्धरण में शामिल होता है, जो TMMSK को और बेहतर बनाने के लिए चालू विकास का समर्थन करता है।",
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapNetworkFeeSummary": {
-    "message": "नेटवर्क शुल्क आपके स्वैप को संसाधित करने के शुल्क और उसे Ethereum नेटवर्क पर संग्रह करने को कवर करता है। MetaMask इस शुल्क से लाभ नहीं कमाता है।"
+    "message": "नेटवर्क शुल्क आपके स्वैप को संसाधित करने के शुल्क और उसे Thinkium नेटवर्क पर संग्रह करने को कवर करता है। TMMSK इस शुल्क से लाभ नहीं कमाता है।"
   },
   "swapNewQuoteIn": {
     "message": "$1 में नए उद्धरण",
@@ -1686,7 +1686,7 @@
     "message": "यदि आपके ऑर्डर किए जाने और पुष्टि किए जाने के समय के बीच मूल्य में परिवर्तन होता है, तो इसे \"स्लिपेज\" कहा जाता है। यदि आपका स्लिपेज आपकी \"अधिकतम स्लिपेज\" सेटिंग से अधिक हो जाता है, तो आपका स्वैप स्वतः रद्द हो जाएगा।"
   },
   "swapQuoteIncludesRate": {
-    "message": "उद्धरण में $1% का MetaMask शुल्क शामिल है",
+    "message": "उद्धरण में $1% का TMMSK शुल्क शामिल है",
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapQuoteNofN": {
@@ -1822,16 +1822,16 @@
     "message": "सुनिश्चित करें कि जब आप इस कोड को स्कैन कर रहे हों, तो आपकी स्क्रीन पर कोई और न देख रहा हो"
   },
   "syncWithMobileComplete": {
-    "message": "आपका डेटा सफलतापूर्वक सिंक कर लिया गया है। MetaMask मोबाइल ऐप का आनंद लें!"
+    "message": "आपका डेटा सफलतापूर्वक सिंक कर लिया गया है। TMMSK मोबाइल ऐप का आनंद लें!"
   },
   "syncWithMobileDesc": {
-    "message": "आप अपने खाते और जानकारी को अपने मोबाइल डिवाइस के साथ सिंक कर सकते हैं। MetaMask मोबाइल ऐप खोलें, \"सेटिंग\" पर जाएँ और \"ब्राउज़र एक्सटेंशन से सिंक करें\" पर टैप करें"
+    "message": "आप अपने खाते और जानकारी को अपने मोबाइल डिवाइस के साथ सिंक कर सकते हैं। TMMSK मोबाइल ऐप खोलें, \"सेटिंग\" पर जाएँ और \"ब्राउज़र एक्सटेंशन से सिंक करें\" पर टैप करें"
   },
   "syncWithMobileDescNewUsers": {
-    "message": "यदि आप पहली बार MetaMask मोबाइल ऐप खोलते हैं, तो बस अपने फ़ोन में दिए गए चरणों का पालन करें।"
+    "message": "यदि आप पहली बार TMMSK मोबाइल ऐप खोलते हैं, तो बस अपने फ़ोन में दिए गए चरणों का पालन करें।"
   },
   "syncWithMobileScanThisCode": {
-    "message": "इस कोड को अपने MetaMask मोबाइल ऐप से स्कैन करें"
+    "message": "इस कोड को अपने TMMSK मोबाइल ऐप से स्कैन करें"
   },
   "syncWithMobileTitle": {
     "message": "मोबाइल के साथ सिंक करें"
@@ -1952,7 +1952,7 @@
     "message": "पुनः प्रयास करें"
   },
   "typePassword": {
-    "message": "अपना MetaMask पासवर्ड टाइप करें"
+    "message": "अपना TMMSK पासवर्ड टाइप करें"
   },
   "unapproved": {
     "message": "अननुमोदित"
@@ -1997,7 +1997,7 @@
     "message": "फ़िशिंग डिटेक्शन का उपयोग करें"
   },
   "usePhishingDetectionDescription": {
-    "message": "Ethereum उपयोगकर्ताओं को लक्षित करने वाले फ़िशिंग डोमेन के लिए एक चेतावनी प्रदर्शित करें"
+    "message": "Thinkium उपयोगकर्ताओं को लक्षित करने वाले फ़िशिंग डोमेन के लिए एक चेतावनी प्रदर्शित करें"
   },
   "usedByClients": {
     "message": "विभिन्न क्लाइंट द्वारा उपयोग किया जाता है"
@@ -2034,7 +2034,7 @@
     "message": "सीड फ्रेज़"
   },
   "welcome": {
-    "message": "MetaMask में आपका स्वागत है"
+    "message": "TMMSK में आपका स्वागत है"
   },
   "welcomeBack": {
     "message": "वापसी पर स्वागत है!"

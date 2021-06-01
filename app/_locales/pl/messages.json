@@ -30,7 +30,7 @@
     "message": "dziennik aktywności"
   },
   "addAcquiredTokens": {
-    "message": "Dodaj tokeny pozyskane przy pomocy MetaMask"
+    "message": "Dodaj tokeny pozyskane przy pomocy TMMSK"
   },
   "addAlias": {
     "message": "Dodaj alias"
@@ -69,11 +69,11 @@
     "message": "Ilość"
   },
   "appDescription": {
-    "message": "Wtyczka przeglądarki do Ethereum",
+    "message": "Wtyczka przeglądarki do Thinkium",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "TMMSK",
     "description": "The name of the application"
   },
   "approve": {
@@ -101,7 +101,7 @@
     "message": "Czas automatycznego wylogowania (w minutach)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Ustaw czas bezczynności w minutach, po którym MetaMask wyloguje Cię automatycznie"
+    "message": "Ustaw czas bezczynności w minutach, po którym TMMSK wyloguje Cię automatycznie"
   },
   "average": {
     "message": "Średnia"
@@ -113,7 +113,7 @@
     "message": "Wróć do wszystkich"
   },
   "backupApprovalInfo": {
-    "message": "Ten tajny kod jest wymagany do odzyskania portfela w przypadku zgubienia urządzenia, zapomnienia hasła, ponownego zainstalowania MetaMask lub potrzeby uzyskania dostępu do portfela na innym urządzeniu."
+    "message": "Ten tajny kod jest wymagany do odzyskania portfela w przypadku zgubienia urządzenia, zapomnienia hasła, ponownego zainstalowania TMMSK lub potrzeby uzyskania dostępu do portfela na innym urządzeniu."
   },
   "backupApprovalNotice": {
     "message": "Utwórz kopię zapasową tajnego kodu odzyskiwania, aby zapewnić bezpieczeństwo swojego portfela i środków."
@@ -144,13 +144,13 @@
     "message": "Twoja przeglądarka nie jest obsługiwana..."
   },
   "builtInCalifornia": {
-    "message": "MetaMask został zaprojektowany i stworzony w Kaliforni."
+    "message": "TMMSK został zaprojektowany i stworzony w Kaliforni."
   },
   "buyWithWyre": {
     "message": "Kup ETH poprzez Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Dzięki Wyre możesz użyć karty kredytowej, aby wpłacić ETH bezpośrednio na swoje konto MetaMask."
+    "message": "Dzięki Wyre możesz użyć karty kredytowej, aby wpłacić ETH bezpośrednio na swoje konto TMMSK."
   },
   "bytes": {
     "message": "Bajty"
@@ -168,7 +168,7 @@
     "message": "Identyfikator łańcucha"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Żeby połączyć się z portfelem sprzętowym, należy uruchomić MetaMask z przeglądarką Google Chrome."
+    "message": "Żeby połączyć się z portfelem sprzętowym, należy uruchomić TMMSK z przeglądarką Google Chrome."
   },
   "clickToRevealSeed": {
     "message": "Kliknij tutaj, aby odkryć tajne słowa"
@@ -207,7 +207,7 @@
     "message": "Łączenie z siecią testową Kovan"
   },
   "connectingToMainnet": {
-    "message": "Łączenie z główną siecią Ethereum"
+    "message": "Łączenie z główną siecią Thinkium"
   },
   "connectingToRinkeby": {
     "message": "Łączenie z siecią testową Rinkeby"
@@ -345,19 +345,19 @@
     "message": "Nigdy nie udostępniaj nikomu tej frazy."
   },
   "endOfFlowMessage5": {
-    "message": "Uważaj na phishing! MetaMask nigdy spontanicznie nie poprosi Cię o podanie frazy seed."
+    "message": "Uważaj na phishing! TMMSK nigdy spontanicznie nie poprosi Cię o podanie frazy seed."
   },
   "endOfFlowMessage6": {
     "message": "Jeśli zajdzie konieczność ponownego wykonania kopii zapasowej frazy seed, znajdziesz ją w Ustawieniach -> Zabezpieczenia."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask nie może odzyskać Twojej frazy seed. Dowiedz się więcej."
+    "message": "TMMSK nie może odzyskać Twojej frazy seed. Dowiedz się więcej."
   },
   "endOfFlowMessage9": {
     "message": "Dowiedz się więcej."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Nazwa ENS nie została znaleziona w bieżącej sieci. Spróbuj przełączyć się na Główną sieć Ethereum."
+    "message": "Nazwa ENS nie została znaleziona w bieżącej sieci. Spróbuj przełączyć się na Główną sieć Thinkium."
   },
   "ensRegistrationError": {
     "message": "Błąd w rejestracji nazwy ENS"
@@ -375,7 +375,7 @@
     "message": "Szacunkowy czas przetwarzania"
   },
   "ethereumPublicAddress": {
-    "message": "Adres publiczny Ethereum"
+    "message": "Adres publiczny Thinkium"
   },
   "etherscanView": {
     "message": "Zobacz konto na Etherscan"
@@ -494,7 +494,7 @@
     "message": "Importuj konto"
   },
   "importAccountMsg": {
-    "message": " Importowane konta nie będą powiązane z Twoją pierwotną frazą seed MetaMask. Dowiedz się więcej o importowaniu kont "
+    "message": " Importowane konta nie będą powiązane z Twoją pierwotną frazą seed TMMSK. Dowiedz się więcej o importowaniu kont "
   },
   "importAccountSeedPhrase": {
     "message": "Zaimportuj konto za pomocą frazy seed"
@@ -586,7 +586,7 @@
     "message": "Wyloguj się"
   },
   "mainnet": {
-    "message": "Główna sieć Ethereum"
+    "message": "Główna sieć Thinkium"
   },
   "max": {
     "message": "Maks."
@@ -598,10 +598,10 @@
     "message": "Wiadomość"
   },
   "metamaskDescription": {
-    "message": "MetaMask to bezpieczny portfel dla Ethereum."
+    "message": "TMMSK to bezpieczny portfel dla Thinkium."
   },
   "metamaskVersion": {
-    "message": "Wersja MetaMask"
+    "message": "Wersja TMMSK"
   },
   "mobileSyncText": {
     "message": "Wpisz hasło, aby potwierdzić, że to Ty!"
@@ -616,10 +616,10 @@
     "message": "Moja konta portfeli"
   },
   "myWalletAccountsDescription": {
-    "message": "Wszystkie Twoje konta utworzone w MetaMask zostaną automatycznie dodane do tej sekcji."
+    "message": "Wszystkie Twoje konta utworzone w TMMSK zostaną automatycznie dodane do tej sekcji."
   },
   "needEtherInWallet": {
-    "message": "Żeby skorzystać ze zdecentraliowanych aplikacji (dApps) przy pomocy MetaMask, potrzebujesz Eteru w swoim portfelu."
+    "message": "Żeby skorzystać ze zdecentraliowanych aplikacji (dApps) przy pomocy TMMSK, potrzebujesz Eteru w swoim portfelu."
   },
   "needImportFile": {
     "message": "Musisz wybrać plik do zaimportowania.",
@@ -663,7 +663,7 @@
     "message": "Nowe hasło (min. 8 znaków)"
   },
   "newToMetaMask": {
-    "message": "Pierwszy raz w MetaMask?"
+    "message": "Pierwszy raz w TMMSK?"
   },
   "newTotal": {
     "message": "Nowa suma"
@@ -723,7 +723,7 @@
     "message": "Weź udział w MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Weź udział w MetaMetrics, aby pomóc nam ulepszyć MetaMask"
+    "message": "Weź udział w MetaMetrics, aby pomóc nam ulepszyć TMMSK"
   },
   "password": {
     "message": "Hasło"
@@ -911,7 +911,7 @@
     "message": "Wybierz konto"
   },
   "selectAnAccountHelp": {
-    "message": "Wybierz konto do przeglądania w MetaMask"
+    "message": "Wybierz konto do przeglądania w TMMSK"
   },
   "selectEachPhrase": {
     "message": "Wybierz każdą frazę, aby upewnić się, że jest poprawna."
@@ -1022,7 +1022,7 @@
     "message": "3. Zacznij używać dystrybuowanych aplikacji (dApps) i wiele więcej!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Używaj swojego konta sprzętowego tak, jak używasz jakiegokolwiek konta z Ethereum. Loguj się do dystrybuowanych aplikacji (dApps), wysyłaj Eth, kupuj i przechowaj tokeny ERC20 i niewymienne tokeny, jak np. CryptoKitties."
+    "message": "Używaj swojego konta sprzętowego tak, jak używasz jakiegokolwiek konta z Thinkium. Loguj się do dystrybuowanych aplikacji (dApps), wysyłaj Eth, kupuj i przechowaj tokeny ERC20 i niewymienne tokeny, jak np. CryptoKitties."
   },
   "storePhrase": {
     "message": "Przechowuj tę frazę w menedżerze haseł, takim jak 1Password."
@@ -1046,16 +1046,16 @@
     "message": "Upewnij się, że nikt inny nie patrzy na Twój ekran podczas skanowania tego kodu"
   },
   "syncWithMobileComplete": {
-    "message": "Twoje dane zostały zsynchronizowane. Miłego korzystania z aplikacji mobilnej MetaMask!"
+    "message": "Twoje dane zostały zsynchronizowane. Miłego korzystania z aplikacji mobilnej TMMSK!"
   },
   "syncWithMobileDesc": {
-    "message": "Możesz synchronizować swoje konta i informacje z urządzeniem mobilnym. Otwórz aplikację mobilną MetaMask, przejdź do „Ustawień” i wybierz opcję „Synchronizuj z rozszerzeniem przeglądarki”."
+    "message": "Możesz synchronizować swoje konta i informacje z urządzeniem mobilnym. Otwórz aplikację mobilną TMMSK, przejdź do „Ustawień” i wybierz opcję „Synchronizuj z rozszerzeniem przeglądarki”."
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Jeśli po raz pierwszy otwierasz aplikację MetaMask Mobile, postępuj zgodnie z instrukcjami w telefonie."
+    "message": "Jeśli po raz pierwszy otwierasz aplikację TMMSK Mobile, postępuj zgodnie z instrukcjami w telefonie."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Zeskanuj ten kod za pomocą aplikacji mobilnej MetaMask"
+    "message": "Zeskanuj ten kod za pomocą aplikacji mobilnej TMMSK"
   },
   "syncWithMobileTitle": {
     "message": "Synchronizuj z telefonem"
@@ -1206,7 +1206,7 @@
     "message": "Seed portfela"
   },
   "welcome": {
-    "message": "Witaj w MetaMask"
+    "message": "Witaj w TMMSK"
   },
   "welcomeBack": {
     "message": "Witaj z powrotem!"

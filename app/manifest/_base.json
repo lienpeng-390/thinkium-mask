@@ -21,7 +21,7 @@
       "128": "images/icon-128.png",
       "512": "images/icon-512.png"
     },
-    "default_title": "SpaceCat",
+    "default_title": "TMMSK",
     "default_popup": "popup.html"
   },
   "commands": {
@@ -65,7 +65,7 @@
     "512": "images/icon-512.png"
   },
   "manifest_version": 2,
-  "name": "SpaceCat",
+  "name": "TMMSK",
   "permissions": [
     "storage",
     "unlimitedStorage",
@@ -77,7 +77,7 @@
     "*://*.eth/",
     "notifications"
   ],
-  "short_name": "SpaceCat",
+  "short_name": "TMMSK",
   "version": "9.4.0",
   "web_accessible_resources": ["inpage.js", "phishing.html"]
 }

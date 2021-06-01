@@ -47,7 +47,7 @@
     "message": "Tambahkan akun"
   },
   "addAcquiredTokens": {
-    "message": "Tambahkan token yang Anda peroleh menggunakan MetaMask"
+    "message": "Tambahkan token yang Anda peroleh menggunakan TMMSK"
   },
   "addAlias": {
     "message": "Tambahkan alias"
@@ -124,11 +124,11 @@
     "message": "Jumlah:"
   },
   "appDescription": {
-    "message": "Dompet Ethereum di Browser Anda",
+    "message": "Dompet Thinkium di Browser Anda",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "TMMSK",
     "description": "The name of the application"
   },
   "approvalAndAggregatorTxFeeCost": {
@@ -172,7 +172,7 @@
     "message": "Timer Mengunci Otomatis (menit)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Atur waktu siaga dalam menit sebelum MetaMask menjadi terkunci."
+    "message": "Atur waktu siaga dalam menit sebelum TMMSK menjadi terkunci."
   },
   "average": {
     "message": "Rata-rata"
@@ -184,7 +184,7 @@
     "message": "Kembali ke Semua"
   },
   "backupApprovalInfo": {
-    "message": "Kode rahasia ini diperlukan untuk memulihkan dompet seandainya Anda kehilangan perangkat, lupa kata sandi, harus menginstal kembali MetaMask, atau ingin mengakses dompet Anda di perangkat lain."
+    "message": "Kode rahasia ini diperlukan untuk memulihkan dompet seandainya Anda kehilangan perangkat, lupa kata sandi, harus menginstal kembali TMMSK, atau ingin mengakses dompet Anda di perangkat lain."
   },
   "backupApprovalNotice": {
     "message": "Cadangkan kode Pemulihan Rahasia Anda untuk menjaga keamanan dompet dan dana Anda."
@@ -215,7 +215,7 @@
     "message": "Browser Anda tidak didukung..."
   },
   "builtInCalifornia": {
-    "message": "MetaMask didesain dan didirikan di California."
+    "message": "TMMSK didesain dan didirikan di California."
   },
   "buy": {
     "message": "Beli"
@@ -224,7 +224,7 @@
     "message": "Beli ETH dengan Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre memungkinkan Anda menggunakan kartu debit untuk menyetorkan ETH langsung di akun MetaMask Anda."
+    "message": "Wyre memungkinkan Anda menggunakan kartu debit untuk menyetorkan ETH langsung di akun TMMSK Anda."
   },
   "bytes": {
     "message": "Byte"
@@ -242,7 +242,7 @@
     "message": "ID Rantai"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Anda perlu menggunakan MetaMask di Google Chrome untuk terhubung ke Dompet Perangkat Keras Anda."
+    "message": "Anda perlu menggunakan TMMSK di Google Chrome untuk terhubung ke Dompet Perangkat Keras Anda."
   },
   "clickToRevealSeed": {
     "message": "Klik di sini untuk membuka kata rahasia"
@@ -298,7 +298,7 @@
     "description": "$1 is the number of accounts to which the web3 site/application is asking to connect; this will substitute $1 in connectToMultiple"
   },
   "connectWithMetaMask": {
-    "message": "Hubungkan Dengan MetaMask"
+    "message": "Hubungkan Dengan TMMSK"
   },
   "connectedAccountsDescriptionPlural": {
     "message": "Anda memiliki $1 akun yang terhubung ke situs ini.",
@@ -308,7 +308,7 @@
     "message": "Anda memiliki 1 akun yang terhubung ke situs ini."
   },
   "connectedAccountsEmptyDescription": {
-    "message": "MetaMask tidak terhubung ke situs ini. Untuk terhubung ke situs web3, temukan tombol hubungkan di situs mereka."
+    "message": "TMMSK tidak terhubung ke situs ini. Untuk terhubung ke situs web3, temukan tombol hubungkan di situs mereka."
   },
   "connectedSites": {
     "message": "Situs yang terhubung"
@@ -334,7 +334,7 @@
     "message": "Menghubungkan ke Jaringan Uji Kovan"
   },
   "connectingToMainnet": {
-    "message": "Menghubungkan ke Ethereum Mainnet"
+    "message": "Menghubungkan ke Thinkium Mainnet"
   },
   "connectingToRinkeby": {
     "message": "Menghubungkan ke Jaringan Uji Rinkeby"
@@ -418,7 +418,7 @@
     "message": "Token Kustom"
   },
   "dataBackupFoundInfo": {
-    "message": "Beberapa data akun Anda telah dicadangkan selama penginstalan MetaMask yang lalu. Ini bisa mencakup pengaturan, kontak, dan token Anda. Apakah Anda ingin memulihkan data ini sekarang?"
+    "message": "Beberapa data akun Anda telah dicadangkan selama penginstalan TMMSK yang lalu. Ini bisa mencakup pengaturan, kontak, dan token Anda. Apakah Anda ingin memulihkan data ini sekarang?"
   },
   "decimal": {
     "message": "Desimal Presisi"
@@ -544,13 +544,13 @@
     "message": "Jangan bagikan frasa kepada siapa pun."
   },
   "endOfFlowMessage5": {
-    "message": "Berhati-hatilah dengan phishing! MetaMask tidak pernah secara spontan meminta frasa pemulihan Anda."
+    "message": "Berhati-hatilah dengan phishing! TMMSK tidak pernah secara spontan meminta frasa pemulihan Anda."
   },
   "endOfFlowMessage6": {
     "message": "Jika Anda perlu mencadangkan frasa pemulihan lagi, Anda dapat menemukannya di Pengaturan -> Keamanan."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask tidak dapat memulihkan frasa pemulihan Anda."
+    "message": "TMMSK tidak dapat memulihkan frasa pemulihan Anda."
   },
   "endOfFlowMessage9": {
     "message": "Pelajari selengkapnya."
@@ -560,7 +560,7 @@
     "description": "$1 is the return value of eth_chainId from an RPC endpoint"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Nama ENS tidak ditemukan pada jaringan saat ini. Coba untuk beralih ke Ethereum Mainnet."
+    "message": "Nama ENS tidak ditemukan pada jaringan saat ini. Coba untuk beralih ke Thinkium Mainnet."
   },
   "ensRegistrationError": {
     "message": "Kesalahan pada pendaftaran nama ENS"
@@ -594,7 +594,7 @@
     "description": "Displayed error name for debugging purposes. $1 is the error name"
   },
   "errorPageTitle": {
-    "message": "MetaMask menemukan kesalahan",
+    "message": "TMMSK menemukan kesalahan",
     "description": "Title of generic error page"
   },
   "errorStack": {
@@ -609,7 +609,7 @@
     "description": "The description for the `eth_accounts` permission"
   },
   "ethereumPublicAddress": {
-    "message": "Alamat Publik Ethereum"
+    "message": "Alamat Publik Thinkium"
   },
   "etherscan": {
     "message": "Etherscan"
@@ -743,7 +743,7 @@
     "message": "Hubungkan dompet perangkat keras"
   },
   "hardwareWalletsMsg": {
-    "message": "Pilih dompet perangkat keras yang ingin Anda gunakan dengan MetaMask"
+    "message": "Pilih dompet perangkat keras yang ingin Anda gunakan dengan TMMSK"
   },
   "havingTroubleConnecting": {
     "message": "Ada masalah saat menghubungkan?"
@@ -776,7 +776,7 @@
     "message": "Impor Akun"
   },
   "importAccountMsg": {
-    "message": " Akun yang diimpor tidak akan dikaitkan dengan frasa pemulihan akun MetaMask yang asli dibuat. Pelajari selengkapnya tentang akun yang diimpor "
+    "message": " Akun yang diimpor tidak akan dikaitkan dengan frasa pemulihan akun TMMSK yang asli dibuat. Pelajari selengkapnya tentang akun yang diimpor "
   },
   "importAccountSeedPhrase": {
     "message": "Impor akun dengan frasa pemulihan"
@@ -912,7 +912,7 @@
     "message": "Lock time terlalu besar"
   },
   "mainnet": {
-    "message": "Ethereum Mainnet"
+    "message": "Thinkium Mainnet"
   },
   "max": {
     "message": "Maks."
@@ -927,7 +927,7 @@
     "message": "Pesan"
   },
   "metaMaskConnectStatusParagraphOne": {
-    "message": "Kini, Anda memiliki kontrol lebih banyak atas koneksi akun Anda di MetaMask."
+    "message": "Kini, Anda memiliki kontrol lebih banyak atas koneksi akun Anda di TMMSK."
   },
   "metaMaskConnectStatusParagraphThree": {
     "message": "Klik untuk mengelola akun Anda yang terhubung."
@@ -936,13 +936,13 @@
     "message": "Tombol status koneksi menunjukkan apakah situs web yang Anda kunjungi terhubung ke akun Anda yang dipilih saat ini."
   },
   "metamaskDescription": {
-    "message": "Menghubungkan Anda ke Ethereum dan Web Terdesentralisasi."
+    "message": "Menghubungkan Anda ke Thinkium dan Web Terdesentralisasi."
   },
   "metamaskSwapsOfflineDescription": {
-    "message": "MetaMask Swap sedang dalam pemeliharaan. Silakan periksa kembali nanti."
+    "message": "TMMSK Swap sedang dalam pemeliharaan. Silakan periksa kembali nanti."
   },
   "metamaskVersion": {
-    "message": "Versi MetaMask"
+    "message": "Versi TMMSK"
   },
   "metametricsCommitmentsAllowOptOut": {
     "message": "Selalu izinkan Anda untuk menyisih melalui Pengaturan"
@@ -952,7 +952,7 @@
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
   "metametricsCommitmentsIntro": {
-    "message": "MetaMask akan.."
+    "message": "TMMSK akan.."
   },
   "metametricsCommitmentsNeverCollectIP": {
     "message": "$1 mengumpulkan alamat IP lengkap Anda",
@@ -970,10 +970,10 @@
     "message": "Kirim kejadian pageview & klik anonim"
   },
   "metametricsHelpImproveMetaMask": {
-    "message": "Bantu Kami Menyempurnakan MetaMask"
+    "message": "Bantu Kami Menyempurnakan TMMSK"
   },
   "metametricsOptInDescription": {
-    "message": "MetaMask ingin mengumpulkan data penggunaan untuk lebih memahami cara pengguna berinteraksi dengan ekstensi. Data ini akan digunakan untuk secara kontinu memperbaiki kegunaan dan pengalaman pengguna atas produk kami dan ekosistem Ethereum."
+    "message": "TMMSK ingin mengumpulkan data penggunaan untuk lebih memahami cara pengguna berinteraksi dengan ekstensi. Data ini akan digunakan untuk secara kontinu memperbaiki kegunaan dan pengalaman pengguna atas produk kami dan ekosistem Thinkium."
   },
   "mobileSyncText": {
     "message": "Masukkan kata sandi Anda untuk memastikan ini adalah Anda!"
@@ -988,10 +988,10 @@
     "message": "Akun Dompet Saya"
   },
   "myWalletAccountsDescription": {
-    "message": "Semua akun Anda yang dibuat MetaMask akan secara otomatis ditambahkan ke bagian ini."
+    "message": "Semua akun Anda yang dibuat TMMSK akan secara otomatis ditambahkan ke bagian ini."
   },
   "needEtherInWallet": {
-    "message": "Untuk berinteraksi dengan aplikasi yang terdesentralisasi menggunakan MetaMask, Anda memerlukan Ether di dompet Anda."
+    "message": "Untuk berinteraksi dengan aplikasi yang terdesentralisasi menggunakan TMMSK, Anda memerlukan Ether di dompet Anda."
   },
   "needImportFile": {
     "message": "Anda harus memilih file untuk diimpor.",
@@ -1038,7 +1038,7 @@
     "message": "Kata sandi baru (min. 8 karakter)"
   },
   "newToMetaMask": {
-    "message": "Baru menggunakan MetaMask?"
+    "message": "Baru menggunakan TMMSK?"
   },
   "newTotal": {
     "message": "Total Baru"
@@ -1051,7 +1051,7 @@
   },
   "nextNonceWarning": {
     "message": "Nonce lebih tinggi dari nonce yang disarankan $1",
-    "description": "The next nonce according to MetaMask's internal logic"
+    "description": "The next nonce according to TMMSK's internal logic"
   },
   "noAccountsFound": {
     "message": "Tidak ditemukan akun untuk kueri pencarian yang diberikan"
@@ -1139,7 +1139,7 @@
     "message": "Ikut serta dalam MetaMetric"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Ikut serta dalam MetaMetric untuk membantu kami membuat MetaMask lebih baik"
+    "message": "Ikut serta dalam MetaMetric untuk membantu kami membuat TMMSK lebih baik"
   },
   "password": {
     "message": "Kata sandi"
@@ -1377,7 +1377,7 @@
     "message": "Pilih Akun"
   },
   "selectAnAccountHelp": {
-    "message": "Pilih akun untuk dilihat di MetaMask"
+    "message": "Pilih akun untuk dilihat di TMMSK"
   },
   "selectEachPhrase": {
     "message": "Pilih masing-masing frasa untuk memastikan kebenarannya."
@@ -1508,7 +1508,7 @@
     "message": "Kesalahan dalam log status pengambilan."
   },
   "stateLogFileName": {
-    "message": "Log Status MetaMask"
+    "message": "Log Status TMMSK"
   },
   "stateLogs": {
     "message": "Log Status"
@@ -1538,7 +1538,7 @@
     "message": "3. Mulai menggunakan situs web3 dan lainnya!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Gunakan akun perangkat keras Anda seperti yang akan Anda lakukan dengan akun Ethereum lainnya. Hubungkan ke situs web3, kirim ETH, beli dan simpan token ERC20 dan token yang tidak dapat dipertukarkan seperti CryptoKitties."
+    "message": "Gunakan akun perangkat keras Anda seperti yang akan Anda lakukan dengan akun Thinkium lainnya. Hubungkan ke situs web3, kirim ETH, beli dan simpan token ERC20 dan token yang tidak dapat dipertukarkan seperti CryptoKitties."
   },
   "storePhrase": {
     "message": "Simpan frasa ini dalam pengelola kata sandi seperti 1Password."
@@ -1593,7 +1593,7 @@
     "message": "Edit batas"
   },
   "swapEnableDescription": {
-    "message": "Ini wajib dan memberikan MetaMask izin untuk menukar $1 Anda.",
+    "message": "Ini wajib dan memberikan TMMSK izin untuk menukar $1 Anda.",
     "description": "Gives the user info about the required approval transaction for swaps. $1 will be the symbol of a token being approved for swaps."
   },
   "swapEstimatedNetworkFee": {
@@ -1631,13 +1631,13 @@
     "message": "Ingin mempelajari selengkapnya?"
   },
   "swapIntroLearnMoreLink": {
-    "message": "Pelajari selengkapnya tentang Penukaran MetaMask"
+    "message": "Pelajari selengkapnya tentang Penukaran TMMSK"
   },
   "swapIntroLiquiditySourcesLabel": {
     "message": "Sumber likuiditas mencakup:"
   },
   "swapIntroPopupSubTitle": {
-    "message": "Sekarang, Anda bisa menukar token secara langsung di dompet MetaMask Anda. Penukaran MetaMask menggabungkan beberapa agregator penukaran terdesentralisasi, pembuat pasar profesional, dan DEX individu untuk memastikan pengguna MetaMask selalu mendapatkan harga terbaik dengan biaya jaringan terendah."
+    "message": "Sekarang, Anda bisa menukar token secara langsung di dompet TMMSK Anda. Penukaran TMMSK menggabungkan beberapa agregator penukaran terdesentralisasi, pembuat pasar profesional, dan DEX individu untuk memastikan pengguna TMMSK selalu mendapatkan harga terbaik dengan biaya jaringan terendah."
   },
   "swapIntroPopupTitle": {
     "message": "Penukaran token ada di sini!"
@@ -1659,14 +1659,14 @@
     "message": "Maks. slippage"
   },
   "swapMetaMaskFee": {
-    "message": "Biaya MetaMask"
+    "message": "Biaya TMMSK"
   },
   "swapMetaMaskFeeDescription": {
-    "message": "Kami menemukan harga terbaik dari sumber likuiditas teratas, setiap waktu. Biaya sebesar $1% secara otomatis diperhitungkan ke dalam setiap kuota, yang mendukung pengembangan berkelanjutan untuk membuat MetaMask lebih baik lagi.",
+    "message": "Kami menemukan harga terbaik dari sumber likuiditas teratas, setiap waktu. Biaya sebesar $1% secara otomatis diperhitungkan ke dalam setiap kuota, yang mendukung pengembangan berkelanjutan untuk membuat TMMSK lebih baik lagi.",
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapNetworkFeeSummary": {
-    "message": "Biaya jaringan mencakup biaya pemrosesan penukaran Anda dan menyimpannya di jaringan Ethereum. MetaMask tidak mendapatkan keuntungan dari biaya ini."
+    "message": "Biaya jaringan mencakup biaya pemrosesan penukaran Anda dan menyimpannya di jaringan Thinkium. TMMSK tidak mendapatkan keuntungan dari biaya ini."
   },
   "swapNewQuoteIn": {
     "message": "Kuota baru di $1",
@@ -1686,7 +1686,7 @@
     "message": "Jika harga berubah antara waktu pesanan Anda ditempatkan dan dikonfirmasi, ini disebut \"slippage\". Penukaran Anda akan otomatis dibatalkan jika slippage melebihi pengaturan \"slippage maks.\"."
   },
   "swapQuoteIncludesRate": {
-    "message": "Kuota mencakup biaya MetaMask $1%",
+    "message": "Kuota mencakup biaya TMMSK $1%",
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapQuoteNofN": {
@@ -1822,16 +1822,16 @@
     "message": "Pastikan tidak ada orang lain yang melihat layar Anda saat memindai kode ini"
   },
   "syncWithMobileComplete": {
-    "message": "Data Anda telah berhasil disinkronkan. Nikmati aplikasi seluler MetaMask!"
+    "message": "Data Anda telah berhasil disinkronkan. Nikmati aplikasi seluler TMMSK!"
   },
   "syncWithMobileDesc": {
-    "message": "Anda dapat menyinkronkan akun dan informasi dengan perangkat seluler Anda. Buka aplikasi seluler MetaMask, buka \"Pengaturan\" dan ketuk \"Sinkronkan dari Ekstensi Browser\""
+    "message": "Anda dapat menyinkronkan akun dan informasi dengan perangkat seluler Anda. Buka aplikasi seluler TMMSK, buka \"Pengaturan\" dan ketuk \"Sinkronkan dari Ekstensi Browser\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Jika Anda baru membuka aplikasi seluler MetaMask untuk pertama kali, cukup ikuti langkah-langkah yang ada di ponsel Anda."
+    "message": "Jika Anda baru membuka aplikasi seluler TMMSK untuk pertama kali, cukup ikuti langkah-langkah yang ada di ponsel Anda."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Pindai kode ini dengan aplikasi seluler MetaMask Anda"
+    "message": "Pindai kode ini dengan aplikasi seluler TMMSK Anda"
   },
   "syncWithMobileTitle": {
     "message": "Sinkronisasi dengan seluler"
@@ -1952,7 +1952,7 @@
     "message": "Coba lagi"
   },
   "typePassword": {
-    "message": "Ketikkan kata sandi MetaMask Anda"
+    "message": "Ketikkan kata sandi TMMSK Anda"
   },
   "unapproved": {
     "message": "Tidak disetujui"
@@ -1997,7 +1997,7 @@
     "message": "Menggunakan Deteksi Phishing"
   },
   "usePhishingDetectionDescription": {
-    "message": "Menampilkan peringatan untuk domain phishing yang menargetkan pengguna Ethereum"
+    "message": "Menampilkan peringatan untuk domain phishing yang menargetkan pengguna Thinkium"
   },
   "usedByClients": {
     "message": "Digunakan oleh berbagai klien yang berbeda"
@@ -2034,7 +2034,7 @@
     "message": "Frasa pemulihan"
   },
   "welcome": {
-    "message": "Selamat datang di MetaMask"
+    "message": "Selamat datang di TMMSK"
   },
   "welcomeBack": {
     "message": "Selamat Datang Kembali!"

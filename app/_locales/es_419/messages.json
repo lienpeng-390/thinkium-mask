@@ -47,7 +47,7 @@
     "message": "Agregar una cuenta"
   },
   "addAcquiredTokens": {
-    "message": "Agrega los tokens adquiridos con MetaMask"
+    "message": "Agrega los tokens adquiridos con TMMSK"
   },
   "addAlias": {
     "message": "Agregar alias"
@@ -130,11 +130,11 @@
     "message": "Monto:"
   },
   "appDescription": {
-    "message": "Una Billetera de Ethereum en tu navegador",
+    "message": "Una Billetera de Thinkium en tu navegador",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "TMMSK",
     "description": "The name of the application"
   },
   "approvalAndAggregatorTxFeeCost": {
@@ -178,7 +178,7 @@
     "message": "Temporizador de cierre de sesión automático (minutos)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Configura tu tiempo de inactividad en minutos para controlar cuándo MetaMask cerrará tu sesión de forma automática"
+    "message": "Configura tu tiempo de inactividad en minutos para controlar cuándo TMMSK cerrará tu sesión de forma automática"
   },
   "average": {
     "message": "Promedio"
@@ -190,7 +190,7 @@
     "message": "Volver a Todos"
   },
   "backupApprovalInfo": {
-    "message": "Este código secreto es necesario para recuperar tu billetera en caso de que pierdas tu dispositivo, olvides la contraseña, tengas que reinstalar MetaMask o quieras acceder a tu billetera desde otro dispositivo."
+    "message": "Este código secreto es necesario para recuperar tu billetera en caso de que pierdas tu dispositivo, olvides la contraseña, tengas que reinstalar TMMSK o quieras acceder a tu billetera desde otro dispositivo."
   },
   "backupApprovalNotice": {
     "message": "Haz una copia de seguridad de tu código de recuperación secreto para mantener la seguridad de la billetera y los fondos."
@@ -221,7 +221,7 @@
     "message": "Tu navegador no es compatible..."
   },
   "builtInCalifornia": {
-    "message": "MetaMask se diseñó y creó en California."
+    "message": "TMMSK se diseñó y creó en California."
   },
   "buy": {
     "message": "Comprar"
@@ -230,7 +230,7 @@
     "message": "Comprar ETH con Wyre"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre te permite utilizar una tarjeta de débito para depositar ETH directamente en su cuenta de MetaMask."
+    "message": "Wyre te permite utilizar una tarjeta de débito para depositar ETH directamente en su cuenta de TMMSK."
   },
   "bytes": {
     "message": "Bytes"
@@ -251,7 +251,7 @@
     "message": "ID de Cadena"
   },
   "chromeRequiredForHardwareWallets": {
-    "message": "Debes utilizar MetaMask en Google Chrome para poder conectarte a tu billetera de hardware."
+    "message": "Debes utilizar TMMSK en Google Chrome para poder conectarte a tu billetera de hardware."
   },
   "clickToRevealSeed": {
     "message": "Haz clic aquí para mostrar las palabras secretas"
@@ -307,7 +307,7 @@
     "description": "$1 is the number of accounts to which the web3 site/application is asking to connect; this will substitute $1 in connectToMultiple"
   },
   "connectWithMetaMask": {
-    "message": "Conectar Con MetaMask"
+    "message": "Conectar Con TMMSK"
   },
   "connectedAccountsDescriptionPlural": {
     "message": "Tiene $1 cuentas conectadas con este sitio.",
@@ -317,7 +317,7 @@
     "message": "Tiene 1 cuenta conectada con este sitio."
   },
   "connectedAccountsEmptyDescription": {
-    "message": "MetaMask no está conectado a este sitio. Para conectarse a un sitio web3, busque el botón de conexión en su sitio."
+    "message": "TMMSK no está conectado a este sitio. Para conectarse a un sitio web3, busque el botón de conexión en su sitio."
   },
   "connectedSites": {
     "message": "Sitios conectados"
@@ -343,7 +343,7 @@
     "message": "Conectando con la red de prueba Kovan"
   },
   "connectingToMainnet": {
-    "message": "Conectando con la red principal de Ethereum (Main Net)"
+    "message": "Conectando con la red principal de Thinkium (Main Net)"
   },
   "connectingToRinkeby": {
     "message": "Conectando con la red de prueba Rinkeby"
@@ -427,7 +427,7 @@
     "message": "Token Personalizado"
   },
   "dataBackupFoundInfo": {
-    "message": "Se hizo una copia de seguridad de algunos de los datos de su cuenta durante una instalación anterior de MetaMask. Esto podría incluir su configuración, contactos y tokens. ¿Le gustaría restaurar estos datos ahora?"
+    "message": "Se hizo una copia de seguridad de algunos de los datos de su cuenta durante una instalación anterior de TMMSK. Esto podría incluir su configuración, contactos y tokens. ¿Le gustaría restaurar estos datos ahora?"
   },
   "decimal": {
     "message": "Decimales de precisión"
@@ -456,7 +456,7 @@
     "message": "Desencriptar petición"
   },
   "defaultNetwork": {
-    "message": "La red predeterminada para las transacciones de Ether es la red principal de Ethereum (Main Net)."
+    "message": "La red predeterminada para las transacciones de Ether es la red principal de Thinkium (Main Net)."
   },
   "delete": {
     "message": "Borrar"
@@ -553,13 +553,13 @@
     "message": "Nunca compartas tu frase con nadie."
   },
   "endOfFlowMessage5": {
-    "message": "¡Cuidado con las suplantaciones de identidad! MetaMask no te pedirá nunca tu frase semilla de forma espontánea."
+    "message": "¡Cuidado con las suplantaciones de identidad! TMMSK no te pedirá nunca tu frase semilla de forma espontánea."
   },
   "endOfFlowMessage6": {
     "message": "Si necesitas otro respaldo de tu frase semilla, puedes encontrarla en Configuración -> Seguridad."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask no puede recuperar tu frase semilla. Obtén más información."
+    "message": "TMMSK no puede recuperar tu frase semilla. Obtén más información."
   },
   "endOfFlowMessage9": {
     "message": "Más información."
@@ -569,7 +569,7 @@
     "description": "$1 is the return value of eth_chainId from an RPC endpoint"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "No se pudo encontrar el nombre de ENS en la red actual. Intenta cambiar a la red principal de Ethereum."
+    "message": "No se pudo encontrar el nombre de ENS en la red actual. Intenta cambiar a la red principal de Thinkium."
   },
   "ensRegistrationError": {
     "message": "Error en el registro de nombres de ENS"
@@ -603,7 +603,7 @@
     "description": "Displayed error name for debugging purposes. $1 is the error name"
   },
   "errorPageTitle": {
-    "message": "MetaMask encontró un error",
+    "message": "TMMSK encontró un error",
     "description": "Title of generic error page"
   },
   "errorStack": {
@@ -618,7 +618,7 @@
     "description": "The description for the `eth_accounts` permission"
   },
   "ethereumPublicAddress": {
-    "message": "Dirección Pública de Ethereum"
+    "message": "Dirección Pública de Thinkium"
   },
   "etherscan": {
     "message": "Etherscan"
@@ -752,7 +752,7 @@
     "message": "Conectar una billetera de hardware"
   },
   "hardwareWalletsMsg": {
-    "message": "Selecciona la billetera de hardware que te gustaría utilizar con MetaMask"
+    "message": "Selecciona la billetera de hardware que te gustaría utilizar con TMMSK"
   },
   "havingTroubleConnecting": {
     "message": "¿Problemas de conexión?"
@@ -785,7 +785,7 @@
     "message": "Importar cuenta"
   },
   "importAccountMsg": {
-    "message": "Las cuentas importadas no estarán asociadas a la frase semilla que se creó en un principio para tu cuenta de MetaMask. Obtén más información sobre las cuentas importadas "
+    "message": "Las cuentas importadas no estarán asociadas a la frase semilla que se creó en un principio para tu cuenta de TMMSK. Obtén más información sobre las cuentas importadas "
   },
   "importAccountSeedPhrase": {
     "message": "Importar una cuenta con frase semilla"
@@ -921,7 +921,7 @@
     "message": "El tiempo para cerrar sesión es demasiado grande"
   },
   "mainnet": {
-    "message": "Red principal de Ethereum (Main Net)"
+    "message": "Red principal de Thinkium (Main Net)"
   },
   "max": {
     "message": "Máx."
@@ -936,7 +936,7 @@
     "message": "Mensaje"
   },
   "metaMaskConnectStatusParagraphOne": {
-    "message": "Ahora tienes más control sobre tus conexiones a la cuenta en MetaMask."
+    "message": "Ahora tienes más control sobre tus conexiones a la cuenta en TMMSK."
   },
   "metaMaskConnectStatusParagraphThree": {
     "message": "Clic para administrar tus cuentas conectadas."
@@ -945,13 +945,13 @@
     "message": "El botón de estado de conexión muestra si el sitio que está visitando se encuentra conectado a tu cuenta actualmente seleccionada."
   },
   "metamaskDescription": {
-    "message": "Te estamos conectando a Ethereum y a la web descentralizada."
+    "message": "Te estamos conectando a Thinkium y a la web descentralizada."
   },
   "metamaskSwapsOfflineDescription": {
-    "message": "Intercambios MetaMask está en mantenimiento. Por favor intente más tarde."
+    "message": "Intercambios TMMSK está en mantenimiento. Por favor intente más tarde."
   },
   "metamaskVersion": {
-    "message": "Versión de MetaMask"
+    "message": "Versión de TMMSK"
   },
   "metametricsCommitmentsAllowOptOut": {
     "message": "Siempre permitir optar por no participar a través de Configuración"
@@ -961,7 +961,7 @@
     "description": "This string is localized separately from some of the commitments so that we can bold it"
   },
   "metametricsCommitmentsIntro": {
-    "message": "MetaMask va a.."
+    "message": "TMMSK va a.."
   },
   "metametricsCommitmentsNeverCollectIP": {
     "message": "$1 recolecta tu dirección IP completa",
@@ -979,10 +979,10 @@
     "message": "Enviar eventos de vista de página y clics anónimos"
   },
   "metametricsHelpImproveMetaMask": {
-    "message": "Ayúdanos a mejorar MetaMask"
+    "message": "Ayúdanos a mejorar TMMSK"
   },
   "metametricsOptInDescription": {
-    "message": "A MetaMask le gustaría recopilar datos de uso para entender mejor cómo interactúan nuestros usuarios con la extensión. Estos datos van a ser usados, de forma continua, para mejorar la usabilidad y experiencia de uso de nuestro producto y el ecosistema Ethereum."
+    "message": "A TMMSK le gustaría recopilar datos de uso para entender mejor cómo interactúan nuestros usuarios con la extensión. Estos datos van a ser usados, de forma continua, para mejorar la usabilidad y experiencia de uso de nuestro producto y el ecosistema Thinkium."
   },
   "mobileSyncText": {
     "message": "Por favor, ingrese su contraseña ¡para confirmar que es usted!"
@@ -997,10 +997,10 @@
     "message": "Las cuentas de mi billetera"
   },
   "myWalletAccountsDescription": {
-    "message": "Todas tus cuentas creadas en MetaMask se agregarán automáticamente a esta sección."
+    "message": "Todas tus cuentas creadas en TMMSK se agregarán automáticamente a esta sección."
   },
   "needEtherInWallet": {
-    "message": "Necesitarás tener Ether en tu billetera para poder interactuar con aplicaciones descentralizadas a través de MetaMask."
+    "message": "Necesitarás tener Ether en tu billetera para poder interactuar con aplicaciones descentralizadas a través de TMMSK."
   },
   "needImportFile": {
     "message": "Selecciona un archivo para importar.",
@@ -1047,7 +1047,7 @@
     "message": "Nueva contraseña (mín. 8 caracteres)"
   },
   "newToMetaMask": {
-    "message": "¿Nuevo en MetaMask?"
+    "message": "¿Nuevo en TMMSK?"
   },
   "newTotal": {
     "message": "Nuevo total"
@@ -1060,7 +1060,7 @@
   },
   "nextNonceWarning": {
     "message": "El nonce es más alto que el sugerido de $1",
-    "description": "The next nonce according to MetaMask's internal logic"
+    "description": "The next nonce according to TMMSK's internal logic"
   },
   "noAccountsFound": {
     "message": "No se encontraron cuentas para su búsqueda"
@@ -1124,7 +1124,7 @@
     "message": "Un proveedor de red de malintencionado puede mentir sobre el estado de la cadena de bloques y registrar la actividad de su red. Solo agregue redes personalizadas en las que confíe."
   },
   "onlyAvailableOnMainnet": {
-    "message": "Solo disponible en la red principal de Ethereum (Main Net)"
+    "message": "Solo disponible en la red principal de Thinkium (Main Net)"
   },
   "onlyConnectTrust": {
     "message": "Conéctese solo con sitios en los que confíe."
@@ -1148,7 +1148,7 @@
     "message": "Participar en MetaMetrics"
   },
   "participateInMetaMetricsDescription": {
-    "message": "Participa en MetaMetrics para ayudarnos a mejorar MetaMask"
+    "message": "Participa en MetaMetrics para ayudarnos a mejorar TMMSK"
   },
   "password": {
     "message": "Contraseña"
@@ -1386,7 +1386,7 @@
     "message": "Selecciona una Cuenta"
   },
   "selectAnAccountHelp": {
-    "message": "Selecciona la cuenta que deseas ver en MetaMask"
+    "message": "Selecciona la cuenta que deseas ver en TMMSK"
   },
   "selectEachPhrase": {
     "message": "Selecciona todas las frases para asegurarte de que son correctas."
@@ -1517,7 +1517,7 @@
     "message": "Error al recuperar los registros de estado."
   },
   "stateLogFileName": {
-    "message": "Registros de Estado MetaMask"
+    "message": "Registros de Estado TMMSK"
   },
   "stateLogs": {
     "message": "Registros de Estado"
@@ -1547,7 +1547,7 @@
     "message": "3. ¡Comienza a utilizar dApps y más!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Utiliza tu cuenta de hardware como si fuera una cuenta de Ethereum. Inicia sesión en dApps, envía ETH, compra y almacena tokens ERC20 y tokens no fungibles como CryptoKitties."
+    "message": "Utiliza tu cuenta de hardware como si fuera una cuenta de Thinkium. Inicia sesión en dApps, envía ETH, compra y almacena tokens ERC20 y tokens no fungibles como CryptoKitties."
   },
   "storePhrase": {
     "message": "Almacena esta frase en un administrador de contraseñas como 1Password."
@@ -1605,7 +1605,7 @@
     "message": "Editar límite"
   },
   "swapEnableDescription": {
-    "message": "Esto es obligatorio y le da permiso a MetaMask para intercambiar su $1.",
+    "message": "Esto es obligatorio y le da permiso a TMMSK para intercambiar su $1.",
     "description": "Gives the user info about the required approval transaction for swaps. $1 will be the symbol of a token being approved for swaps."
   },
   "swapEstimatedNetworkFee": {
@@ -1643,13 +1643,13 @@
     "message": "¿Quiere aprender más?"
   },
   "swapIntroLearnMoreLink": {
-    "message": "Más información sobre los Intercambios MetaMask"
+    "message": "Más información sobre los Intercambios TMMSK"
   },
   "swapIntroLiquiditySourcesLabel": {
     "message": "Las fuentes de liquidez incluyen:"
   },
   "swapIntroPopupSubTitle": {
-    "message": "Ahora puede intercambiar tokens directamente en su billetera MetaMask. Intercambios MetaMask combina múltiples agregadores de intercambio descentralizados, creadores de mercado profesionales y DEX individuales para garantizar que los usuarios de MetaMask siempre obtengan el mejor precio con las tarifas de red más bajas."
+    "message": "Ahora puede intercambiar tokens directamente en su billetera TMMSK. Intercambios TMMSK combina múltiples agregadores de intercambio descentralizados, creadores de mercado profesionales y DEX individuales para garantizar que los usuarios de TMMSK siempre obtengan el mejor precio con las tarifas de red más bajas."
   },
   "swapIntroPopupTitle": {
     "message": "¡El intercambio de tokens está aquí!"
@@ -1671,10 +1671,10 @@
     "message": "Deslizamiento máximo"
   },
   "swapMetaMaskFee": {
-    "message": "Tarifa de MetaMask"
+    "message": "Tarifa de TMMSK"
   },
   "swapMetaMaskFeeDescription": {
-    "message": "Siempre encontramos el mejor precio de las principales fuentes de liquidez. Una tarifa de $1% se incluye automáticamente en cada cotización, lo que respalda el desarrollo continuo para hacer que MetaMask sea aún mejor.",
+    "message": "Siempre encontramos el mejor precio de las principales fuentes de liquidez. Una tarifa de $1% se incluye automáticamente en cada cotización, lo que respalda el desarrollo continuo para hacer que TMMSK sea aún mejor.",
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapNQuotes": {
@@ -1682,7 +1682,7 @@
     "description": "$1 is the number of quotes that the user can select from when opening the list of quotes on the 'view quote' screen"
   },
   "swapNetworkFeeSummary": {
-    "message": "La tarifa de la red cubre el costo de procesar su intercambio y almacenarlo en la red Ethereum. MetaMask no se beneficia de esta tarifa."
+    "message": "La tarifa de la red cubre el costo de procesar su intercambio y almacenarlo en la red Thinkium. TMMSK no se beneficia de esta tarifa."
   },
   "swapNewQuoteIn": {
     "message": "Nuevas cotizaciones en $1",
@@ -1716,7 +1716,7 @@
     "message": "Si el precio cambia entre el momento en que se realiza el pedido y se confirma, se denomina \"deslizamiento\". Su intercambio se cancelará automáticamente si el deslizamiento excede su configuración de \"tolerancia de deslizamiento\"."
   },
   "swapQuoteIncludesRate": {
-    "message": "La cotización incluye una tarifa de MetaMask de $1%",
+    "message": "La cotización incluye una tarifa de TMMSK de $1%",
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapQuoteNofN": {
@@ -1858,16 +1858,16 @@
     "message": "Asegúrate de que nadie esté mirando tu pantalla cuando escanees este código"
   },
   "syncWithMobileComplete": {
-    "message": "Tus datos se han sincronizado con éxito. ¡Disfruta de la aplicación móvil de MetaMask!"
+    "message": "Tus datos se han sincronizado con éxito. ¡Disfruta de la aplicación móvil de TMMSK!"
   },
   "syncWithMobileDesc": {
-    "message": "Puedes sincronizar tus cuentas e información con tu dispositivo móvil. Abre la aplicación de MetaMask para dispositivos móviles, dirígete a \"Configuración\" y selecciona \"Sincronizar desde una extensión del navegador\""
+    "message": "Puedes sincronizar tus cuentas e información con tu dispositivo móvil. Abre la aplicación de TMMSK para dispositivos móviles, dirígete a \"Configuración\" y selecciona \"Sincronizar desde una extensión del navegador\""
   },
   "syncWithMobileDescNewUsers": {
-    "message": "Si estás abriendo la aplicación de MetaMask para dispositivos móviles por primera vez, sigue los pasos indicados en tu teléfono."
+    "message": "Si estás abriendo la aplicación de TMMSK para dispositivos móviles por primera vez, sigue los pasos indicados en tu teléfono."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Escanea este código con la aplicación móvil de MetaMask"
+    "message": "Escanea este código con la aplicación móvil de TMMSK"
   },
   "syncWithMobileTitle": {
     "message": "Sincronizar con un dispositivo móvil"
@@ -1988,7 +1988,7 @@
     "message": "Reintentar"
   },
   "typePassword": {
-    "message": "Ingresa tu contraseña de MetaMask"
+    "message": "Ingresa tu contraseña de TMMSK"
   },
   "unapproved": {
     "message": "Sin autorización"
@@ -2033,7 +2033,7 @@
     "message": "Usar la detección de phishing"
   },
   "usePhishingDetectionDescription": {
-    "message": "Mostrar una advertencia para los dominios de phishing dirigidos a los usuarios de Ethereum"
+    "message": "Mostrar una advertencia para los dominios de phishing dirigidos a los usuarios de Thinkium"
   },
   "usedByClients": {
     "message": "Utilizado por una gran variedad de clientes distintos"
@@ -2074,7 +2074,7 @@
     "description": "$1 is a clickable link."
   },
   "welcome": {
-    "message": "Bienvenido a MetaMask"
+    "message": "Bienvenido a TMMSK"
   },
   "welcomeBack": {
     "message": "¡Hola de nuevo!"

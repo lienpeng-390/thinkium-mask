@@ -69,11 +69,11 @@
     "message": "Summa"
   },
   "appDescription": {
-    "message": "Ethereum-kukkaro selaimessasi",
+    "message": "Thinkium-kukkaro selaimessasi",
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "TMMSK",
     "description": "The name of the application"
   },
   "approve": {
@@ -101,7 +101,7 @@
     "message": "Automaattisen uloskirjautumisen ajastin (minuuttia)"
   },
   "autoLockTimeLimitDescription": {
-    "message": "Määritä, montako minuuttia MetaMask on ollut joutilaana ennen kuin sinut kirjataan automaattisesti ulos"
+    "message": "Määritä, montako minuuttia TMMSK on ollut joutilaana ennen kuin sinut kirjataan automaattisesti ulos"
   },
   "average": {
     "message": "Keskiverto"
@@ -144,13 +144,13 @@
     "message": "Selaintasi ei tueta..."
   },
   "builtInCalifornia": {
-    "message": "MetaMask on suunniteltu ja koottu Kaliforniassa."
+    "message": "TMMSK on suunniteltu ja koottu Kaliforniassa."
   },
   "buyWithWyre": {
     "message": "Osta ETH:ta Wyrella"
   },
   "buyWithWyreDescription": {
-    "message": "Wyre antaa sinun käyttää luottokorttia, jotta voit tallettaa ETH:ta suoraan MetaMask-tilillesi."
+    "message": "Wyre antaa sinun käyttää luottokorttia, jotta voit tallettaa ETH:ta suoraan TMMSK-tilillesi."
   },
   "bytes": {
     "message": "Tavua"
@@ -345,13 +345,13 @@
     "message": "Älä koskaan luovuta lausetta kenellekään."
   },
   "endOfFlowMessage5": {
-    "message": "Varo tietojenkalastelua! MetaMask ei koskaan pyydä spontaanisti siemenlausettasi."
+    "message": "Varo tietojenkalastelua! TMMSK ei koskaan pyydä spontaanisti siemenlausettasi."
   },
   "endOfFlowMessage6": {
     "message": "Jos tarvitse uuden varmuuskopion juurilauseestasi, niin se löytyy osiosta Asetukset -> Turvallisuus."
   },
   "endOfFlowMessage8": {
-    "message": "MetaMask ei pysty palauttamaan salaustekstiäsi. Lue lisää."
+    "message": "TMMSK ei pysty palauttamaan salaustekstiäsi. Lue lisää."
   },
   "endOfFlowMessage9": {
     "message": "Lue lisää."
@@ -494,7 +494,7 @@
     "message": "Tuo tili"
   },
   "importAccountMsg": {
-    "message": "Tuotuja tilejä ei liitetä alkuperäisen MetaMask-tilisi siemenlauseeseen. Lue lisää tuoduista tileistä"
+    "message": "Tuotuja tilejä ei liitetä alkuperäisen TMMSK-tilisi siemenlauseeseen. Lue lisää tuoduista tileistä"
   },
   "importAccountSeedPhrase": {
     "message": "Tuo tili siemenlauseella"
@@ -604,7 +604,7 @@
     "message": "Sinua yhdistetään Ethereumiin ja hajautettuun verkkoon."
   },
   "metamaskVersion": {
-    "message": "MetaMask-versio"
+    "message": "TMMSK-versio"
   },
   "mobileSyncText": {
     "message": "Vahvista henkilöllisyytesi antamalla salasanasi!"
@@ -666,7 +666,7 @@
     "message": "Uusi salasana (väh. 8 merkkiä)"
   },
   "newToMetaMask": {
-    "message": "Onko MetaMask ennestään outo?"
+    "message": "Onko TMMSK ennestään outo?"
   },
   "newTotal": {
     "message": "Uusi kokonaissumma"
@@ -1025,7 +1025,7 @@
     "message": "3. Ota käyttöön dApps ja paljon muuta!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Käytä laitteistosi tiliä minkä tahansa Ethereum-tilin tavoin. Kirjaudu dAppsiin, lähettää ethereumeja, ostaa ja tallentaa ERC20-tunnuksia sekä CryptoKittiesin kaltaisia ei-korvattavia tunnuksia."
+    "message": "Käytä laitteistosi tiliä minkä tahansa Thinkium-tilin tavoin. Kirjaudu dAppsiin, lähettää ethereumeja, ostaa ja tallentaa ERC20-tunnuksia sekä CryptoKittiesin kaltaisia ei-korvattavia tunnuksia."
   },
   "storePhrase": {
     "message": "Tallenna tämä teksti johonkin salasanojen hallintaohjelmaan (esim. 1Password)."
@@ -1052,7 +1052,7 @@
     "message": "Varmista, ettei kukaan muu katsele näyttöäsi, kun skannaat koodin"
   },
   "syncWithMobileComplete": {
-    "message": "Tietojesi synkronoiminen onnistui. Nauti MetaMask-mobiilisovelluksesta!"
+    "message": "Tietojesi synkronoiminen onnistui. Nauti TMMSK-mobiilisovelluksesta!"
   },
   "syncWithMobileDesc": {
     "message": "Voit synkronoida tilisi ja tietosi mobiililaitteidesi kesken. Avaa MetaMaskin mobiilisovellus, siirry \"Asetukset\"-osioon ja napauta \"Synkronoi selainlaajennuksesta\" -vaihtoehtoa"
@@ -1061,7 +1061,7 @@
     "message": "Jos avaat MetaMaskin mobiilisovelluksen vasta ensimmäistä kertaa, noudata vain puhelimesi ilmoittamia vaiheita."
   },
   "syncWithMobileScanThisCode": {
-    "message": "Lue tämä koodi MetaMask-mobiilisovelluksellasi"
+    "message": "Lue tämä koodi TMMSK-mobiilisovelluksellasi"
   },
   "syncWithMobileTitle": {
     "message": "Synkronoi mobiililaitteen kanssa"
@@ -1152,7 +1152,7 @@
     "message": "Yritä uudelleen"
   },
   "typePassword": {
-    "message": "Kirjoita MetaMask-salasanasi"
+    "message": "Kirjoita TMMSK-salasanasi"
   },
   "unapproved": {
     "message": "Ei hyväksytty"
