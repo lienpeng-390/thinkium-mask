@@ -65,7 +65,7 @@ export default class ExportPrivateKeyModal extends Component {
   }
 
   renderPasswordInput(privateKey) {
-    const plainKey = privateKey && stripHexPrefix(privateKey);
+    const plainKey = privateKey && `0x${stripHexPrefix(privateKey)}`;
 
     if (!privateKey) {
       return (
