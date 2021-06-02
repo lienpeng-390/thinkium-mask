@@ -124,7 +124,7 @@
     "message": "Jumlah:"
   },
   "appDescription": {
-    "message": "Dompet Thinkium di Browser Anda",
+    "message": "Dompet ethereum di Browser Anda",
     "description": "The description of the application"
   },
   "appName": {
@@ -334,7 +334,7 @@
     "message": "Menghubungkan ke Jaringan Uji Kovan"
   },
   "connectingToMainnet": {
-    "message": "Menghubungkan ke Thinkium Mainnet"
+    "message": "Menghubungkan ke ethereum Mainnet"
   },
   "connectingToRinkeby": {
     "message": "Menghubungkan ke Jaringan Uji Rinkeby"
@@ -560,7 +560,7 @@
     "description": "$1 is the return value of eth_chainId from an RPC endpoint"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Nama ENS tidak ditemukan pada jaringan saat ini. Coba untuk beralih ke Thinkium Mainnet."
+    "message": "Nama ENS tidak ditemukan pada jaringan saat ini. Coba untuk beralih ke ethereum Mainnet."
   },
   "ensRegistrationError": {
     "message": "Kesalahan pada pendaftaran nama ENS"
@@ -609,7 +609,7 @@
     "description": "The description for the `eth_accounts` permission"
   },
   "ethereumPublicAddress": {
-    "message": "Alamat Publik Thinkium"
+    "message": "Alamat Publik ethereum"
   },
   "etherscan": {
     "message": "Etherscan"
@@ -912,7 +912,7 @@
     "message": "Lock time terlalu besar"
   },
   "mainnet": {
-    "message": "Thinkium Mainnet"
+    "message": "ethereum Mainnet"
   },
   "max": {
     "message": "Maks."
@@ -936,7 +936,7 @@
     "message": "Tombol status koneksi menunjukkan apakah situs web yang Anda kunjungi terhubung ke akun Anda yang dipilih saat ini."
   },
   "metamaskDescription": {
-    "message": "Menghubungkan Anda ke Thinkium dan Web Terdesentralisasi."
+    "message": "Menghubungkan Anda ke ethereum dan Web Terdesentralisasi."
   },
   "metamaskSwapsOfflineDescription": {
     "message": "TMMSK Swap sedang dalam pemeliharaan. Silakan periksa kembali nanti."
@@ -973,7 +973,7 @@
     "message": "Bantu Kami Menyempurnakan TMMSK"
   },
   "metametricsOptInDescription": {
-    "message": "TMMSK ingin mengumpulkan data penggunaan untuk lebih memahami cara pengguna berinteraksi dengan ekstensi. Data ini akan digunakan untuk secara kontinu memperbaiki kegunaan dan pengalaman pengguna atas produk kami dan ekosistem Thinkium."
+    "message": "TMMSK ingin mengumpulkan data penggunaan untuk lebih memahami cara pengguna berinteraksi dengan ekstensi. Data ini akan digunakan untuk secara kontinu memperbaiki kegunaan dan pengalaman pengguna atas produk kami dan ekosistem ethereum."
   },
   "mobileSyncText": {
     "message": "Masukkan kata sandi Anda untuk memastikan ini adalah Anda!"
@@ -1538,7 +1538,7 @@
     "message": "3. Mulai menggunakan situs web3 dan lainnya!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Gunakan akun perangkat keras Anda seperti yang akan Anda lakukan dengan akun Thinkium lainnya. Hubungkan ke situs web3, kirim ETH, beli dan simpan token ERC20 dan token yang tidak dapat dipertukarkan seperti CryptoKitties."
+    "message": "Gunakan akun perangkat keras Anda seperti yang akan Anda lakukan dengan akun ethereum lainnya. Hubungkan ke situs web3, kirim ETH, beli dan simpan token ERC20 dan token yang tidak dapat dipertukarkan seperti CryptoKitties."
   },
   "storePhrase": {
     "message": "Simpan frasa ini dalam pengelola kata sandi seperti 1Password."
@@ -1666,7 +1666,7 @@
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapNetworkFeeSummary": {
-    "message": "Biaya jaringan mencakup biaya pemrosesan penukaran Anda dan menyimpannya di jaringan Thinkium. TMMSK tidak mendapatkan keuntungan dari biaya ini."
+    "message": "Biaya jaringan mencakup biaya pemrosesan penukaran Anda dan menyimpannya di jaringan ethereum. TMMSK tidak mendapatkan keuntungan dari biaya ini."
   },
   "swapNewQuoteIn": {
     "message": "Kuota baru di $1",
@@ -1997,7 +1997,7 @@
     "message": "Menggunakan Deteksi Phishing"
   },
   "usePhishingDetectionDescription": {
-    "message": "Menampilkan peringatan untuk domain phishing yang menargetkan pengguna Thinkium"
+    "message": "Menampilkan peringatan untuk domain phishing yang menargetkan pengguna ethereum"
   },
   "usedByClients": {
     "message": "Digunakan oleh berbagai klien yang berbeda"

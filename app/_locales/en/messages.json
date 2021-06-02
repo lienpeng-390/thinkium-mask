@@ -147,7 +147,7 @@
     "message": "Amount:"
   },
   "appDescription": {
-    "message": "An Thinkium Wallet in your Browser",
+    "message": "An ethereum Wallet in your Browser",
     "description": "The description of the application"
   },
   "appName": {
@@ -378,7 +378,7 @@
     "message": "Connecting to Kovan Test Network"
   },
   "connectingToMainnet": {
-    "message": "Connecting to Thinkium Mainnet"
+    "message": "Connecting to ethereum Mainnet"
   },
   "connectingToRinkeby": {
     "message": "Connecting to Rinkeby Test Network"
@@ -620,7 +620,7 @@
     "description": "$1 is the return value of eth_chainId from an RPC endpoint"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "ENS name not found on the current network. Try switching to Thinkium Mainnet."
+    "message": "ENS name not found on the current network. Try switching to ethereum Mainnet."
   },
   "ensRegistrationError": {
     "message": "Error in ENS name registration"
@@ -677,7 +677,7 @@
     "description": "The description for the `eth_accounts` permission"
   },
   "ethereumPublicAddress": {
-    "message": "Thinkium Public Address"
+    "message": "ethereum Public Address"
   },
   "etherscan": {
     "message": "Etherscan"
@@ -1000,7 +1000,7 @@
     "message": "Lock time is too great"
   },
   "mainnet": {
-    "message": "Thinkium Mainnet"
+    "message": "ethereum Mainnet"
   },
   "max": {
     "message": "Max"
@@ -1024,7 +1024,7 @@
     "message": "The connection status button shows if the website you’re visiting is connected to your currently selected account."
   },
   "metamaskDescription": {
-    "message": "Connecting you to Thinkium and the Decentralized Web."
+    "message": "Connecting you to ethereum and the Decentralized Web."
   },
   "metamaskSwapsOfflineDescription": {
     "message": "TMMSK Swaps is undergoing maintenance. Please check back later."
@@ -1061,7 +1061,7 @@
     "message": "Help Us Improve TMMSK"
   },
   "metametricsOptInDescription": {
-    "message": "TMMSK would like to gather usage data to better understand how our users interact with the extension. This data will be used to continually improve the usability and user experience of our product and the Thinkium ecosystem."
+    "message": "TMMSK would like to gather usage data to better understand how our users interact with the extension. This data will be used to continually improve the usability and user experience of our product and the ethereum ecosystem."
   },
   "mismatchedChain": {
     "message": "This network details for this Chain ID do not match our records. We recommend that you $1 before proceeding.",
@@ -1649,7 +1649,7 @@
     "message": "3. Start using web3 sites and more!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Use your hardware account like you would with any Thinkium account. Connect to web3 sites, send ETH, buy and store ERC20 tokens and non-fungible tokens like CryptoKitties."
+    "message": "Use your hardware account like you would with any ethereum account. Connect to web3 sites, send ETH, buy and store ERC20 tokens and non-fungible tokens like CryptoKitties."
   },
   "storePhrase": {
     "message": "Store this phrase in a password manager like 1Password."
@@ -1788,7 +1788,7 @@
     "description": "$1 is the number of quotes that the user can select from when opening the list of quotes on the 'view quote' screen"
   },
   "swapNetworkFeeSummary": {
-    "message": "The network fee covers the cost of processing your swap and storing it on the Thinkium network. TMMSK does not profit from this fee."
+    "message": "The network fee covers the cost of processing your swap and storing it on the ethereum network. TMMSK does not profit from this fee."
   },
   "swapNewQuoteIn": {
     "message": "New quotes in $1",
@@ -2183,7 +2183,7 @@
     "message": "Use Phishing Detection"
   },
   "usePhishingDetectionDescription": {
-    "message": "Display a warning for phishing domains targeting Thinkium users"
+    "message": "Display a warning for phishing domains targeting ethereum users"
   },
   "usedByClients": {
     "message": "Used by a variety of different clients"

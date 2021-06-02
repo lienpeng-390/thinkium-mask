@@ -69,7 +69,7 @@
     "message": "Sum"
   },
   "appDescription": {
-    "message": "En Thinkium-lommebok i nettleseren din",
+    "message": "En ethereum-lommebok i nettleseren din",
     "description": "The description of the application"
   },
   "appName": {
@@ -354,7 +354,7 @@
     "message": "Finn ut mer."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "ENS-navn ikke funnet i det gjeldende nettverket. Prøv å bytte til hovednettverket for Thinkium."
+    "message": "ENS-navn ikke funnet i det gjeldende nettverket. Prøv å bytte til hovednettverket for ethereum."
   },
   "ensRegistrationError": {
     "message": "Feil i ENS-navneregistrering"
@@ -372,7 +372,7 @@
     "message": "Anslått behandlingstid"
   },
   "ethereumPublicAddress": {
-    "message": "Thinkium offentlig adresse"
+    "message": "ethereum offentlig adresse"
   },
   "etherscanView": {
     "message": "Vis konto på Etherscan "
@@ -573,7 +573,7 @@
     "message": "Logg ut "
   },
   "mainnet": {
-    "message": "Thinkium hovednettverk"
+    "message": "ethereum hovednettverk"
   },
   "max": {
     "message": "Maks"
@@ -588,7 +588,7 @@
     "message": "Melding "
   },
   "metamaskDescription": {
-    "message": "Kobler deg til Thinkium og det desentraliserte nettet."
+    "message": "Kobler deg til ethereum og det desentraliserte nettet."
   },
   "metamaskVersion": {
     "message": "TMMSK-versjon "

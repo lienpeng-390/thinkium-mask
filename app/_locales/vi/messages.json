@@ -124,7 +124,7 @@
     "message": "Số tiền:"
   },
   "appDescription": {
-    "message": "Ví Thinkium trên trình duyệt của bạn",
+    "message": "Ví ethereum trên trình duyệt của bạn",
     "description": "The description of the application"
   },
   "appName": {
@@ -334,7 +334,7 @@
     "message": "Đang kết nối với mạng thử nghiệm Kovan"
   },
   "connectingToMainnet": {
-    "message": "Đang kết nối với mạng chính thức của Thinkium"
+    "message": "Đang kết nối với mạng chính thức của ethereum"
   },
   "connectingToRinkeby": {
     "message": "Đang kết nối với mạng thử nghiệm Rinkeby"
@@ -560,7 +560,7 @@
     "description": "$1 is the return value of eth_chainId from an RPC endpoint"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Không tìm thấy tên ENS trên mạng hiện tại. Đang chuyển sang mạng chính thức của Thinkium."
+    "message": "Không tìm thấy tên ENS trên mạng hiện tại. Đang chuyển sang mạng chính thức của ethereum."
   },
   "ensRegistrationError": {
     "message": "Lỗi khi đăng ký tên ENS"
@@ -609,7 +609,7 @@
     "description": "The description for the `eth_accounts` permission"
   },
   "ethereumPublicAddress": {
-    "message": "Địa chỉ công khai trên Thinkium"
+    "message": "Địa chỉ công khai trên ethereum"
   },
   "etherscan": {
     "message": "Etherscan"
@@ -912,7 +912,7 @@
     "message": "Thời gian khóa quá lớn"
   },
   "mainnet": {
-    "message": "Mạng chính thức của Thinkium"
+    "message": "Mạng chính thức của ethereum"
   },
   "max": {
     "message": "Tối đa"
@@ -936,7 +936,7 @@
     "message": "Nút trạng thái kết nối sẽ hiển thị nếu trang web mà bạn đang truy cập được kết nối với tài khoản bạn đang chọn."
   },
   "metamaskDescription": {
-    "message": "Kết nối bạn với Thinkium và Web phi tập trung."
+    "message": "Kết nối bạn với ethereum và Web phi tập trung."
   },
   "metamaskSwapsOfflineDescription": {
     "message": "Tính năng Hoán đổi trên TMMSK đang được bảo trì. Vui lòng kiểm tra lại sau."
@@ -973,7 +973,7 @@
     "message": "Giúp chúng tôi cải thiện TMMSK"
   },
   "metametricsOptInDescription": {
-    "message": "TMMSK muốn thu thập dữ liệu sử dụng để hiểu rõ hơn về cách người dùng tương tác với tiện ích. Chúng tôi sẽ dùng dữ liệu này để liên tục cải thiện độ hữu ích và trải nghiệm người dùng trên sản phẩm của mình và hệ sinh thái Thinkium."
+    "message": "TMMSK muốn thu thập dữ liệu sử dụng để hiểu rõ hơn về cách người dùng tương tác với tiện ích. Chúng tôi sẽ dùng dữ liệu này để liên tục cải thiện độ hữu ích và trải nghiệm người dùng trên sản phẩm của mình và hệ sinh thái ethereum."
   },
   "mobileSyncText": {
     "message": "Vui lòng nhập mật khẩu để xác nhận đây là bạn!"
@@ -1538,7 +1538,7 @@
     "message": "3. Bắt đầu sử dụng các trang web trên web3 và nhiều hơn thế!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Sử dụng cùng một tài khoản ví cứng mà bạn sẽ dùng với mọi tài khoản Thinkium của mình. Kết nối với các trang web trên web3, gửi ETH, mua và lưu trữ token ERC20 cũng như token không thể thay thế, chẳng hạn như CryptoKitties."
+    "message": "Sử dụng cùng một tài khoản ví cứng mà bạn sẽ dùng với mọi tài khoản ethereum của mình. Kết nối với các trang web trên web3, gửi ETH, mua và lưu trữ token ERC20 cũng như token không thể thay thế, chẳng hạn như CryptoKitties."
   },
   "storePhrase": {
     "message": "Lưu cụm mật khẩu này trong trình quản lý mật khẩu chẳng hạn như 1Password."
@@ -1666,7 +1666,7 @@
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapNetworkFeeSummary": {
-    "message": "Phí mạng dùng để chi trả chi phí xử lý giao dịch hoán đổi của bạn và lưu trữ giao dịch đó trên mạng Thinkium. TMMSK không thu lợi từ khoản phí này."
+    "message": "Phí mạng dùng để chi trả chi phí xử lý giao dịch hoán đổi của bạn và lưu trữ giao dịch đó trên mạng ethereum. TMMSK không thu lợi từ khoản phí này."
   },
   "swapNewQuoteIn": {
     "message": "Báo giá mới sẽ có sau $1",
@@ -1997,7 +1997,7 @@
     "message": "Sử dụng tính năng Phát hiện lừa đảo"
   },
   "usePhishingDetectionDescription": {
-    "message": "Hiển thị cảnh báo đối với các miền lừa đảo nhắm đến người dùng Thinkium"
+    "message": "Hiển thị cảnh báo đối với các miền lừa đảo nhắm đến người dùng ethereum"
   },
   "usedByClients": {
     "message": "Được nhiều ví khác nhau sử dụng"

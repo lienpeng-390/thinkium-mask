@@ -69,7 +69,7 @@
     "message": "Beløb"
   },
   "appDescription": {
-    "message": "En Thinkium-pung i din browser",
+    "message": "En ethereum-pung i din browser",
     "description": "The description of the application"
   },
   "appName": {
@@ -207,7 +207,7 @@
     "message": "Forbinder til Kovan Testnetværk"
   },
   "connectingToMainnet": {
-    "message": "Forbinder til dit Primære Thinkium Netværk"
+    "message": "Forbinder til dit Primære ethereum Netværk"
   },
   "connectingToRinkeby": {
     "message": "Forbinder til Rinkeby-testnetværk"
@@ -375,7 +375,7 @@
     "message": "Estimerede behandlingstider"
   },
   "ethereumPublicAddress": {
-    "message": "Offentlig Thinkium-adresse"
+    "message": "Offentlig ethereum-adresse"
   },
   "etherscanView": {
     "message": "Se konto på Etherscan"
@@ -573,7 +573,7 @@
     "message": "Log ud"
   },
   "mainnet": {
-    "message": "Hovednetværk for Thinkium"
+    "message": "Hovednetværk for ethereum"
   },
   "max": {
     "message": "Maks"
@@ -588,7 +588,7 @@
     "message": "Besked"
   },
   "metamaskDescription": {
-    "message": "Som forbinder dig til Thinkium og de decentraliserede internet."
+    "message": "Som forbinder dig til ethereum og de decentraliserede internet."
   },
   "mobileSyncText": {
     "message": "Indtast din adgangskode for at bekræfte, at det er dig!"
@@ -1006,7 +1006,7 @@
     "message": "3. Begynd at bruge dApps og mere!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Brug din hardwarekonto som du ville gøre med enhver Thinkium-konto. Log ind på dApps, send Eth, køb og opbevar ERC20-tokens og ikke-ombyttelige tokens som CryptoKitties."
+    "message": "Brug din hardwarekonto som du ville gøre med enhver ethereum-konto. Log ind på dApps, send Eth, køb og opbevar ERC20-tokens og ikke-ombyttelige tokens som CryptoKitties."
   },
   "storePhrase": {
     "message": "Gem denne sætning i en adgangskodeadministrator som 1Password."

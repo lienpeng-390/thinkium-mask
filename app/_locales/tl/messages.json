@@ -124,7 +124,7 @@
     "message": "Halaga:"
   },
   "appDescription": {
-    "message": "Thinkium Wallet sa iyong Browser",
+    "message": "ethereum Wallet sa iyong Browser",
     "description": "The description of the application"
   },
   "appName": {
@@ -334,7 +334,7 @@
     "message": "Kumokonekta sa Kovan Test Network"
   },
   "connectingToMainnet": {
-    "message": "Kumokonekta sa Thinkium Mainnet"
+    "message": "Kumokonekta sa ethereum Mainnet"
   },
   "connectingToRinkeby": {
     "message": "Kumokonekta sa Rinkeby Test Network"
@@ -560,7 +560,7 @@
     "description": "$1 is the return value of eth_chainId from an RPC endpoint"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Hindi nahanapa ang ENS name sa kasalukuyang network. Subukang lumipat sa Thinkium Mainnet."
+    "message": "Hindi nahanapa ang ENS name sa kasalukuyang network. Subukang lumipat sa ethereum Mainnet."
   },
   "ensRegistrationError": {
     "message": "Nagka-error sa pag-register ng ENS name"
@@ -609,7 +609,7 @@
     "description": "The description for the `eth_accounts` permission"
   },
   "ethereumPublicAddress": {
-    "message": "Pampublikong Address ng Thinkium"
+    "message": "Pampublikong Address ng ethereum"
   },
   "etherscan": {
     "message": "Etherscan"
@@ -912,7 +912,7 @@
     "message": "Masyadong matagal ang oras ng pag-lock"
   },
   "mainnet": {
-    "message": "Thinkium Mainnet"
+    "message": "ethereum Mainnet"
   },
   "max": {
     "message": "Max"
@@ -936,7 +936,7 @@
     "message": "Makikita sa button ng status ng koneksyon kung nakakonekta ang website na binibisita mo sa kasalukuyan mong napiling account."
   },
   "metamaskDescription": {
-    "message": "Ikinokonekta ka sa Thinkium at sa Decentralized Web."
+    "message": "Ikinokonekta ka sa ethereum at sa Decentralized Web."
   },
   "metamaskSwapsOfflineDescription": {
     "message": "Kasalukuyang minementina ang TMMSK Swaps. Bumalik sa ibang pagkakataon."
@@ -973,7 +973,7 @@
     "message": "Tulungan Kaming Mapahusay ang TMMSK"
   },
   "metametricsOptInDescription": {
-    "message": "Gustong kunin ng TMMSK ang data ng paggamit para mas maunawaan kung paano ginagamit ng mga user namin ang extension. Gagamitin ang data na ito para patuloy na mapahusay ang kakayahang magamit at karanasan ng user sa paggamit ng produkto namin at Thinkium ecosystem."
+    "message": "Gustong kunin ng TMMSK ang data ng paggamit para mas maunawaan kung paano ginagamit ng mga user namin ang extension. Gagamitin ang data na ito para patuloy na mapahusay ang kakayahang magamit at karanasan ng user sa paggamit ng produkto namin at ethereum ecosystem."
   },
   "mobileSyncText": {
     "message": "Pakilagay ang iyong password para makumpirmang ikaw nga ito!"
@@ -1535,7 +1535,7 @@
     "message": "3. Simulang gamitin ang mga web3 site at higit pa!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Gamitin ang account ng iyong hardware sa parehong paraan ng paggamit mo sa Thinkium account. Kumonekta sa mga web3 site, magpadala ng ETH, bumili at mag-store ng mga ERC20 token at non-fungible token gaya ng CryptoKitties."
+    "message": "Gamitin ang account ng iyong hardware sa parehong paraan ng paggamit mo sa ethereum account. Kumonekta sa mga web3 site, magpadala ng ETH, bumili at mag-store ng mga ERC20 token at non-fungible token gaya ng CryptoKitties."
   },
   "storePhrase": {
     "message": "I-store ang phrase na ito sa isang password manager gaya ng 1Password."
@@ -1663,7 +1663,7 @@
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapNetworkFeeSummary": {
-    "message": "Kasama sa bayarin sa network ang gastusin sa pagproseso ng iyong pag-swap at pag-store nito sa Thinkium network. Hindi kumikita ang TMMSK mula sa bayaring ito."
+    "message": "Kasama sa bayarin sa network ang gastusin sa pagproseso ng iyong pag-swap at pag-store nito sa ethereum network. Hindi kumikita ang TMMSK mula sa bayaring ito."
   },
   "swapNewQuoteIn": {
     "message": "Mga bagong quote sa $1",
@@ -1994,7 +1994,7 @@
     "message": "Gumamit ng Pag-detect ng Phishing"
   },
   "usePhishingDetectionDescription": {
-    "message": "Magpakita ng babala para sa mga phishing domain na nagta-target sa mga user ng Thinkium"
+    "message": "Magpakita ng babala para sa mga phishing domain na nagta-target sa mga user ng ethereum"
   },
   "usedByClients": {
     "message": "Ginagamit ng iba't ibang client"

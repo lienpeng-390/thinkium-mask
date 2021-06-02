@@ -69,7 +69,7 @@
     "message": "Összeg"
   },
   "appDescription": {
-    "message": "Thinkium tárca a böngészőjében",
+    "message": "ethereum tárca a böngészőjében",
     "description": "The description of the application"
   },
   "appName": {
@@ -207,7 +207,7 @@
     "message": "Csatlakozás a Kovan teszthálózathoz"
   },
   "connectingToMainnet": {
-    "message": "Csatlakozás a fő Thinkium hálózathoz"
+    "message": "Csatlakozás a fő ethereum hálózathoz"
   },
   "connectingToRinkeby": {
     "message": "Kapcsolódás a Rinkeby Teszthálózathoz"
@@ -357,7 +357,7 @@
     "message": "Bővebb információk."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "ENS név nem található a jelenlegi hálózaton. Próbálj váltani Thinkium főhálózatra."
+    "message": "ENS név nem található a jelenlegi hálózaton. Próbálj váltani ethereum főhálózatra."
   },
   "ensRegistrationError": {
     "message": "Hiba történt az ENS név regisztrációjakor"
@@ -375,7 +375,7 @@
     "message": "Becsült feldolgozási idők"
   },
   "ethereumPublicAddress": {
-    "message": "Thinkium nyilvános címe"
+    "message": "ethereum nyilvános címe"
   },
   "etherscanView": {
     "message": "Fiók megtekintése Etherscanen"
@@ -579,7 +579,7 @@
     "message": "Kilépés"
   },
   "mainnet": {
-    "message": "Fő Thinkium hálózat"
+    "message": "Fő ethereum hálózat"
   },
   "max": {
     "message": "Maximum"
@@ -1021,7 +1021,7 @@
     "message": "3. Kezdje el használni a dApps-t és másokat!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Használja hardveres fiókját úgy, mint bármilyen Thinkium fiókot. Jelentkezzen be a dAppsba, küldjön Ethet, vásároljon és tároljon ERC20 tokeneket és nem helyettesíthető tokeneket, például CryptoKitties-t."
+    "message": "Használja hardveres fiókját úgy, mint bármilyen ethereum fiókot. Jelentkezzen be a dAppsba, küldjön Ethet, vásároljon és tároljon ERC20 tokeneket és nem helyettesíthető tokeneket, például CryptoKitties-t."
   },
   "storePhrase": {
     "message": "Tárolja a mondatot jelszókezelőben, például az 1Passwordben."

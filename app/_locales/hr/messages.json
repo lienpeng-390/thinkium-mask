@@ -69,7 +69,7 @@
     "message": "Iznos"
   },
   "appDescription": {
-    "message": "Novčanik Thinkium u vašem pregledniku",
+    "message": "Novčanik ethereum u vašem pregledniku",
     "description": "The description of the application"
   },
   "appName": {
@@ -207,7 +207,7 @@
     "message": "Povezivanje na testnu mrežu Kovan"
   },
   "connectingToMainnet": {
-    "message": "Povezivanje na glavnu mrežu Thinkium"
+    "message": "Povezivanje na glavnu mrežu ethereum"
   },
   "connectingToRinkeby": {
     "message": "Povezivanje na testnu mrežu Rinkeby"
@@ -357,7 +357,7 @@
     "message": "Saznajte više."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Naziv ENS nije pronađen na trenutačnoj mreži. Pokušajte prebaciti na glavnu mrežu Thinkium."
+    "message": "Naziv ENS nije pronađen na trenutačnoj mreži. Pokušajte prebaciti na glavnu mrežu ethereum."
   },
   "ensRegistrationError": {
     "message": "Greška u registraciji naziva ENS"
@@ -375,7 +375,7 @@
     "message": "Procijenjeno vrijeme obrade"
   },
   "ethereumPublicAddress": {
-    "message": "Javna adresa Thinkium"
+    "message": "Javna adresa ethereum"
   },
   "etherscanView": {
     "message": "Prikaži račun na Etherscanu"
@@ -579,7 +579,7 @@
     "message": "Odjava"
   },
   "mainnet": {
-    "message": "Glavna mreža Thinkium"
+    "message": "Glavna mreža ethereum"
   },
   "max": {
     "message": "Najviše"
@@ -594,7 +594,7 @@
     "message": "Poruka"
   },
   "metamaskDescription": {
-    "message": "Povezujete se na Thinkium i decentralizirani internet."
+    "message": "Povezujete se na ethereum i decentralizirani internet."
   },
   "metamaskVersion": {
     "message": "Inačica usluge TMMSK"
@@ -1021,7 +1021,7 @@
     "message": "3. Započnite upotrebljavati dApps i više!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Upotrebljavajte svoj hardverski račun kako biste upotrebljavali bilo koji drugi račun Thinkium. Prijavite se u dApps, šaljite Eth, kupujte i pohranjujte ERC20 tokene i nezamjenske tokene kao CryptoKitties."
+    "message": "Upotrebljavajte svoj hardverski račun kako biste upotrebljavali bilo koji drugi račun ethereum. Prijavite se u dApps, šaljite Eth, kupujte i pohranjujte ERC20 tokene i nezamjenske tokene kao CryptoKitties."
   },
   "storePhrase": {
     "message": "Spremite ovu rečenicu u upravitelj lozinkama poput aplikacije 1Password."

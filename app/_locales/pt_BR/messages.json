@@ -69,7 +69,7 @@
     "message": "Valor"
   },
   "appDescription": {
-    "message": "Uma Carteira Thinkium no seu Navegador",
+    "message": "Uma Carteira ethereum no seu Navegador",
     "description": "The description of the application"
   },
   "appName": {
@@ -351,7 +351,7 @@
     "message": "Saiba mais."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Nome de ENS não encontrado na rede atual. Experimente alternar para a Rede Principal de Thinkium."
+    "message": "Nome de ENS não encontrado na rede atual. Experimente alternar para a Rede Principal de ethereum."
   },
   "ensRegistrationError": {
     "message": "Erro ao registrar nome de ENS"
@@ -369,7 +369,7 @@
     "message": "Tempos de Processamento Estimados"
   },
   "ethereumPublicAddress": {
-    "message": "Endereço Público do Thinkium"
+    "message": "Endereço Público do ethereum"
   },
   "etherscanView": {
     "message": "Ver conta no Etherscan"
@@ -574,7 +574,7 @@
     "message": "Sair"
   },
   "mainnet": {
-    "message": "Rede Thinkium Principal"
+    "message": "Rede ethereum Principal"
   },
   "max": {
     "message": "Máx."
@@ -589,7 +589,7 @@
     "message": "Mensagem"
   },
   "metamaskDescription": {
-    "message": "Conectando você ao Thinkium e à Web Descentralizada."
+    "message": "Conectando você ao ethereum e à Web Descentralizada."
   },
   "metamaskVersion": {
     "message": "Versão do TMMSK"
@@ -1016,7 +1016,7 @@
     "message": "3. Comece a usar dApps e muito mais!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Use sua conta física como faria com qualquer conta de Thinkium. Faça login em dApps, envie Eth, compre e guarde tokens ERC20 e Tokens Não Fungíveis, como CryptoKitties."
+    "message": "Use sua conta física como faria com qualquer conta de ethereum. Faça login em dApps, envie Eth, compre e guarde tokens ERC20 e Tokens Não Fungíveis, como CryptoKitties."
   },
   "storePhrase": {
     "message": "Guarde esta frase em um gerenciador de senhas como o 1Password."

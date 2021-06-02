@@ -124,7 +124,7 @@
     "message": "Сумма:"
   },
   "appDescription": {
-    "message": "Кошелек Thinkium в вашем браузере",
+    "message": "Кошелек ethereum в вашем браузере",
     "description": "The description of the application"
   },
   "appName": {
@@ -334,7 +334,7 @@
     "message": "Подключение к тестовой сети Kovan"
   },
   "connectingToMainnet": {
-    "message": "Подключение к сети Thinkium Mainnet"
+    "message": "Подключение к сети ethereum Mainnet"
   },
   "connectingToRinkeby": {
     "message": "Подключение к тестовой сети Rinkeby"
@@ -560,7 +560,7 @@
     "description": "$1 is the return value of eth_chainId from an RPC endpoint"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Имя ENS не найдено в текущей сети. Попробуйте переключиться на сеть Thinkium Mainnet."
+    "message": "Имя ENS не найдено в текущей сети. Попробуйте переключиться на сеть ethereum Mainnet."
   },
   "ensRegistrationError": {
     "message": "Ошибка при регистрации имени ENS"
@@ -609,7 +609,7 @@
     "description": "The description for the `eth_accounts` permission"
   },
   "ethereumPublicAddress": {
-    "message": "Публичный адрес Thinkium"
+    "message": "Публичный адрес ethereum"
   },
   "etherscan": {
     "message": "Etherscan"
@@ -912,7 +912,7 @@
     "message": "Время блокировки слишком велико"
   },
   "mainnet": {
-    "message": "Сеть Thinkium Mainnet"
+    "message": "Сеть ethereum Mainnet"
   },
   "max": {
     "message": "Макс."
@@ -936,7 +936,7 @@
     "message": "Кнопка статуса подключения показывает, подключен ли веб-сайт, который вы посещаете, к вашей выбранному в нестоящее врем счету."
   },
   "metamaskDescription": {
-    "message": "Подключение вас к Thinkium и децентрализованной сети."
+    "message": "Подключение вас к ethereum и децентрализованной сети."
   },
   "metamaskSwapsOfflineDescription": {
     "message": "Свопы TMMSK Swaps находятся на техническом обслуживании. Зайдите позже."
@@ -973,7 +973,7 @@
     "message": "Помогите нам улучшить TMMSK"
   },
   "metametricsOptInDescription": {
-    "message": "TMMSK хотел бы собрать основные данные об использовании, чтобы лучше понять, как наши пользователи взаимодействуют с расширением. Эти данные будут использоваться для постоянного улучшения удобства и опыта использования нашего продукта и экосистемы Thinkium."
+    "message": "TMMSK хотел бы собрать основные данные об использовании, чтобы лучше понять, как наши пользователи взаимодействуют с расширением. Эти данные будут использоваться для постоянного улучшения удобства и опыта использования нашего продукта и экосистемы ethereum."
   },
   "mobileSyncText": {
     "message": "Введите свой пароль, чтобы подтвердить ваш личность!"
@@ -1112,7 +1112,7 @@
     "description": "Return the user to the site that initiated onboarding"
   },
   "onlyAddTrustedNetworks": {
-    "message": "Вредоносный сетевой провайдер Thinkium может дезинформировать о состоянии блокчейн и записывать ваши действия в сети. Добавляйте только те пользовательские сети, которым доверяете."
+    "message": "Вредоносный сетевой провайдер ethereum может дезинформировать о состоянии блокчейн и записывать ваши действия в сети. Добавляйте только те пользовательские сети, которым доверяете."
   },
   "onlyAvailableOnMainnet": {
     "message": "Доступно только в mainnet"
@@ -1538,7 +1538,7 @@
     "message": "3. Начните использовать сайты web3 и другое!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Используйте свой аппаратный счет, как обычный счет Thinkium. Подключайтесь к сайтам web3, отправляйте ETH, покупайте и храните токены ERC20 и незаменяемые токены, такие как CryptoKitties."
+    "message": "Используйте свой аппаратный счет, как обычный счет ethereum. Подключайтесь к сайтам web3, отправляйте ETH, покупайте и храните токены ERC20 и незаменяемые токены, такие как CryptoKitties."
   },
   "storePhrase": {
     "message": "Сохраните эту фразу в диспетчере паролей, например в 1Password."
@@ -1666,7 +1666,7 @@
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapNetworkFeeSummary": {
-    "message": "Сетевая комиссия покрывает стоимость обработки вашего свопа и его хранения в сети Thinkium. TMMSK не получает прибыли от этой комиссии."
+    "message": "Сетевая комиссия покрывает стоимость обработки вашего свопа и его хранения в сети ethereum. TMMSK не получает прибыли от этой комиссии."
   },
   "swapNewQuoteIn": {
     "message": "Новые котировки в $1",
@@ -1997,7 +1997,7 @@
     "message": "Использовать обнаружение фишинга"
   },
   "usePhishingDetectionDescription": {
-    "message": "Показывать предупреждение для фишинговых доменов, нацеленных на пользователей Thinkium"
+    "message": "Показывать предупреждение для фишинговых доменов, нацеленных на пользователей ethereum"
   },
   "usedByClients": {
     "message": "Используется множеством разных клиентов"

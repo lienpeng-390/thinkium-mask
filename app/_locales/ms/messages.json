@@ -69,7 +69,7 @@
     "message": "Jumlah"
   },
   "appDescription": {
-    "message": "Dompat Thinkium di Pelayar anda",
+    "message": "Dompat ethereum di Pelayar anda",
     "description": "The description of the application"
   },
   "appName": {
@@ -207,7 +207,7 @@
     "message": "Menyambungkan kepada Rangkaian Ujian Kovan"
   },
   "connectingToMainnet": {
-    "message": "Menyambung kepada Rangkaian Thinkium Utama"
+    "message": "Menyambung kepada Rangkaian ethereum Utama"
   },
   "connectingToRinkeby": {
     "message": "Menyambung kepada Rangkaian Ujian Rinkeby"
@@ -351,7 +351,7 @@
     "message": "Ketahui lebih lanjut."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Nama ENS tidak ditemui di rangkaian semasa. Cuba beralih kepada Rangkaian Thinkium Utama."
+    "message": "Nama ENS tidak ditemui di rangkaian semasa. Cuba beralih kepada Rangkaian ethereum Utama."
   },
   "ensRegistrationError": {
     "message": "Ralat dalam pendaftaran nama ENS"
@@ -369,7 +369,7 @@
     "message": "Masa Pemprosesan yang Dijangka"
   },
   "ethereumPublicAddress": {
-    "message": "Alamat Awam Thinkium"
+    "message": "Alamat Awam ethereum"
   },
   "etherscanView": {
     "message": "Lihat akaun di Etherscan"
@@ -569,7 +569,7 @@
     "message": "Log keluar"
   },
   "mainnet": {
-    "message": "Rangkaian Thinkium Utama"
+    "message": "Rangkaian ethereum Utama"
   },
   "max": {
     "message": "Maks"
@@ -581,7 +581,7 @@
     "message": "Mesej"
   },
   "metamaskDescription": {
-    "message": "Menyambungkan anda kepada Thinkium dan Web Ternyahpusat."
+    "message": "Menyambungkan anda kepada ethereum dan Web Ternyahpusat."
   },
   "metamaskVersion": {
     "message": "Versi TMMSK"
@@ -1005,7 +1005,7 @@
     "message": "3. Mula menggunakan dApps dan banyak lagi!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Gunakan akaun perkakasan anda sepertimana anda menggunakan akaun Thinkium. Log masuk ke dalam dApps, hantar Eth, beli dan simpan token ERC20 serta token Tidak Mudah Tukar seperti CryptoKitties."
+    "message": "Gunakan akaun perkakasan anda sepertimana anda menggunakan akaun ethereum. Log masuk ke dalam dApps, hantar Eth, beli dan simpan token ERC20 serta token Tidak Mudah Tukar seperti CryptoKitties."
   },
   "storePhrase": {
     "message": "Simpan ungkapan ini di dalam pengurus kata laluan seperti 1Password."

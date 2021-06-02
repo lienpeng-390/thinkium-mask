@@ -63,7 +63,7 @@
     "message": "Halaga"
   },
   "appDescription": {
-    "message": "Isang Thinkium Wallet sa iyong Browser",
+    "message": "Isang ethereum Wallet sa iyong Browser",
     "description": "The description of the application"
   },
   "appName": {
@@ -186,7 +186,7 @@
     "message": "Kumokonekta sa Kovan Test Network"
   },
   "connectingToMainnet": {
-    "message": "Kumokonekta sa Thinkium Mainnet"
+    "message": "Kumokonekta sa ethereum Mainnet"
   },
   "connectingToRinkeby": {
     "message": "Kumokonekta sa Rinkeby Test Network"
@@ -333,7 +333,7 @@
     "message": "Matuto pa."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Hindi nakita ang ENS name sa kasalukuyang network. Subukang lumipat sa Thinkium Mainnet."
+    "message": "Hindi nakita ang ENS name sa kasalukuyang network. Subukang lumipat sa ethereum Mainnet."
   },
   "ensRegistrationError": {
     "message": "May error sa pagrerehistro ng ENS name"
@@ -539,7 +539,7 @@
     "message": "Mensahe"
   },
   "metamaskDescription": {
-    "message": "Kinokonekta ka sa Thinkium at sa Decentralized Web."
+    "message": "Kinokonekta ka sa ethereum at sa Decentralized Web."
   },
   "metamaskVersion": {
     "message": "Bersyon ng TMMSK"
@@ -934,7 +934,7 @@
     "message": "3. Magsimula gamit ang dApps at higit pa!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Gamitin ang iyong hardware account tulad ng anumang Thinkium account. Mag-log in sa dApps, magpadala ng Eth, bumili at mag-store ng mga ERC20 token at mga Non-Fungible token tulad ng CryptoKitties."
+    "message": "Gamitin ang iyong hardware account tulad ng anumang ethereum account. Mag-log in sa dApps, magpadala ng Eth, bumili at mag-store ng mga ERC20 token at mga Non-Fungible token tulad ng CryptoKitties."
   },
   "storePhrase": {
     "message": "I-store ang pariralang ito sa isang password manager tulad ng 1Password."

@@ -130,7 +130,7 @@
     "message": "Cantidad:"
   },
   "appDescription": {
-    "message": "Un Monedero de Thinkium para su Navegador",
+    "message": "Un Monedero de ethereum para su Navegador",
     "description": "The description of the application"
   },
   "appName": {
@@ -343,7 +343,7 @@
     "message": "Conectando a la red de pruebas Kovan"
   },
   "connectingToMainnet": {
-    "message": "Conectando a la red principal de Thinkium (Main Net)"
+    "message": "Conectando a la red principal de ethereum (Main Net)"
   },
   "connectingToRinkeby": {
     "message": "Conectando a la red de pruebas Rinkeby"
@@ -456,7 +456,7 @@
     "message": "Descifrar petición"
   },
   "defaultNetwork": {
-    "message": "La red por defecto para las transacciones de Ether es la red principal de Thinkium (Main Net)"
+    "message": "La red por defecto para las transacciones de Ether es la red principal de ethereum (Main Net)"
   },
   "delete": {
     "message": "Eliminar"
@@ -569,7 +569,7 @@
     "description": "$1 is the return value of eth_chainId from an RPC endpoint"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "El nombre de ENS no se encuentra en la red actual. Intente cambiar a la red principal de Thinkium (Main Net)."
+    "message": "El nombre de ENS no se encuentra en la red actual. Intente cambiar a la red principal de ethereum (Main Net)."
   },
   "ensRegistrationError": {
     "message": "Error en el registro de nombres de ENS"
@@ -618,7 +618,7 @@
     "description": "The description for the `eth_accounts` permission"
   },
   "ethereumPublicAddress": {
-    "message": "Dirección Pública de Thinkium"
+    "message": "Dirección Pública de ethereum"
   },
   "etherscan": {
     "message": "Etherscan"
@@ -921,7 +921,7 @@
     "message": "El tiempo para cerrar sesión es demasiado grande"
   },
   "mainnet": {
-    "message": "Red principal de Thinkium (Main Net)"
+    "message": "Red principal de ethereum (Main Net)"
   },
   "max": {
     "message": "Máximo"
@@ -945,7 +945,7 @@
     "message": "El botón de estado de conexión muestra si el sitio que está visitando se encuentra conectado a tu cuenta actualmente seleccionada."
   },
   "metamaskDescription": {
-    "message": "Conectándote a Thinkium y la Web Descentralizada."
+    "message": "Conectándote a ethereum y la Web Descentralizada."
   },
   "metamaskSwapsOfflineDescription": {
     "message": "Intercambios TMMSK está en mantenimiento. Por favor intente más tarde."
@@ -982,7 +982,7 @@
     "message": "Ayúdanos a mejorar TMMSK"
   },
   "metametricsOptInDescription": {
-    "message": "A TMMSK le gustaría recopilar datos de uso para entender mejor cómo interactúan nuestros usuarios con la extensión. Estos datos van a ser usados, de forma continua, para mejorar la usabilidad y experiencia de uso de nuestro producto y el ecosistema Thinkium."
+    "message": "A TMMSK le gustaría recopilar datos de uso para entender mejor cómo interactúan nuestros usuarios con la extensión. Estos datos van a ser usados, de forma continua, para mejorar la usabilidad y experiencia de uso de nuestro producto y el ecosistema ethereum."
   },
   "mobileSyncText": {
     "message": "Por favor, ingrese su contraseña ¡para confirmar que es usted!"
@@ -1124,7 +1124,7 @@
     "message": "Un proveedor de red de malintencionado puede mentir sobre el estado de la cadena de bloques y registrar la actividad de su red. Solo agregue redes personalizadas en las que confíe."
   },
   "onlyAvailableOnMainnet": {
-    "message": "Solo disponible en la red principal de Thinkium (Main Net)"
+    "message": "Solo disponible en la red principal de ethereum (Main Net)"
   },
   "onlyConnectTrust": {
     "message": "Conéctese solo con sitios en los que confíe."
@@ -1547,7 +1547,7 @@
     "message": "3. Empezar a usar dApps ¡y más!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Usa tu cuenta física igual que harías con cualquier cuenta de Thinkium. Regístrate con dApps, manda Eth, compra y almacena tokens de ERC20 y otros tokens no-fungibles, como CryptoKitties."
+    "message": "Usa tu cuenta física igual que harías con cualquier cuenta de ethereum. Regístrate con dApps, manda Eth, compra y almacena tokens de ERC20 y otros tokens no-fungibles, como CryptoKitties."
   },
   "storePhrase": {
     "message": "Guarde esta frase en un administrador de contraseñas como 1Password."
@@ -1682,7 +1682,7 @@
     "description": "$1 is the number of quotes that the user can select from when opening the list of quotes on the 'view quote' screen"
   },
   "swapNetworkFeeSummary": {
-    "message": "La tarifa de la red cubre el costo de procesar su intercambio y almacenarlo en la red Thinkium. TMMSK no se beneficia de esta tarifa."
+    "message": "La tarifa de la red cubre el costo de procesar su intercambio y almacenarlo en la red ethereum. TMMSK no se beneficia de esta tarifa."
   },
   "swapNewQuoteIn": {
     "message": "Nuevas cotizaciones en $1",
@@ -2033,7 +2033,7 @@
     "message": "Usar la detección de phishing"
   },
   "usePhishingDetectionDescription": {
-    "message": "Mostrar una advertencia para los dominios de phishing dirigidos a los usuarios de Thinkium"
+    "message": "Mostrar una advertencia para los dominios de phishing dirigidos a los usuarios de ethereum"
   },
   "usedByClients": {
     "message": "Utilizado por una variedad de clientes diferentes"

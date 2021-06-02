@@ -69,7 +69,7 @@
     "message": "Ποσό"
   },
   "appDescription": {
-    "message": "Ένα Πορτοφόλι Thinkium στο Πρόγραμμα Περιήγησής σας",
+    "message": "Ένα Πορτοφόλι ethereum στο Πρόγραμμα Περιήγησής σας",
     "description": "The description of the application"
   },
   "appName": {
@@ -204,7 +204,7 @@
     "message": "Σύνδεση στο Δοκιμαστικό Δίκτυο Kovan"
   },
   "connectingToMainnet": {
-    "message": "Σύνδεση στο Κύριο Δίκτυο Thinkium"
+    "message": "Σύνδεση στο Κύριο Δίκτυο ethereum"
   },
   "connectingToRinkeby": {
     "message": "Σύνδεση στο Δίκτυο Δοκιμών Rinkeby"
@@ -354,7 +354,7 @@
     "message": "Μάθετε περισσότερα."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Το όνομα ENS δεν βρέθηκε στο τρέχον δίκτυο. Δοκιμάστε να μεταβείτε στο Κύριο Δίκτυο Thinkium."
+    "message": "Το όνομα ENS δεν βρέθηκε στο τρέχον δίκτυο. Δοκιμάστε να μεταβείτε στο Κύριο Δίκτυο ethereum."
   },
   "ensRegistrationError": {
     "message": "Σφάλμα στην καταχώριση ονόματος ENS"
@@ -372,7 +372,7 @@
     "message": "Εκτιμώμενοι Χρόνοι Επεξεργασίας"
   },
   "ethereumPublicAddress": {
-    "message": "Δημόσια Διεύθυνση Thinkium"
+    "message": "Δημόσια Διεύθυνση ethereum"
   },
   "etherscanView": {
     "message": "Προβολή λογαριασμού στο Etherscan"
@@ -583,7 +583,7 @@
     "message": "Αποσύνδεση"
   },
   "mainnet": {
-    "message": "Κύριο Δίκτυο Thinkium"
+    "message": "Κύριο Δίκτυο ethereum"
   },
   "max": {
     "message": "Μέγ."
@@ -598,7 +598,7 @@
     "message": "Μήνυμα"
   },
   "metamaskDescription": {
-    "message": "Σύνδεση με το Thinkium και τον Αποκεντρωμένο Ιστό."
+    "message": "Σύνδεση με το ethereum και τον Αποκεντρωμένο Ιστό."
   },
   "metamaskVersion": {
     "message": "Έκδοση TMMSK "
@@ -1025,7 +1025,7 @@
     "message": "3. Ξεκινήστε να χρησιμοποιείτε το dApps και άλλα!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Χρησιμοποιήστε τον λογαριασμό εξοπλισμού σας όπως θα κάνατε με οποιονδήποτε λογαριασμό του Thinkium. Συνδεθείτε στο dApps, στείλτε το Eth, αγοράστε και αποθηκεύστε ERC20 tokens και Non-Fungible tokens όπως το CryptoKitties."
+    "message": "Χρησιμοποιήστε τον λογαριασμό εξοπλισμού σας όπως θα κάνατε με οποιονδήποτε λογαριασμό του ethereum. Συνδεθείτε στο dApps, στείλτε το Eth, αγοράστε και αποθηκεύστε ERC20 tokens και Non-Fungible tokens όπως το CryptoKitties."
   },
   "storePhrase": {
     "message": "Αποθηκεύστε αυτήν τη φράση σε έναν διαχειριστή κωδικών πρόσβασης όπως το 1Password."

@@ -69,7 +69,7 @@
     "message": "Apjoms"
   },
   "appDescription": {
-    "message": "Thinkium maks pārlūkā",
+    "message": "ethereum maks pārlūkā",
     "description": "The description of the application"
   },
   "appName": {
@@ -207,7 +207,7 @@
     "message": "Savienojas ar Kovan testa tīklu"
   },
   "connectingToMainnet": {
-    "message": "Savienojas ar galveno Thinkium tīklu"
+    "message": "Savienojas ar galveno ethereum tīklu"
   },
   "connectingToRinkeby": {
     "message": "Pieslēdzas Rinkeby testa tīklam"
@@ -357,7 +357,7 @@
     "message": "Uzzināt vairāk."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Šajā tīklā ENS nosaukums nav atrasts. Pamēģiniet pārslēgties uz galveno Thinkium tīklu."
+    "message": "Šajā tīklā ENS nosaukums nav atrasts. Pamēģiniet pārslēgties uz galveno ethereum tīklu."
   },
   "ensRegistrationError": {
     "message": "Kļūda ENS vārda reģistrācijā"
@@ -375,7 +375,7 @@
     "message": "Aprēķinātais apstrādes laiks"
   },
   "ethereumPublicAddress": {
-    "message": "Thinkium publiskā adrese"
+    "message": "ethereum publiskā adrese"
   },
   "etherscanView": {
     "message": "Skatīt kontu ar Etherscan"
@@ -582,7 +582,7 @@
     "message": "Izrakstīties"
   },
   "mainnet": {
-    "message": "Galvenais Thinkium tīkls"
+    "message": "Galvenais ethereum tīkls"
   },
   "max": {
     "message": "Maks."
@@ -597,7 +597,7 @@
     "message": "Ziņojums"
   },
   "metamaskDescription": {
-    "message": "Veido savienojumu ar Thinkium un decentralizēto tīmekli."
+    "message": "Veido savienojumu ar ethereum un decentralizēto tīmekli."
   },
   "metamaskVersion": {
     "message": "TMMSK versija"
@@ -1024,7 +1024,7 @@
     "message": "3. Sāciet izmantot dApps un citas funkcijas!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Lietojiet aparatūras kontu līdzīgi citiem Thinkium kontiem. Pierakstieties dApps, sūtiet Eth, pērciet un glabājiet ERC20 žetonus un neatvietojamos žetonus, piemēram, CryptoKitties."
+    "message": "Lietojiet aparatūras kontu līdzīgi citiem ethereum kontiem. Pierakstieties dApps, sūtiet Eth, pērciet un glabājiet ERC20 žetonus un neatvietojamos žetonus, piemēram, CryptoKitties."
   },
   "storePhrase": {
     "message": "Saglabājiet šo frāzi paroļu pārvaldniekā, piemēram, 1Password."

@@ -15,7 +15,7 @@
     "message": "Bedrag"
   },
   "appDescription": {
-    "message": "Thinkium Browser-extensie",
+    "message": "ethereum Browser-extensie",
     "description": "The description of the application"
   },
   "appName": {
@@ -213,7 +213,7 @@
     "message": "Bericht"
   },
   "metamaskDescription": {
-    "message": "TMMSK is een veilige identiteitskluis voor Thinkium."
+    "message": "TMMSK is een veilige identiteitskluis voor ethereum."
   },
   "mustSelectOne": {
     "message": "Moet ten minste één token selecteren."

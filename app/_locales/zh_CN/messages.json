@@ -343,7 +343,7 @@
     "message": "正在连接到 Kovan 测试网络"
   },
   "connectingToMainnet": {
-    "message": "正在连接到以太坊 Thinkium 主网"
+    "message": "正在连接到以太坊 ethereum 主网"
   },
   "connectingToRinkeby": {
     "message": "正在连接到 Rinkeby 测试网络"
@@ -618,7 +618,7 @@
     "description": "The description for the `eth_accounts` permission"
   },
   "ethereumPublicAddress": {
-    "message": "以太坊 Thinkium 公开地址"
+    "message": "以太坊 Ethereum 公开地址"
   },
   "etherscan": {
     "message": "Etherscan（以太坊浏览器）"
@@ -924,15 +924,15 @@
     "message": "锁定时间过长"
   },
   "mainnet": {
-    "message": "以太坊 Thinkium 主网络"
+    "message": "以太坊 ethereum 主网络"
   },
-  "thinkium1": {
+  "Thinkium1": {
     "message": "Thinkium1 网络"
   },
-  "thinkium2": {
+  "Thinkium2": {
     "message": "Thinkium2 网络"
   },
-  "thinkium3": {
+  "Thinkium103": {
     "message": "Thinkium103 网络"
   },
   "max": {
@@ -957,7 +957,7 @@
     "message": "连接状态按钮显示所访问的网站是否与您当前选择的账户连接。"
   },
   "metamaskDescription": {
-    "message": "将您与 Thinkium 和去中心化网络连接起来。"
+    "message": "将您与 ethereum 和去中心化网络连接起来。"
   },
   "metamaskSwapsOfflineDescription": {
     "message": "TMMSK Swaps 正在进行维护。请稍后访问。"
@@ -994,7 +994,7 @@
     "message": "帮助我们让 TMMSK 变得更好"
   },
   "metametricsOptInDescription": {
-    "message": "TMMSK 希望收集使用数据，以更好地了解我们的用户如何与扩展进行互动。这些数据将被用于持续改进我们产品和 Thinkium 生态系统的可用性和用户体验。"
+    "message": "TMMSK 希望收集使用数据，以更好地了解我们的用户如何与扩展进行互动。这些数据将被用于持续改进我们产品和 ethereum 生态系统的可用性和用户体验。"
   },
   "mobileSyncText": {
     "message": "请输入密码确认个人身份！"
@@ -2045,7 +2045,7 @@
     "message": "使用网络钓鱼检测"
   },
   "usePhishingDetectionDescription": {
-    "message": "显示针对 Thinkium 用户钓鱼域名的警告。"
+    "message": "显示针对 ethereum 用户钓鱼域名的警告。"
   },
   "usedByClients": {
     "message": "可用于各种不同的客户端"

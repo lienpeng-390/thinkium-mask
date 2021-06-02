@@ -66,7 +66,7 @@
     "message": "Betrag"
   },
   "appDescription": {
-    "message": "Thinkium Browsererweiterung",
+    "message": "ethereum Browsererweiterung",
     "description": "The description of the application"
   },
   "appName": {
@@ -198,7 +198,7 @@
     "message": " Verbinde zum Kovan Testnetzwerk"
   },
   "connectingToMainnet": {
-    "message": "Verbinde zum Thinkium Main Net"
+    "message": "Verbinde zum ethereum Main Net"
   },
   "connectingToRinkeby": {
     "message": " Verbinde zum Rinkeby Testnetzwerk"
@@ -345,7 +345,7 @@
     "message": "Mehr hierzu."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "ENS-Name wurde im aktuellen Netzwerk nicht gefunden. Versuchen Sie, zum Thinkium Mainnet zu wechseln."
+    "message": "ENS-Name wurde im aktuellen Netzwerk nicht gefunden. Versuchen Sie, zum ethereum Mainnet zu wechseln."
   },
   "ensRegistrationError": {
     "message": "Fehler bei der ENS-Namensregistrierung"
@@ -363,7 +363,7 @@
     "message": "Geschätzte Bearbeitungszeiten"
   },
   "ethereumPublicAddress": {
-    "message": "Öffentliche Thinkium-Adresse"
+    "message": "Öffentliche ethereum-Adresse"
   },
   "etherscanView": {
     "message": "Account auf Etherscan anschauen"
@@ -568,7 +568,7 @@
     "message": "Ausloggen"
   },
   "mainnet": {
-    "message": "Thinkium Main Net"
+    "message": "ethereum Main Net"
   },
   "memo": {
     "message": " Memo"
@@ -580,7 +580,7 @@
     "message": "Nachricht"
   },
   "metamaskDescription": {
-    "message": "TMMSK ist ein sicherer Identitätssafe für Thinkium."
+    "message": "TMMSK ist ein sicherer Identitätssafe für ethereum."
   },
   "metamaskVersion": {
     "message": "TMMSK-Version"
@@ -997,7 +997,7 @@
     "message": "3. Erste Schritte mit dApps und mehr!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Verwenden Sie Ihr Hardware-Konto so wie jedes Thinkium-Konto. Loggen Sie sich bei dApps ein, senden Sie Eth, kaufen und speichern Sie ERC20-Token und Nicht-Fungible-Token wie CryptoKitties."
+    "message": "Verwenden Sie Ihr Hardware-Konto so wie jedes ethereum-Konto. Loggen Sie sich bei dApps ein, senden Sie Eth, kaufen und speichern Sie ERC20-Token und Nicht-Fungible-Token wie CryptoKitties."
   },
   "storePhrase": {
     "message": "Speichern Sie diesen Schlüssel in einem Passwortmanager wie 1Password."

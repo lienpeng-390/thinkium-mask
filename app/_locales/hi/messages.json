@@ -124,7 +124,7 @@
     "message": "राशि:"
   },
   "appDescription": {
-    "message": "आपके ब्राउज़र में एक Thinkium वॉलेट",
+    "message": "आपके ब्राउज़र में एक ethereum वॉलेट",
     "description": "The description of the application"
   },
   "appName": {
@@ -334,7 +334,7 @@
     "message": "Kovan टेस्ट नेटवर्क से कनेक्ट हो रहा है"
   },
   "connectingToMainnet": {
-    "message": "Thinkium Mainnet से कनेक्ट हो रहा है"
+    "message": "ethereum Mainnet से कनेक्ट हो रहा है"
   },
   "connectingToRinkeby": {
     "message": "Rinkeby टेस्ट नेटवर्क से कनेक्ट हो रहा है"
@@ -560,7 +560,7 @@
     "description": "$1 is the return value of eth_chainId from an RPC endpoint"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "वर्तमान नेटवर्क पर ENS नाम नहीं मिला। Thinkium Mainnet पर स्विच करने का प्रयास करें।"
+    "message": "वर्तमान नेटवर्क पर ENS नाम नहीं मिला। ethereum Mainnet पर स्विच करने का प्रयास करें।"
   },
   "ensRegistrationError": {
     "message": "ENS नाम पंजीकरण में त्रुटि"
@@ -609,7 +609,7 @@
     "description": "The description for the `eth_accounts` permission"
   },
   "ethereumPublicAddress": {
-    "message": "Thinkium सार्वजनिक पता"
+    "message": "ethereum सार्वजनिक पता"
   },
   "etherscan": {
     "message": "Etherscan"
@@ -912,7 +912,7 @@
     "message": "लॉक समय बहुत अधिक है"
   },
   "mainnet": {
-    "message": "Thinkium Mainnet"
+    "message": "ethereum Mainnet"
   },
   "max": {
     "message": "अधिकतम"
@@ -936,7 +936,7 @@
     "message": "कनेक्शन स्थिति बटन दिखाता है कि आप जिस वेबसाइट पर जा रहे हैं, वह आपके वर्तमान में चयनित खाते से कनेक्ट है।"
   },
   "metamaskDescription": {
-    "message": "आपको Thinkium और विकेंद्रीकृत वेब से कनेक्ट किया जा रहा है।"
+    "message": "आपको ethereum और विकेंद्रीकृत वेब से कनेक्ट किया जा रहा है।"
   },
   "metamaskSwapsOfflineDescription": {
     "message": "TMMSK स्वैप का रखरखाव किया जा रहा है। कृपया बाद में वापस देखें।"
@@ -973,7 +973,7 @@
     "message": "TMMSK को बेहतर बनाने में हमारी मदद करें"
   },
   "metametricsOptInDescription": {
-    "message": "TMMSK इस बात की बेहतर समझ प्राप्त करने के लिए डेटा एकत्र करना चाहता है कि हमारे उपयोगकर्ता विस्तार के साथ कैसे सहभागिता करते हैं। इस डेटा का उपयोग हमारे उत्पाद और Thinkium पारिस्थितिकी तंत्र की उपयोगिता और उपयोगकर्ता अनुभव को लगातार सुधारने के लिए किया जाएगा।"
+    "message": "TMMSK इस बात की बेहतर समझ प्राप्त करने के लिए डेटा एकत्र करना चाहता है कि हमारे उपयोगकर्ता विस्तार के साथ कैसे सहभागिता करते हैं। इस डेटा का उपयोग हमारे उत्पाद और ethereum पारिस्थितिकी तंत्र की उपयोगिता और उपयोगकर्ता अनुभव को लगातार सुधारने के लिए किया जाएगा।"
   },
   "mobileSyncText": {
     "message": "कृपया यह पुष्टि करने के लिए अपना पासवर्ड दर्ज करें कि यह आप ही हैं!"
@@ -1112,7 +1112,7 @@
     "description": "Return the user to the site that initiated onboarding"
   },
   "onlyAddTrustedNetworks": {
-    "message": "दुर्भावनापूर्ण Thinkium नेटवर्क प्रदाता ब्लॉकचेन की स्थिति के बारे में झूठ बोल सकता है और आपकी नेटवर्क गतिविधि रिकॉर्ड कर सकता है। केवल उन कस्टम नेटवर्क को जोड़ें, जिन पर आप भरोसा करते हैं।"
+    "message": "दुर्भावनापूर्ण ethereum नेटवर्क प्रदाता ब्लॉकचेन की स्थिति के बारे में झूठ बोल सकता है और आपकी नेटवर्क गतिविधि रिकॉर्ड कर सकता है। केवल उन कस्टम नेटवर्क को जोड़ें, जिन पर आप भरोसा करते हैं।"
   },
   "onlyAvailableOnMainnet": {
     "message": "केवल मेननेट पर उपलब्ध है"
@@ -1538,7 +1538,7 @@
     "message": "3. web3 साइटों और अधिक का उपयोग करना प्रारंभ करें!"
   },
   "step3HardwareWalletMsg": {
-    "message": "अपने हार्डवेयर खाते का उसी तरह से उपयोग करें, जैसे आप किसी भी Thinkium खाते को करेंगे। web3 साइटों से कनेक्ट करें, ETH भेजें, ERC20 और CryptoKitties जैसे गैर-प्रतिमोचन वाले टोकन जैसे टोकन खरीदें और संग्रहीत करें।"
+    "message": "अपने हार्डवेयर खाते का उसी तरह से उपयोग करें, जैसे आप किसी भी ethereum खाते को करेंगे। web3 साइटों से कनेक्ट करें, ETH भेजें, ERC20 और CryptoKitties जैसे गैर-प्रतिमोचन वाले टोकन जैसे टोकन खरीदें और संग्रहीत करें।"
   },
   "storePhrase": {
     "message": "इस वाक्यांश को 1Password जैसे किसी पासवर्ड मैनेजर में संग्रहीत करें।"
@@ -1666,7 +1666,7 @@
     "description": "Provides information about the fee that metamask takes for swaps. $1 is a decimal number."
   },
   "swapNetworkFeeSummary": {
-    "message": "नेटवर्क शुल्क आपके स्वैप को संसाधित करने के शुल्क और उसे Thinkium नेटवर्क पर संग्रह करने को कवर करता है। TMMSK इस शुल्क से लाभ नहीं कमाता है।"
+    "message": "नेटवर्क शुल्क आपके स्वैप को संसाधित करने के शुल्क और उसे ethereum नेटवर्क पर संग्रह करने को कवर करता है। TMMSK इस शुल्क से लाभ नहीं कमाता है।"
   },
   "swapNewQuoteIn": {
     "message": "$1 में नए उद्धरण",
@@ -1997,7 +1997,7 @@
     "message": "फ़िशिंग डिटेक्शन का उपयोग करें"
   },
   "usePhishingDetectionDescription": {
-    "message": "Thinkium उपयोगकर्ताओं को लक्षित करने वाले फ़िशिंग डोमेन के लिए एक चेतावनी प्रदर्शित करें"
+    "message": "ethereum उपयोगकर्ताओं को लक्षित करने वाले फ़िशिंग डोमेन के लिए एक चेतावनी प्रदर्शित करें"
   },
   "usedByClients": {
     "message": "विभिन्न क्लाइंट द्वारा उपयोग किया जाता है"

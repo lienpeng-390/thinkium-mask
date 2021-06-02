@@ -69,7 +69,7 @@
     "message": "Sumă"
   },
   "appDescription": {
-    "message": "Un portofel Thinkium în browserul dvs.",
+    "message": "Un portofel ethereum în browserul dvs.",
     "description": "The description of the application"
   },
   "appName": {
@@ -207,7 +207,7 @@
     "message": "Se conectează la rețeaua de test Kovan"
   },
   "connectingToMainnet": {
-    "message": "Se conectează la rețeaua Thinkium principală"
+    "message": "Se conectează la rețeaua ethereum principală"
   },
   "connectingToRinkeby": {
     "message": "Se conectează la Rețeaua de test Rinkeby"
@@ -357,7 +357,7 @@
     "message": "Aflați mai multe."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Numele ENS nu s-a găsit pe rețeaua curentă. Încercați să comutați la Rețeaua Thinkium principală."
+    "message": "Numele ENS nu s-a găsit pe rețeaua curentă. Încercați să comutați la Rețeaua ethereum principală."
   },
   "ensRegistrationError": {
     "message": "Eroare la înregistrarea numelui ENS"
@@ -375,7 +375,7 @@
     "message": "Timpi estimativi de procesare"
   },
   "ethereumPublicAddress": {
-    "message": "Adresa publică Thinkium"
+    "message": "Adresa publică ethereum"
   },
   "etherscanView": {
     "message": "Vizualizare cont pe Etherscan"
@@ -573,7 +573,7 @@
     "message": "Deconectați-vă"
   },
   "mainnet": {
-    "message": "Rețeaua Thinkium principală"
+    "message": "Rețeaua ethereum principală"
   },
   "max": {
     "message": "Maximum"
@@ -588,7 +588,7 @@
     "message": "Mesaj"
   },
   "metamaskDescription": {
-    "message": "Vă conectăm la Thinkium și la Internetul descentralizat."
+    "message": "Vă conectăm la ethereum și la Internetul descentralizat."
   },
   "metamaskVersion": {
     "message": "Versiune TMMSK"
@@ -1015,7 +1015,7 @@
     "message": "3. Începeți să folosiți dApps și altele!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Folosiți-vă contul hardware la fel ca pe orice cont Thinkium. Conectați-vă la dApps, trimiteți Eth, cumpărați și stocați tokenuri ERC20 și tokenuri non-fungibile precum CryptoKitties."
+    "message": "Folosiți-vă contul hardware la fel ca pe orice cont ethereum. Conectați-vă la dApps, trimiteți Eth, cumpărați și stocați tokenuri ERC20 și tokenuri non-fungibile precum CryptoKitties."
   },
   "storePhrase": {
     "message": "Păstrați această expresie într-un program de gestionare a parolelor cum ar fi 1Password."

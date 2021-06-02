@@ -69,7 +69,7 @@
     "message": "Belopp"
   },
   "appDescription": {
-    "message": "En Thinkium-plånbok i din webbläsare",
+    "message": "En ethereum-plånbok i din webbläsare",
     "description": "The description of the application"
   },
   "appName": {
@@ -351,7 +351,7 @@
     "message": "Lär dig mer."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "ENS-namnet hittades inte i det aktuella nätverket. Prova att byta till Thinkium Mainnet."
+    "message": "ENS-namnet hittades inte i det aktuella nätverket. Prova att byta till ethereum Mainnet."
   },
   "ensRegistrationError": {
     "message": "Fel i ENS-namnregistrering"
@@ -369,7 +369,7 @@
     "message": "Uppskattade behandlingstider"
   },
   "ethereumPublicAddress": {
-    "message": "Thinkium offentlig adress"
+    "message": "ethereum offentlig adress"
   },
   "etherscanView": {
     "message": "Visa konto på Etherscan"
@@ -585,7 +585,7 @@
     "message": "Meddelande"
   },
   "metamaskDescription": {
-    "message": "Ansluter dig mot Thinkium och den decentraliserade webben."
+    "message": "Ansluter dig mot ethereum och den decentraliserade webben."
   },
   "metamaskVersion": {
     "message": "TMMSK-version"
@@ -1012,7 +1012,7 @@
     "message": "3. Börja använda dApps och mer!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Använd ditt hårdvarukonto som du skulle använda andra Thinkium-konton. Logga in i dAppar, skicka ETH, köp och förvara ERC20-tokens och Non-Fungible tokens som CryptoKitties."
+    "message": "Använd ditt hårdvarukonto som du skulle använda andra ethereum-konton. Logga in i dAppar, skicka ETH, köp och förvara ERC20-tokens och Non-Fungible tokens som CryptoKitties."
   },
   "storePhrase": {
     "message": "Lagra denna fras i en lösenordshanterare såsom 1Password."

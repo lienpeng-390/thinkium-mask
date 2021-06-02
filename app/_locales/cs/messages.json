@@ -18,7 +18,7 @@
     "message": "Částka"
   },
   "appDescription": {
-    "message": "Thinkium rozšíření prohlížeče",
+    "message": "ethereum rozšíření prohlížeče",
     "description": "The description of the application"
   },
   "appName": {
@@ -65,7 +65,7 @@
     "message": "Připojuji se k Kovan Test Network"
   },
   "connectingToMainnet": {
-    "message": "Připojuji se k Thinkium Mainnet"
+    "message": "Připojuji se k ethereum Mainnet"
   },
   "connectingToRinkeby": {
     "message": "Připojuji se k Rinkeby Test Network"
@@ -239,7 +239,7 @@
     "message": "Zpráva"
   },
   "metamaskDescription": {
-    "message": "TMMSK je bezpečný osobní trezor pro Thinkium."
+    "message": "TMMSK je bezpečný osobní trezor pro ethereum."
   },
   "mustSelectOne": {
     "message": "Musíte zvolit aspoň 1 token."

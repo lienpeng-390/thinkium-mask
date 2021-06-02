@@ -69,7 +69,7 @@
     "message": "ሰርዝ "
   },
   "appDescription": {
-    "message": "በማሰሺያዎ ውስጥ የ Thinkium ቋት",
+    "message": "በማሰሺያዎ ውስጥ የ ethereum ቋት",
     "description": "The description of the application"
   },
   "appName": {
@@ -207,7 +207,7 @@
     "message": "ከ Kovan የሙከራ አውታረ መረብ መገናኘት"
   },
   "connectingToMainnet": {
-    "message": "ከዋናው የ Thinkium አውታረ መረብ ጋር መገናኘት"
+    "message": "ከዋናው የ ethereum አውታረ መረብ ጋር መገናኘት"
   },
   "connectingToRinkeby": {
     "message": "ከ Rinkeby የሙከራ አውታረ መረብ ጋር በመገናኘት ላይ"
@@ -357,7 +357,7 @@
     "message": "ተጨማሪ ይማሩ"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "የ ENS ስም በአሁኑ ኔትወርክ ላይ አልተገኘም። ወደ ዋናው የ Thinkium አውታረ መረብ ለመቀየር ይሞክሩ።"
+    "message": "የ ENS ስም በአሁኑ ኔትወርክ ላይ አልተገኘም። ወደ ዋናው የ ethereum አውታረ መረብ ለመቀየር ይሞክሩ።"
   },
   "ensRegistrationError": {
     "message": "በ ENS የስም ምዝገባ ላይ የተፈጠረ ስህተት"
@@ -375,7 +375,7 @@
     "message": "የሚገመት የክወና ጊዜያት"
   },
   "ethereumPublicAddress": {
-    "message": "Thinkium ሕዝባዊ አድራሻ"
+    "message": "ethereum ሕዝባዊ አድራሻ"
   },
   "etherscanView": {
     "message": "መለያውን በ Etherscan ላይ ይመልከቱ"
@@ -583,7 +583,7 @@
     "message": "ዘግተህ ውጣ"
   },
   "mainnet": {
-    "message": "ዋነኛ የ Thinkium አውታረ መረብ "
+    "message": "ዋነኛ የ ethereum አውታረ መረብ "
   },
   "max": {
     "message": "ከፍተኛ"
@@ -598,7 +598,7 @@
     "message": "መልዕክት"
   },
   "metamaskDescription": {
-    "message": "ከ Thinkium እና ያልተማከለ መረብ ጋር እርስዎን ማገናኘት።"
+    "message": "ከ ethereum እና ያልተማከለ መረብ ጋር እርስዎን ማገናኘት።"
   },
   "metamaskVersion": {
     "message": "የ TMMSK ስሪት"
@@ -1025,7 +1025,7 @@
     "message": "3. dApps እና ሌሎችን መጠቀም ይጀምሩ!"
   },
   "step3HardwareWalletMsg": {
-    "message": "የሐርድዌር መለያዎን ከየትኛውም የ Thinkium መለያ ጋር በሚጠቀሙት መንገድ ይጠቀሙ። ወደ dApps በመለያ ይግቡ፣ Eth ይላኩ፣ የ ERC20 ተለዋጭ ስሞችና እንደ CryptoKitties ያሉ የማይለወጡ ተለዋጭ ስሞችን ይግዙና ያከማቹ።"
+    "message": "የሐርድዌር መለያዎን ከየትኛውም የ ethereum መለያ ጋር በሚጠቀሙት መንገድ ይጠቀሙ። ወደ dApps በመለያ ይግቡ፣ Eth ይላኩ፣ የ ERC20 ተለዋጭ ስሞችና እንደ CryptoKitties ያሉ የማይለወጡ ተለዋጭ ስሞችን ይግዙና ያከማቹ።"
   },
   "storePhrase": {
     "message": "ይህን ሐረግ እንደ 1Password ባለ የይለፍ ቃል አስተዳዳሪ ውስጥ ያስቀምጡ።"

@@ -69,7 +69,7 @@
     "message": "Suma"
   },
   "appDescription": {
-    "message": "„Thinkium“ piniginė jūsų naršyklėje",
+    "message": "„ethereum“ piniginė jūsų naršyklėje",
     "description": "The description of the application"
   },
   "appName": {
@@ -207,7 +207,7 @@
     "message": "Jungiamasi prie „Kovan“ bandomojo tinklo"
   },
   "connectingToMainnet": {
-    "message": "Jungiamasi prie pagrindinio „Thinkium“ tinklo"
+    "message": "Jungiamasi prie pagrindinio „ethereum“ tinklo"
   },
   "connectingToRinkeby": {
     "message": "Jungiamasi prie „Rinkeby“ bandomojo tinklo"
@@ -357,7 +357,7 @@
     "message": "Sužinokite daugiau."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "ENS pavadinimas dabartiniame tinkle nerastas. Mėginkite perjungti į pagrindinį „Thinkium“ tinklą."
+    "message": "ENS pavadinimas dabartiniame tinkle nerastas. Mėginkite perjungti į pagrindinį „ethereum“ tinklą."
   },
   "ensRegistrationError": {
     "message": "ENS pavadinimo registracijos klaida"
@@ -375,7 +375,7 @@
     "message": "Numatomos apdorojimo trukmės"
   },
   "ethereumPublicAddress": {
-    "message": "„Thinkium“ viešasis adresas"
+    "message": "„ethereum“ viešasis adresas"
   },
   "etherscanView": {
     "message": "Peržiūrėti paskyrą „Etherscan“ programoje"
@@ -586,7 +586,7 @@
     "message": "Atsijungti"
   },
   "mainnet": {
-    "message": "Pagrindinis „Thinkium“ tinklas"
+    "message": "Pagrindinis „ethereum“ tinklas"
   },
   "max": {
     "message": "Maks."
@@ -601,7 +601,7 @@
     "message": "Pranešimas"
   },
   "metamaskDescription": {
-    "message": "Prijungiame jus prie „Thinkium“ ir decentralizuotojo žiniatinklio."
+    "message": "Prijungiame jus prie „ethereum“ ir decentralizuotojo žiniatinklio."
   },
   "metamaskVersion": {
     "message": "„TMMSK“ versija"
@@ -1028,7 +1028,7 @@
     "message": "3. Pradėkite naudoti decentralizuotas programas ir daugiau!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Naudokitės savo aparatinės įrangos paskyra kaip „Thinkium“ paskyra. Junkitės prie decentralizuotų programų, siųskite eterius, pirkite ir laikykite ERC20 žetonus ir nekeičiamus žetonus, tokius kaip „CryptoKitties“."
+    "message": "Naudokitės savo aparatinės įrangos paskyra kaip „ethereum“ paskyra. Junkitės prie decentralizuotų programų, siųskite eterius, pirkite ir laikykite ERC20 žetonus ir nekeičiamus žetonus, tokius kaip „CryptoKitties“."
   },
   "storePhrase": {
     "message": "Laikykite šią frazę slaptažodžių tvarkyklėje kaip 1 slaptažodį."

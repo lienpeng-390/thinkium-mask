@@ -69,7 +69,7 @@
     "message": "Quantitat"
   },
   "appDescription": {
-    "message": "Un Moneder Thinkium al teu Navegador",
+    "message": "Un Moneder ethereum al teu Navegador",
     "description": "The description of the application"
   },
   "appName": {
@@ -204,7 +204,7 @@
     "message": "Conectant a la xarxa de Kovan Test"
   },
   "connectingToMainnet": {
-    "message": "Connectant a Xarxa Principal Thinkium"
+    "message": "Connectant a Xarxa Principal ethereum"
   },
   "connectingToRinkeby": {
     "message": "Connectant a la Xarxa de Prova Rinkeby"
@@ -354,7 +354,7 @@
     "message": "Més informació."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "El nom ENS no s'ha trovat a la xarxa actual. Prova a cambiar a la xarxa principal d'Thinkium."
+    "message": "El nom ENS no s'ha trovat a la xarxa actual. Prova a cambiar a la xarxa principal d'ethereum."
   },
   "ensRegistrationError": {
     "message": "Error al registre de nom ENS"
@@ -372,7 +372,7 @@
     "message": "Temps de processament estimats"
   },
   "ethereumPublicAddress": {
-    "message": "Adreça Pública d'Thinkium"
+    "message": "Adreça Pública d'ethereum"
   },
   "etherscanView": {
     "message": "Veure compte a Etherscan"
@@ -573,7 +573,7 @@
     "message": "Tanca la sessió"
   },
   "mainnet": {
-    "message": "Xarxa Thinkium principal"
+    "message": "Xarxa ethereum principal"
   },
   "memo": {
     "message": "notes"
@@ -585,7 +585,7 @@
     "message": "Missatge"
   },
   "metamaskDescription": {
-    "message": "Conectant-te a Thinkium i la web descentralitzada."
+    "message": "Conectant-te a ethereum i la web descentralitzada."
   },
   "metamaskVersion": {
     "message": "Versió TMMSK"
@@ -1006,7 +1006,7 @@
     "message": "3. Comença a utilitzar dApps i altres!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Fes servir el teu compte de hardware com ho faries amb qualsevol compte Thinkium. Inicia sessió a DApps, envia Eth, compra i emmagatzema fitxes ERC20 i fitxes No Fungibles com CryptoKitties."
+    "message": "Fes servir el teu compte de hardware com ho faries amb qualsevol compte ethereum. Inicia sessió a DApps, envia Eth, compra i emmagatzema fitxes ERC20 i fitxes No Fungibles com CryptoKitties."
   },
   "storePhrase": {
     "message": "Guarda aquesta frase a un gestor de contrasenyes com Contrasenya 1"

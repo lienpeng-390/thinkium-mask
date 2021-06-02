@@ -36,7 +36,7 @@
     "message": "Kantite lajan"
   },
   "appDescription": {
-    "message": "Ekstansyon Navigatè Thinkium",
+    "message": "Ekstansyon Navigatè ethereum",
     "description": "The description of the application"
   },
   "appName": {
@@ -107,7 +107,7 @@
     "message": "Konekte nan Kovan Tès Rezo a"
   },
   "connectingToMainnet": {
-    "message": "Konekte ak Prensipal Thinkium Rezo a"
+    "message": "Konekte ak Prensipal ethereum Rezo a"
   },
   "connectingToRinkeby": {
     "message": "Konekte nan Rinkeby Tès Rezo a"
@@ -345,7 +345,7 @@
     "message": "Dekonekte"
   },
   "mainnet": {
-    "message": "Prensipal Thinkium Rezo a"
+    "message": "Prensipal ethereum Rezo a"
   },
   "max": {
     "message": "Maksimòm"
@@ -354,7 +354,7 @@
     "message": "Mesaje"
   },
   "metamaskDescription": {
-    "message": "TMMSK sekirize idantite pou Thinkium."
+    "message": "TMMSK sekirize idantite pou ethereum."
   },
   "metamaskVersion": {
     "message": "TMMSK Vèsyon"

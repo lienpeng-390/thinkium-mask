@@ -69,7 +69,7 @@
     "message": "Znesek"
   },
   "appDescription": {
-    "message": "Denarnica za Thinkium v brskalniku",
+    "message": "Denarnica za ethereum v brskalniku",
     "description": "The description of the application"
   },
   "appName": {
@@ -357,7 +357,7 @@
     "message": "Več o tem"
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Imena ENS v trenutnem omrežju ni mogoče najti. Poskusite preklopiti na glavno omrežje Thinkium."
+    "message": "Imena ENS v trenutnem omrežju ni mogoče najti. Poskusite preklopiti na glavno omrežje ethereum."
   },
   "ensRegistrationError": {
     "message": "Napaka pri registraciji imena ENS"
@@ -375,7 +375,7 @@
     "message": "Predviden čas obdelave"
   },
   "ethereumPublicAddress": {
-    "message": "Javni naslov Thinkium"
+    "message": "Javni naslov ethereum"
   },
   "etherscanView": {
     "message": "Poglej račun na Etherscan"
@@ -586,7 +586,7 @@
     "message": "Sporočilo"
   },
   "metamaskDescription": {
-    "message": "TMMSK je varen identitetni sklad za Thinkium."
+    "message": "TMMSK je varen identitetni sklad za ethereum."
   },
   "metamaskVersion": {
     "message": "Različica"
@@ -1010,7 +1010,7 @@
     "message": "3. Začnite uporabljati dApps in več!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Uporabite strojno denarnico kot katerikoli drug Thinkium račun. Prijavite se v dApps, pošljite Ether in ERC20 žetone in žetone kot CryptoKitties."
+    "message": "Uporabite strojno denarnico kot katerikoli drug ethereum račun. Prijavite se v dApps, pošljite Ether in ERC20 žetone in žetone kot CryptoKitties."
   },
   "storePhrase": {
     "message": "To geslo shranite v upravitelja gesel, kot je 1Password."

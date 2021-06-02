@@ -69,7 +69,7 @@
     "message": "Ilość"
   },
   "appDescription": {
-    "message": "Wtyczka przeglądarki do Thinkium",
+    "message": "Wtyczka przeglądarki do ethereum",
     "description": "The description of the application"
   },
   "appName": {
@@ -207,7 +207,7 @@
     "message": "Łączenie z siecią testową Kovan"
   },
   "connectingToMainnet": {
-    "message": "Łączenie z główną siecią Thinkium"
+    "message": "Łączenie z główną siecią ethereum"
   },
   "connectingToRinkeby": {
     "message": "Łączenie z siecią testową Rinkeby"
@@ -357,7 +357,7 @@
     "message": "Dowiedz się więcej."
   },
   "ensNotFoundOnCurrentNetwork": {
-    "message": "Nazwa ENS nie została znaleziona w bieżącej sieci. Spróbuj przełączyć się na Główną sieć Thinkium."
+    "message": "Nazwa ENS nie została znaleziona w bieżącej sieci. Spróbuj przełączyć się na Główną sieć ethereum."
   },
   "ensRegistrationError": {
     "message": "Błąd w rejestracji nazwy ENS"
@@ -375,7 +375,7 @@
     "message": "Szacunkowy czas przetwarzania"
   },
   "ethereumPublicAddress": {
-    "message": "Adres publiczny Thinkium"
+    "message": "Adres publiczny ethereum"
   },
   "etherscanView": {
     "message": "Zobacz konto na Etherscan"
@@ -586,7 +586,7 @@
     "message": "Wyloguj się"
   },
   "mainnet": {
-    "message": "Główna sieć Thinkium"
+    "message": "Główna sieć ethereum"
   },
   "max": {
     "message": "Maks."
@@ -598,7 +598,7 @@
     "message": "Wiadomość"
   },
   "metamaskDescription": {
-    "message": "TMMSK to bezpieczny portfel dla Thinkium."
+    "message": "TMMSK to bezpieczny portfel dla ethereum."
   },
   "metamaskVersion": {
     "message": "Wersja TMMSK"
@@ -1022,7 +1022,7 @@
     "message": "3. Zacznij używać dystrybuowanych aplikacji (dApps) i wiele więcej!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Używaj swojego konta sprzętowego tak, jak używasz jakiegokolwiek konta z Thinkium. Loguj się do dystrybuowanych aplikacji (dApps), wysyłaj Eth, kupuj i przechowaj tokeny ERC20 i niewymienne tokeny, jak np. CryptoKitties."
+    "message": "Używaj swojego konta sprzętowego tak, jak używasz jakiegokolwiek konta z ethereum. Loguj się do dystrybuowanych aplikacji (dApps), wysyłaj Eth, kupuj i przechowaj tokeny ERC20 i niewymienne tokeny, jak np. CryptoKitties."
   },
   "storePhrase": {
     "message": "Przechowuj tę frazę w menedżerze haseł, takim jak 1Password."

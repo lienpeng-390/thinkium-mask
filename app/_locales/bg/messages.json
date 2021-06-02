@@ -207,7 +207,7 @@
     "message": "Свързване с тестовата мрежа на Kovan"
   },
   "connectingToMainnet": {
-    "message": "Свързване с главната мрежа Thinkium"
+    "message": "Свързване с главната мрежа ethereum"
   },
   "connectingToRinkeby": {
     "message": "Свързване с тестова мрежа на Rinkeby"
@@ -597,7 +597,7 @@
     "message": "Съобщение"
   },
   "metamaskDescription": {
-    "message": "Свързва ви с Thinkium и децентрализираната мрежа."
+    "message": "Свързва ви с ethereum и децентрализираната мрежа."
   },
   "metamaskVersion": {
     "message": "Версия на TMMSK"
@@ -1024,7 +1024,7 @@
     "message": "3. Започнете да използвате dApps и други!"
   },
   "step3HardwareWalletMsg": {
-    "message": "Използвайте хардуерния си акаунт, както бихте правили с всеки акаунт в Thinkium. Влезте в dApps, изпратете Eth, купете и съхранявайте жетони ERC20 и незаменими жетони като CryptoKitties."
+    "message": "Използвайте хардуерния си акаунт, както бихте правили с всеки акаунт в ethereum. Влезте в dApps, изпратете Eth, купете и съхранявайте жетони ERC20 и незаменими жетони като CryptoKitties."
   },
   "storePhrase": {
     "message": "Съхранявайте тази фраза в мениджър на пароли като 1Password."
