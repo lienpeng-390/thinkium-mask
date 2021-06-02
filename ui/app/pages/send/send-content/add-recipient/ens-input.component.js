@@ -12,6 +12,8 @@ import {
   isValidDomainName,
   isValidAddress,
   isValidAddressHead,
+  toAddress0x,
+  toAddressTH,
 } from '../../../../helpers/utils/util';
 import { MAINNET_NETWORK_ID } from '../../../../../../shared/constants/network';
 
@@ -143,6 +145,9 @@ export default class EnsInput extends Component {
 
   onPaste = (event) => {
     event.clipboardData.items[0].getAsString((text) => {
+      if (toAddress0x(text)) {
+        text = toAddress0x(text);
+      }
       if (isValidAddress(text)) {
         this.props.onPaste(text);
       }
@@ -157,10 +162,13 @@ export default class EnsInput extends Component {
       updateEnsResolutionError,
       onValidAddressTyped,
       internalSearch,
+      selectedAddress,
     } = this.props;
-    const input = e.target.value;
+    let input = e.target.value;
     const networkHasEnsSupport = getNetworkEnsSupport(network);
-
+    if (toAddress0x(input)) {
+      input = toAddress0x(input)
+    }
     this.setState({ input }, () => onChange(input));
     if (internalSearch) {
       return null;
@@ -168,27 +176,27 @@ export default class EnsInput extends Component {
     // Empty ENS state if input is empty
     // maybe scan ENS
 
-    // if (
-    //   !networkHasEnsSupport &&
-    //   !isValidAddress(input) &&
-    //   !isValidAddressHead(input)
-    // ) {
-    //   updateEnsResolution('');
-    //   updateEnsResolutionError(
-    //     networkHasEnsSupport ? '' : 'Network does not support ENS',
-    //   );
-    //   return null;
-    // }
+    if (
+      !networkHasEnsSupport &&
+      !isValidAddress(input) &&
+      !isValidAddressHead(input)
+    ) {
+      updateEnsResolution('');
+      updateEnsResolutionError(
+        networkHasEnsSupport ? '' : 'Network does not support ENS',
+      );
+      return null;
+    }
 
-    // if (isValidDomainName(input)) {
-    //   this.lookupEnsName(input);
-    // } else if (onValidAddressTyped && isValidAddress(input)) {
-    //   onValidAddressTyped(input);
-    // } else {
-    //   updateEnsResolution('');
-    //   updateEnsResolutionError('');
-    // }
-    // return null;
+    if (isValidDomainName(input)) {
+      this.lookupEnsName(input);
+    } else if (onValidAddressTyped && isValidAddress(input)) {
+      onValidAddressTyped(input);
+    } else {
+      updateEnsResolution('');
+      updateEnsResolutionError('');
+    }
+    return null;
   };
 
   render() {
@@ -265,6 +273,15 @@ export default class EnsInput extends Component {
                 {selectedAddress}
               </div>
             )}
+          </div>
+          <div
+            className="ens-input__wrapper__input ens-input__wrapper__input--selected"
+            placeholder={t('recipientAddress')}
+            onChange={this.onChange}
+          >
+            <div className="ens-input__selected-input__title">
+              {!name && ellipsify(toAddressTH(selectedAddress))}
+            </div>
           </div>
           <div
             className="ens-input__wrapper__action-icon ens-input__wrapper__action-icon--erase"

@@ -4,7 +4,8 @@ import BigNumber from 'bignumber.js';
 import ethUtil from 'ethereumjs-util';
 import { DateTime } from 'luxon';
 import { addHexPrefix } from '../../../../app/scripts/lib/util';
-
+const ThkWeb3 = require('thinkium-web3js')
+const web3 = new ThkWeb3()
 // formatData :: ( date: <Unix Timestamp> ) -> String
 export function formatDate(date, format = "M/d/y 'at' T") {
   return DateTime.fromMillis(date).toFormat(format);
@@ -83,6 +84,31 @@ export function addressSummary(
       )}`
     : '...';
 }
+export function toAddressTH(address){
+  if(!address){
+    console.log('传入的address为空');
+    return;
+  }
+  address = address.toLowerCase();
+  if(address.substring(0, 2) !== '0x' ){
+    console.log('转换为TH时，传入的地址不正确');
+    return '';
+  }
+  return web3.Iban.toIban(address)
+}
+
+export function toAddress0x(address){
+  if(!address){
+    console.log('传入的address为空');
+    return '';
+  }
+  address = address.toUpperCase();
+  if(!web3.Iban.isValid(address)){
+    console.log('传入的地址不正确');
+    return address;
+  }
+  return web3.Iban.toAddress(address).toLowerCase();
+}
 
 export function isValidAddress(address) {
   if (!address || address === '0x0000000000000000000000000000000000000000') {
@@ -94,6 +120,7 @@ export function isValidAddress(address) {
     ethUtil.isValidChecksumAddress(prefixed)
   );
 }
+
 
 export function isValidDomainName(address) {
   const match = punycode

@@ -23,7 +23,7 @@ const ConfirmPageContainerSummary = (props) => {
         <div className="confirm-page-container-summary__origin">{origin}</div>
       )}
       <div className="confirm-page-container-summary__action-row">
-        <div className="confirm-page-container-summary__action">{action}</div>
+        {/* <div className="confirm-page-container-summary__action">{action}</div> */}
         {nonce && (
           <div className="confirm-page-container-summary__nonce">
             {`#${nonce}`}
