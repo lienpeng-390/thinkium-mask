@@ -30,7 +30,6 @@ import { useTokenDisplayValue } from './useTokenDisplayValue';
 import { useTokenData } from './useTokenData';
 import { useSwappedTokenValue } from './useSwappedTokenValue';
 import { useCurrentAsset } from './useCurrentAsset';
-import console from 'console';
 /**
  * @typedef {Object} TransactionDisplayData
  * @property {string} title                  - primary description of the transaction
@@ -212,9 +211,8 @@ export function useTransactionDisplayData(transactionGroup) {
     recipientAddress = getTokenAddressParam(tokenData);
     subtitle = t('toAddress', [shortenAddress(recipientAddress)]);
   } else if (transactionCategory === TRANSACTION_CATEGORIES.SENT_ETHER) {
-    console.log(transactionCategory, 'transactionCategory')
     category = TRANSACTION_GROUP_CATEGORIES.SEND;
-    if(chainId == '0x2771' || chainId == '0x2772' || chainId == '0x2777') {
+    if(chainId == '0x2711' || chainId == '0x2712' || chainId == '0x2777') {
       title = t('sendTKM');
     } else {
       title = t('sendETH');
